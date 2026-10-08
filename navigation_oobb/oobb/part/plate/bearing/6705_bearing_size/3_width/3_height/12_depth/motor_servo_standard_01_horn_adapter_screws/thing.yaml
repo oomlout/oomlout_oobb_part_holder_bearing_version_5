@@ -1,0 +1,1911 @@
+bearing_size: '6705'
+bip_39_2_word_array:
+- gain
+- spring
+bip_39_2_word_no_space: gainspring
+bip_39_2_word_space: gain spring
+bip_39_2_word_underscore: gain_spring
+bip_39_3_word_array:
+- gain
+- spring
+- taxi
+bip_39_3_word_no_space: gainspringtaxi
+bip_39_3_word_space: gain spring taxi
+bip_39_3_word_underscore: gain_spring_taxi
+bip_39_full_array:
+- gain
+- spring
+- taxi
+- vivid
+- paddle
+- solution
+- bread
+- task
+- flush
+- remember
+- trumpet
+- thought
+bip_39_full_no_space: gainspringtaxivividpaddlesolutionbreadtaskflushremembertrumpetthought
+bip_39_full_space: gain spring taxi vivid paddle solution bread task flush remember
+  trumpet thought
+bip_39_full_underscore: gain_spring_taxi_vivid_paddle_solution_bread_task_flush_remember_trumpet_thought
+body: cylinder
+depth: 12
+directory: parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+extra: motor_servo_standard_01_horn_adapter_screws
+height: 3
+horn_adapter: screws
+id: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+id_no_class: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+id_no_size: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+id_no_type: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+id_oobb: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+inner_joining_rotation: 45
+kwargs:
+  bearing_size: '6705'
+  body: cylinder
+  depth: 12
+  extra: motor_servo_standard_01_horn_adapter_screws
+  filter: ''
+  height: 3
+  horn_adapter: screws
+  inner_joining_rotation: 45
+  interior_hole_positions: []
+  interior_radius_name: m3
+  joining_tangent_clearance: 0.01
+  modes:
+  - 3dpr
+  navigation: true
+  oobb_name: bearing_plate
+  oomp_description_extra: motor_servo_standard_01_shaft_motor_servo_standard_01_horn_adapter_screws_extra_12_depth
+  oomp_description_main: bearing_plate_3_width_3_height
+  oomp_mode: project
+  oomp_run: true
+  overwrite: true
+  prepare_print: true
+  print_gap: 10
+  shaft: motor_servo_standard_01
+  split: true
+  split_z: 0.5
+  typ: all
+  type: default_bearing_plate
+  width: 3
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+md5: 5eda6779fa99ed9d86def059d6b7a670
+md5_10: 5eda6779fa
+md5_10_upper: 5EDA6779FA
+md5_5: 5eda6
+md5_5_upper: 5EDA6
+md5_6: 5eda67
+md5_6_alpha: 3p8iv
+md5_6_alpha_upper: 3P8IV
+md5_6_upper: 5EDA67
+name: Oobb Part Plate Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor Servo
+  Standard 01 Horn Adapter Screws
+name_no_class: Oobb Part Plate Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth
+  Motor Servo Standard 01 Horn Adapter Screws
+name_no_size: Oobb Part Plate Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth
+  Motor Servo Standard 01 Horn Adapter Screws
+name_no_type: Oobb Part Plate Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth
+  Motor Servo Standard 01 Horn Adapter Screws
+name_proper: Oobb Part Plate Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor
+  Servo Standard 01 Horn Adapter Screws
+name_space: oobb part plate bearing 6705 bearing size 3 width 3 height 12 depth motor
+  servo standard 01 horn adapter screws
+name_upper: OOBB PART PLATE BEARING 6705 BEARING SIZE 3 WIDTH 3 HEIGHT 12 DEPTH MOTOR
+  SERVO STANDARD 01 HORN ADAPTER SCREWS
+oobb_details:
+  bearing_size: '6705'
+  body: cylinder
+  depth: 12
+  extra: motor_servo_standard_01_horn_adapter_screws
+  height: 3
+  horn_adapter: screws
+  inner_joining_rotation: 45
+  interior_hole_positions: []
+  interior_radius_name: m3
+  joining_tangent_clearance: 0.01
+  oobb_name: bearing_plate
+  prepare_print: true
+  print_gap: 10
+  shaft: motor_servo_standard_01
+  split: true
+  split_z: 0.5
+  width: 3
+oobb_name: bearing_plate
+oomlout_ai_roboclick_1:
+  actions:
+  - command: text_jinja_template
+    convert_to_pdf: false
+    convert_to_png: false
+    dict_data:
+      bearing_size: '6705'
+      body: cylinder
+      depth: 12
+      directory: parts\oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+      extra: motor_servo_standard_01_horn_adapter_screws
+      height: 3
+      horn_adapter: screws
+      id: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+      inner_joining_rotation: 45
+      name: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+      name_proper: Oobb Part Plate Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth
+        Motor Servo Standard 01 Horn Adapter Screws
+      name_space: oobb part plate bearing 6705 bearing size 3 width 3 height 12 depth
+        motor servo standard 01 horn adapter screws
+      name_upper: OOBB PART PLATE BEARING 6705 BEARING SIZE 3 WIDTH 3 HEIGHT 12 DEPTH
+        MOTOR SERVO STANDARD 01 HORN ADAPTER SCREWS
+      oobb_details:
+        bearing_size: '6705'
+        body: cylinder
+        depth: 12
+        extra: motor_servo_standard_01_horn_adapter_screws
+        height: 3
+        horn_adapter: screws
+        inner_joining_rotation: 45
+        interior_hole_positions: []
+        interior_radius_name: m3
+        joining_tangent_clearance: 0.01
+        oobb_name: bearing_plate
+        prepare_print: true
+        print_gap: 10
+        shaft: motor_servo_standard_01
+        split: true
+        split_z: 0.5
+        width: 3
+      shaft: motor_servo_standard_01
+      split_z: 0.5
+      taxonomy_1: oobb
+      taxonomy_10: ''
+      taxonomy_11: ''
+      taxonomy_12: ''
+      taxonomy_13: ''
+      taxonomy_14: ''
+      taxonomy_15: ''
+      taxonomy_2: part
+      taxonomy_3: plate
+      taxonomy_4: bearing
+      taxonomy_5: 6705_bearing_size
+      taxonomy_6: 3_width
+      taxonomy_7: 3_height
+      taxonomy_8: 12_depth
+      taxonomy_9: motor_servo_standard_01_horn_adapter_screws
+      url_chat: ''
+      width: 3
+    dict_data_files: {}
+    dict_data_files_exists: {}
+    file_output: label_oomp.svg
+    file_template: C:\gh\oomlout_oobb_part_plate_bearing_version_5\source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+    search_and_replace: []
+  file_test: label_oomp.pdf
+  retries_until_complete: 0
+oomp_key: oomp_oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+project_name: C:\gh\oomlout_oobb_part_plate_bearing_version_5
+shaft: motor_servo_standard_01
+split_z: 0.5
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: plate
+taxonomy_3_capital: Plate
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: pl
+taxonomy_3_length_3: pla
+taxonomy_3_length_4: plat
+taxonomy_3_length_5: plate
+taxonomy_3_upper: PLATE
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PL
+taxonomy_3_upper_length_3: PLA
+taxonomy_3_upper_length_4: PLAT
+taxonomy_3_upper_length_5: PLATE
+taxonomy_4: bearing
+taxonomy_4_capital: Bearing
+taxonomy_4_first_letter: b
+taxonomy_4_first_letter_upper: B
+taxonomy_4_length_1: b
+taxonomy_4_length_2: be
+taxonomy_4_length_3: bea
+taxonomy_4_length_4: bear
+taxonomy_4_length_5: beari
+taxonomy_4_upper: BEARING
+taxonomy_4_upper_length_1: B
+taxonomy_4_upper_length_2: BE
+taxonomy_4_upper_length_3: BEA
+taxonomy_4_upper_length_4: BEAR
+taxonomy_4_upper_length_5: BEARI
+taxonomy_5: 6705_bearing_size
+taxonomy_5_capital: 6705 Bearing Size
+taxonomy_5_first_letter: '6'
+taxonomy_5_first_letter_upper: '6'
+taxonomy_5_length_1: '6'
+taxonomy_5_length_2: '67'
+taxonomy_5_length_3: '670'
+taxonomy_5_length_4: '6705'
+taxonomy_5_length_5: '6705_'
+taxonomy_5_upper: 6705_BEARING_SIZE
+taxonomy_5_upper_length_1: '6'
+taxonomy_5_upper_length_2: '67'
+taxonomy_5_upper_length_3: '670'
+taxonomy_5_upper_length_4: '6705'
+taxonomy_5_upper_length_5: '6705_'
+taxonomy_6: 3_width
+taxonomy_6_capital: 3 Width
+taxonomy_6_first_letter: '3'
+taxonomy_6_first_letter_upper: '3'
+taxonomy_6_length_1: '3'
+taxonomy_6_length_2: '3_'
+taxonomy_6_length_3: 3_w
+taxonomy_6_length_4: 3_wi
+taxonomy_6_length_5: 3_wid
+taxonomy_6_upper: 3_WIDTH
+taxonomy_6_upper_length_1: '3'
+taxonomy_6_upper_length_2: '3_'
+taxonomy_6_upper_length_3: 3_W
+taxonomy_6_upper_length_4: 3_WI
+taxonomy_6_upper_length_5: 3_WID
+taxonomy_7: 3_height
+taxonomy_7_capital: 3 Height
+taxonomy_7_first_letter: '3'
+taxonomy_7_first_letter_upper: '3'
+taxonomy_7_length_1: '3'
+taxonomy_7_length_2: '3_'
+taxonomy_7_length_3: 3_h
+taxonomy_7_length_4: 3_he
+taxonomy_7_length_5: 3_hei
+taxonomy_7_upper: 3_HEIGHT
+taxonomy_7_upper_length_1: '3'
+taxonomy_7_upper_length_2: '3_'
+taxonomy_7_upper_length_3: 3_H
+taxonomy_7_upper_length_4: 3_HE
+taxonomy_7_upper_length_5: 3_HEI
+taxonomy_8: 12_depth
+taxonomy_8_capital: 12 Depth
+taxonomy_8_first_letter: '1'
+taxonomy_8_first_letter_upper: '1'
+taxonomy_8_length_1: '1'
+taxonomy_8_length_2: '12'
+taxonomy_8_length_3: '12_'
+taxonomy_8_length_4: 12_d
+taxonomy_8_length_5: 12_de
+taxonomy_8_upper: 12_DEPTH
+taxonomy_8_upper_length_1: '1'
+taxonomy_8_upper_length_2: '12'
+taxonomy_8_upper_length_3: '12_'
+taxonomy_8_upper_length_4: 12_D
+taxonomy_8_upper_length_5: 12_DE
+taxonomy_9: motor_servo_standard_01_horn_adapter_screws
+taxonomy_9_capital: Motor Servo Standard 01 Horn Adapter Screws
+taxonomy_9_first_letter: m
+taxonomy_9_first_letter_upper: M
+taxonomy_9_length_1: m
+taxonomy_9_length_2: mo
+taxonomy_9_length_3: mot
+taxonomy_9_length_4: moto
+taxonomy_9_length_5: motor
+taxonomy_9_upper: MOTOR_SERVO_STANDARD_01_HORN_ADAPTER_SCREWS
+taxonomy_9_upper_length_1: M
+taxonomy_9_upper_length_2: MO
+taxonomy_9_upper_length_3: MOT
+taxonomy_9_upper_length_4: MOTO
+taxonomy_9_upper_length_5: MOTOR
+thing:
+  bearing_size: '6705'
+  bip_39_2_word_array:
+  - gain
+  - spring
+  bip_39_2_word_no_space: gainspring
+  bip_39_2_word_space: gain spring
+  bip_39_2_word_underscore: gain_spring
+  bip_39_3_word_array:
+  - gain
+  - spring
+  - taxi
+  bip_39_3_word_no_space: gainspringtaxi
+  bip_39_3_word_space: gain spring taxi
+  bip_39_3_word_underscore: gain_spring_taxi
+  bip_39_full_array:
+  - gain
+  - spring
+  - taxi
+  - vivid
+  - paddle
+  - solution
+  - bread
+  - task
+  - flush
+  - remember
+  - trumpet
+  - thought
+  bip_39_full_no_space: gainspringtaxivividpaddlesolutionbreadtaskflushremembertrumpetthought
+  bip_39_full_space: gain spring taxi vivid paddle solution bread task flush remember
+    trumpet thought
+  bip_39_full_underscore: gain_spring_taxi_vivid_paddle_solution_bread_task_flush_remember_trumpet_thought
+  body: cylinder
+  classification: oobb
+  color: ''
+  components:
+  - inclusion: 3dpr
+    objects:
+    - inclusion: 3dpr
+      objects:
+      - - depth: 12
+          h: 12
+          height: 3
+          inclusion: laser
+          pos: &id001
+          - 0
+          - 0
+          - -6.0
+          r: 14.5
+          shape: cylinder
+          type: positive
+          width: 3
+        - depth: 12
+          h: 12
+          height: 3
+          inclusion: 3dpr
+          pos: *id001
+          r: 14.5
+          shape: cylinder
+          type: positive
+          width: 3
+        - depth: 12
+          h: 12
+          height: 3
+          inclusion: 'true'
+          pos: *id001
+          r: 14.5
+          shape: cylinder
+          type: positive
+          width: 3
+      - inclusion: 3dpr
+        objects:
+        - - depth: 3.6
+            h: 3.6
+            inclusion: laser
+            pos: &id002
+            - 0
+            - 0
+            - -1.8
+            r: 16.15
+            shape: cylinder
+            type: positive
+          - depth: 3.6
+            h: 3.6
+            inclusion: 3dpr
+            pos: *id002
+            r: 16.15
+            shape: cylinder
+            type: positive
+          - depth: 3.6
+            h: 3.6
+            inclusion: 'true'
+            pos: *id002
+            r: 16.15
+            shape: cylinder
+            type: positive
+        - - depth: 3.62
+            h: 3.62
+            inclusion: laser
+            pos: &id003
+            - 0
+            - 0
+            - -1.81
+            r: 12.5
+            shape: cylinder
+            type: negative
+          - depth: 3.62
+            h: 3.62
+            inclusion: 3dpr
+            pos: *id003
+            r: 12.5
+            shape: cylinder
+            type: negative
+          - depth: 3.62
+            h: 3.62
+            inclusion: 'true'
+            pos: *id003
+            r: 12.5
+            shape: cylinder
+            type: negative
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+      - inclusion: 3dpr
+        objects:
+        - - depth: 42
+            h: 42
+            inclusion: laser
+            pos: &id004
+            - 0
+            - 0
+            - -21.0
+            r: 14.825
+            shape: cylinder
+            type: positive
+          - depth: 42
+            h: 42
+            inclusion: 3dpr
+            pos: *id004
+            r: 14.825
+            shape: cylinder
+            type: positive
+          - depth: 42
+            h: 42
+            inclusion: 'true'
+            pos: *id004
+            r: 14.825
+            shape: cylinder
+            type: positive
+        - - depth: 42.02
+            h: 42.02
+            inclusion: laser
+            pos: &id005
+            - 0
+            - 0
+            - -21.01
+            r: 13.825
+            shape: cylinder
+            type: negative
+          - depth: 42.02
+            h: 42.02
+            inclusion: 3dpr
+            pos: *id005
+            r: 13.825
+            shape: cylinder
+            type: negative
+          - depth: 42.02
+            h: 42.02
+            inclusion: 'true'
+            pos: *id005
+            r: 13.825
+            shape: cylinder
+            type: negative
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+      - - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -15.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -15.0
+            - -15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -15.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -15.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -15.0
+            - 15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -15.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 15.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 15.0
+            - -15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 15.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 15.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 15.0
+            - 15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 15.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+      - - depth: 6
+          h: 6
+          inclusion: laser
+          pos: &id006
+          - -7.5
+          - 0
+          - -6.0
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 3dpr
+          pos: *id006
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 'true'
+          pos: *id006
+          r: 2.0
+          shape: cylinder
+          type: negative
+      - - depth: 14
+          h: 14
+          inclusion: 3dpr
+          pos:
+          - -7.5
+          - 0
+          - -7.0
+          r: 1.8
+          shape: cylinder
+          type: negative
+      - - depth: 6
+          h: 6
+          inclusion: laser
+          pos: &id007
+          - 7.5
+          - 0
+          - -6.0
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 3dpr
+          pos: *id007
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 'true'
+          pos: *id007
+          r: 2.0
+          shape: cylinder
+          type: negative
+      - - depth: 14
+          h: 14
+          inclusion: 3dpr
+          pos:
+          - 7.5
+          - 0
+          - -7.0
+          r: 1.8
+          shape: cylinder
+          type: negative
+      - - depth: 4
+          h: 4
+          inclusion: laser
+          pos: &id008
+          - 0
+          - 0
+          - -6.0
+          r1: 2.9
+          r2: 2.8
+          radius_1: 2.9
+          radius_2: 2.8
+          shape: cylinder
+          type: negative
+        - depth: 4
+          h: 4
+          inclusion: 3dpr
+          pos: *id008
+          r1: 2.9
+          r2: 2.8
+          radius_1: 2.9
+          radius_2: 2.8
+          shape: cylinder
+          type: negative
+        - depth: 4
+          h: 4
+          inclusion: 'true'
+          pos: *id008
+          r1: 2.9
+          r2: 2.8
+          radius_1: 2.9
+          radius_2: 2.8
+          shape: cylinder
+          type: negative
+      - - depth: 14
+          h: 14
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - -7.0
+          r: 1.55
+          shape: cylinder
+          type: negative
+      - - objects:
+          - - - depth: 12
+                h: 2.5
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - -2.5
+                r: 2.75
+                shape: cylinder
+                type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -14.5
+              r: 1.375
+              shape: cylinder
+              type: positive
+          - - - - - depth: 12
+                    inclusion: 3dpr
+                    pos:
+                    - -1.25
+                    - -2.75
+                    - -2.8
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 2.5
+                    - 5.5
+                    - 0.3
+                    type: positive
+            - - - - depth: 12
+                    inclusion: 3dpr
+                    pos:
+                    - -1.25
+                    - -1.25
+                    - -3.0999999999999996
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 2.5
+                    - 2.5
+                    - 0.3
+                    type: positive
+          pos:
+          - 0
+          - -7.375
+          - -6.0
+          rot:
+          - 0
+          - 180
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - - depth: 12
+                h: 2.5
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - -2.5
+                r: 2.75
+                shape: cylinder
+                type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -14.5
+              r: 1.375
+              shape: cylinder
+              type: positive
+          - - - - - depth: 12
+                    inclusion: 3dpr
+                    pos:
+                    - -1.25
+                    - -2.75
+                    - -2.8
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 2.5
+                    - 5.5
+                    - 0.3
+                    type: positive
+            - - - - depth: 12
+                    inclusion: 3dpr
+                    pos:
+                    - -1.25
+                    - -1.25
+                    - -3.0999999999999996
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 2.5
+                    - 2.5
+                    - 0.3
+                    type: positive
+          pos:
+          - 0
+          - 7.375
+          - -6.0
+          rot:
+          - 0
+          - 180
+          - 0
+          type: rotation
+          typetype: negative
+      - - inclusion: 3dpr
+          pos:
+          - -250
+          - -250
+          - 0.5
+          shape: cube
+          size:
+          - 500
+          - 500
+          - 500
+          type: negative
+      pos:
+      - 0
+      - 0
+      - 6.0
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: positive
+    - inclusion: 3dpr
+      objects:
+      - - depth: 12
+          h: 12
+          height: 3
+          inclusion: laser
+          pos: &id009
+          - 0
+          - 0
+          - -6.0
+          r: 14.5
+          shape: cylinder
+          type: positive
+          width: 3
+        - depth: 12
+          h: 12
+          height: 3
+          inclusion: 3dpr
+          pos: *id009
+          r: 14.5
+          shape: cylinder
+          type: positive
+          width: 3
+        - depth: 12
+          h: 12
+          height: 3
+          inclusion: 'true'
+          pos: *id009
+          r: 14.5
+          shape: cylinder
+          type: positive
+          width: 3
+      - inclusion: 3dpr
+        objects:
+        - - depth: 3.6
+            h: 3.6
+            inclusion: laser
+            pos: &id010
+            - 0
+            - 0
+            - -1.8
+            r: 16.15
+            shape: cylinder
+            type: positive
+          - depth: 3.6
+            h: 3.6
+            inclusion: 3dpr
+            pos: *id010
+            r: 16.15
+            shape: cylinder
+            type: positive
+          - depth: 3.6
+            h: 3.6
+            inclusion: 'true'
+            pos: *id010
+            r: 16.15
+            shape: cylinder
+            type: positive
+        - - depth: 3.62
+            h: 3.62
+            inclusion: laser
+            pos: &id011
+            - 0
+            - 0
+            - -1.81
+            r: 12.5
+            shape: cylinder
+            type: negative
+          - depth: 3.62
+            h: 3.62
+            inclusion: 3dpr
+            pos: *id011
+            r: 12.5
+            shape: cylinder
+            type: negative
+          - depth: 3.62
+            h: 3.62
+            inclusion: 'true'
+            pos: *id011
+            r: 12.5
+            shape: cylinder
+            type: negative
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+      - inclusion: 3dpr
+        objects:
+        - - depth: 42
+            h: 42
+            inclusion: laser
+            pos: &id012
+            - 0
+            - 0
+            - -21.0
+            r: 14.825
+            shape: cylinder
+            type: positive
+          - depth: 42
+            h: 42
+            inclusion: 3dpr
+            pos: *id012
+            r: 14.825
+            shape: cylinder
+            type: positive
+          - depth: 42
+            h: 42
+            inclusion: 'true'
+            pos: *id012
+            r: 14.825
+            shape: cylinder
+            type: positive
+        - - depth: 42.02
+            h: 42.02
+            inclusion: laser
+            pos: &id013
+            - 0
+            - 0
+            - -21.01
+            r: 13.825
+            shape: cylinder
+            type: negative
+          - depth: 42.02
+            h: 42.02
+            inclusion: 3dpr
+            pos: *id013
+            r: 13.825
+            shape: cylinder
+            type: negative
+          - depth: 42.02
+            h: 42.02
+            inclusion: 'true'
+            pos: *id013
+            r: 13.825
+            shape: cylinder
+            type: negative
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+      - - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -15.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -15.0
+            - -15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -15.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -15.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -15.0
+            - 15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -15.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 15.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 15.0
+            - -15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 15.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 15.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 15.0
+            - 15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 15.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+      - - depth: 6
+          h: 6
+          inclusion: laser
+          pos: &id014
+          - -7.5
+          - 0
+          - -6.0
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 3dpr
+          pos: *id014
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 'true'
+          pos: *id014
+          r: 2.0
+          shape: cylinder
+          type: negative
+      - - depth: 14
+          h: 14
+          inclusion: 3dpr
+          pos:
+          - -7.5
+          - 0
+          - -7.0
+          r: 1.8
+          shape: cylinder
+          type: negative
+      - - depth: 6
+          h: 6
+          inclusion: laser
+          pos: &id015
+          - 7.5
+          - 0
+          - -6.0
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 3dpr
+          pos: *id015
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 'true'
+          pos: *id015
+          r: 2.0
+          shape: cylinder
+          type: negative
+      - - depth: 14
+          h: 14
+          inclusion: 3dpr
+          pos:
+          - 7.5
+          - 0
+          - -7.0
+          r: 1.8
+          shape: cylinder
+          type: negative
+      - - depth: 4
+          h: 4
+          inclusion: laser
+          pos: &id016
+          - 0
+          - 0
+          - -6.0
+          r1: 2.9
+          r2: 2.8
+          radius_1: 2.9
+          radius_2: 2.8
+          shape: cylinder
+          type: negative
+        - depth: 4
+          h: 4
+          inclusion: 3dpr
+          pos: *id016
+          r1: 2.9
+          r2: 2.8
+          radius_1: 2.9
+          radius_2: 2.8
+          shape: cylinder
+          type: negative
+        - depth: 4
+          h: 4
+          inclusion: 'true'
+          pos: *id016
+          r1: 2.9
+          r2: 2.8
+          radius_1: 2.9
+          radius_2: 2.8
+          shape: cylinder
+          type: negative
+      - - depth: 14
+          h: 14
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - -7.0
+          r: 1.55
+          shape: cylinder
+          type: negative
+      - - objects:
+          - - - depth: 12
+                h: 2.5
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - -2.5
+                r: 2.75
+                shape: cylinder
+                type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -14.5
+              r: 1.375
+              shape: cylinder
+              type: positive
+          - - - - - depth: 12
+                    inclusion: 3dpr
+                    pos:
+                    - -1.25
+                    - -2.75
+                    - -2.8
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 2.5
+                    - 5.5
+                    - 0.3
+                    type: positive
+            - - - - depth: 12
+                    inclusion: 3dpr
+                    pos:
+                    - -1.25
+                    - -1.25
+                    - -3.0999999999999996
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 2.5
+                    - 2.5
+                    - 0.3
+                    type: positive
+          pos:
+          - 0
+          - -7.375
+          - -6.0
+          rot:
+          - 0
+          - 180
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - - depth: 12
+                h: 2.5
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - -2.5
+                r: 2.75
+                shape: cylinder
+                type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -14.5
+              r: 1.375
+              shape: cylinder
+              type: positive
+          - - - - - depth: 12
+                    inclusion: 3dpr
+                    pos:
+                    - -1.25
+                    - -2.75
+                    - -2.8
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 2.5
+                    - 5.5
+                    - 0.3
+                    type: positive
+            - - - - depth: 12
+                    inclusion: 3dpr
+                    pos:
+                    - -1.25
+                    - -1.25
+                    - -3.0999999999999996
+                    rotX: 0
+                    rotY: 0
+                    rotZ: 0
+                    shape: cube
+                    size:
+                    - 2.5
+                    - 2.5
+                    - 0.3
+                    type: positive
+          pos:
+          - 0
+          - 7.375
+          - -6.0
+          rot:
+          - 0
+          - 180
+          - 0
+          type: rotation
+          typetype: negative
+      - - inclusion: 3dpr
+          pos:
+          - -250
+          - -250
+          - -499.5
+          shape: cube
+          size:
+          - 500
+          - 500
+          - 500
+          type: negative
+      pos:
+      - 39.0
+      - 0
+      - 6.0
+      rot:
+      - 180
+      - 0
+      - 0
+      type: rotation
+      typetype: positive
+    pos:
+    - 0
+    - 0
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  components_objects:
+  - depth: 12
+    extra_mm: true
+    height: 3
+    holes: false
+    inclusion: 3dpr
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - 0
+    radius_name: plate_bearing_adapter_radius
+    shape: oobb_cylinder
+    type: positive
+    width: 3
+    zz: center
+  - depth: 3.6
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - 0
+    radius_name: plate_bearing_6705_od
+    shape: oobb_cylinder
+    type: positive
+    zz: center
+  - depth: 3.62
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - 0
+    radius_name: plate_bearing_6705_id
+    shape: oobb_cylinder
+    type: negative
+    zz: center
+  - depth: 42
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - 0
+    radius_name: plate_bearing_6705_relief_od
+    shape: oobb_cylinder
+    type: positive
+    zz: center
+  - depth: 42.02
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - 0
+    radius_name: plate_bearing_6705_relief_id
+    shape: oobb_cylinder
+    type: negative
+    zz: center
+  - height: 3
+    holes: perimeter_miss_middle
+    inclusion: 3dpr
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - 0
+    radius_name: m6
+    shape: oobb_holes
+    type: negative
+    width: 3
+  - depth: 6
+    mode: 3dpr
+    pos:
+    - -7.5
+    - 0
+    - -3.0
+    radius_name: plate_bearing_insert_radius
+    shape: oobb_cylinder
+    type: negative
+    zz: center
+  - depth: 14
+    mode: 3dpr
+    pos:
+    - -7.5
+    - 0
+    - -7.0
+    radius_name: m3
+    shape: oobb_hole
+    type: negative
+  - depth: 6
+    mode: 3dpr
+    pos:
+    - 7.5
+    - 0
+    - -3.0
+    radius_name: plate_bearing_insert_radius
+    shape: oobb_cylinder
+    type: negative
+    zz: center
+  - depth: 14
+    mode: 3dpr
+    pos:
+    - 7.5
+    - 0
+    - -7.0
+    radius_name: m3
+    shape: oobb_hole
+    type: negative
+  - depth: 4
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - -6.0
+    radius_1: 2.9
+    radius_2: 2.8
+    shape: oobb_cylinder
+    type: negative
+    zz: bottom
+  - depth: 14
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - -7.0
+    radius_name: m2d5
+    shape: oobb_hole
+    type: negative
+  - depth: 12
+    loose:
+    - screw
+    mode: 3dpr
+    overhang: true
+    pos:
+    - 0
+    - -7.375
+    - -6.0
+    radius_name: m2
+    rot:
+    - 0
+    - 180
+    - 0
+    shape: oobb_screw_self_tapping
+    type: negative
+    zz: top
+  - depth: 12
+    loose:
+    - screw
+    mode: 3dpr
+    overhang: true
+    pos:
+    - 0
+    - 7.375
+    - -6.0
+    radius_name: m2
+    rot:
+    - 0
+    - 180
+    - 0
+    shape: oobb_screw_self_tapping
+    type: negative
+    zz: top
+  components_string:
+  - oobb_cylinder_shape_positive_type_plate_bearing_adapter_radius_radius_name_12_depth_3_width_3_height_true_extra_mm_false_holes_center_zz_3dpr_mode
+  - oobb_holes_shape_negative_type_m6_radius_name_3_width_3_height_perimeter_miss_middle_holes_3dpr_mode
+  - oobb_cylinder_shape_negative_type_plate_bearing_insert_radius_radius_name_6_depth_-7.5_0_-3.0_pos_center_zz_3dpr_mode
+  - oobb_hole_shape_negative_type_m3_radius_name_14_depth_-7.5_0_-7.0_pos_3dpr_mode
+  - oobb_cylinder_shape_negative_type_plate_bearing_insert_radius_radius_name_6_depth_7.5_0_-3.0_pos_center_zz_3dpr_mode
+  - oobb_hole_shape_negative_type_m3_radius_name_14_depth_7.5_0_-7.0_pos_3dpr_mode
+  - oobb_cylinder_shape_negative_type_4_depth_0_0_-6.0_pos_2.9_radius_1_2.8_radius_2_bottom_zz_3dpr_mode
+  - oobb_hole_shape_negative_type_m2d5_radius_name_14_depth_0_0_-7.0_pos_3dpr_mode
+  - oobb_screw_self_tapping_shape_negative_type_m2_radius_name_12_depth_0_-7.375_-6.0_pos_0_180_0_rot_top_zz_'screw'_loose_true_overhang_3dpr_mode
+  - oobb_screw_self_tapping_shape_negative_type_m2_radius_name_12_depth_0_7.375_-6.0_pos_0_180_0_rot_top_zz_'screw'_loose_true_overhang_3dpr_mode
+  depth: 12
+  description: default bearing plate 3x3x0
+  description_extra: motor_servo_standard_01_shaft_motor_servo_standard_01_horn_adapter_screws_extra_12_depth
+  description_main: 3_width_3_height
+  directory: parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+  extra: motor_servo_standard_01_horn_adapter_screws
+  height: 3
+  height_mm: 44
+  horn_adapter: screws
+  id: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+  id_no_class: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+  id_no_size: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+  id_no_type: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+  inner_joining_rotation: 45
+  kwargs:
+    bearing_size: '6705'
+    body: cylinder
+    depth: 12
+    extra: motor_servo_standard_01_horn_adapter_screws
+    filter: ''
+    height: 3
+    horn_adapter: screws
+    inner_joining_rotation: 45
+    interior_hole_positions: []
+    interior_radius_name: m3
+    joining_tangent_clearance: 0.01
+    modes:
+    - 3dpr
+    navigation: true
+    oobb_name: bearing_plate
+    oomp_description_extra: motor_servo_standard_01_shaft_motor_servo_standard_01_horn_adapter_screws_extra_12_depth
+    oomp_description_main: bearing_plate_3_width_3_height
+    oomp_mode: project
+    oomp_run: true
+    overwrite: true
+    prepare_print: true
+    print_gap: 10
+    save_type: all
+    shaft: motor_servo_standard_01
+    split: true
+    split_z: 0.5
+    typ: all
+    type: default_bearing_plate
+    width: 3
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+  manufacturer: ''
+  md5: 5eda6779fa99ed9d86def059d6b7a670
+  md5_10: 5eda6779fa
+  md5_10_upper: 5EDA6779FA
+  md5_5: 5eda6
+  md5_5_upper: 5EDA6
+  md5_6: 5eda67
+  md5_6_alpha: 3p8iv
+  md5_6_alpha_upper: 3P8IV
+  md5_6_upper: 5EDA67
+  name: Oobb Part Plate Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor
+    Servo Standard 01 Horn Adapter Screws
+  name_no_class: Oobb Part Plate Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth
+    Motor Servo Standard 01 Horn Adapter Screws
+  name_no_size: Oobb Part Plate Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth
+    Motor Servo Standard 01 Horn Adapter Screws
+  name_no_type: Oobb Part Plate Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth
+    Motor Servo Standard 01 Horn Adapter Screws
+  name_proper: Oobb Part Plate Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth
+    Motor Servo Standard 01 Horn Adapter Screws
+  name_short: Default Bearing Plate 3x3xMotor Servo
+  name_space: oobb part plate bearing 6705 bearing size 3 width 3 height 12 depth
+    motor servo standard 01 horn adapter screws
+  name_text: Oobb Part Default Bearing Plate 3 Width 3 Height Motor Servo Standard
+    01 Shaft Motor Servo Standard 01 Horn Adapter Screws Extra 12 Depth
+  name_upper: OOBB PART PLATE BEARING 6705 BEARING SIZE 3 WIDTH 3 HEIGHT 12 DEPTH
+    MOTOR SERVO STANDARD 01 HORN ADAPTER SCREWS
+  oobb_details:
+    bearing_size: '6705'
+    body: cylinder
+    depth: 12
+    extra: motor_servo_standard_01_horn_adapter_screws
+    height: 3
+    horn_adapter: screws
+    inner_joining_rotation: 45
+    interior_hole_positions: []
+    interior_radius_name: m3
+    joining_tangent_clearance: 0.01
+    oobb_name: bearing_plate
+    prepare_print: true
+    print_gap: 10
+    shaft: motor_servo_standard_01
+    split: true
+    split_z: 0.5
+    width: 3
+  oobb_name: bearing_plate
+  oomlout_ai_roboclick_1:
+    actions:
+    - command: text_jinja_template
+      convert_to_pdf: false
+      convert_to_png: false
+      dict_data:
+        bearing_size: '6705'
+        body: cylinder
+        depth: 12
+        directory: parts\oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+        extra: motor_servo_standard_01_horn_adapter_screws
+        height: 3
+        horn_adapter: screws
+        id: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+        inner_joining_rotation: 45
+        name: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+        name_proper: Oobb Part Plate Bearing 6705 Bearing Size 3 Width 3 Height 12
+          Depth Motor Servo Standard 01 Horn Adapter Screws
+        name_space: oobb part plate bearing 6705 bearing size 3 width 3 height 12
+          depth motor servo standard 01 horn adapter screws
+        name_upper: OOBB PART PLATE BEARING 6705 BEARING SIZE 3 WIDTH 3 HEIGHT 12
+          DEPTH MOTOR SERVO STANDARD 01 HORN ADAPTER SCREWS
+        oobb_details:
+          bearing_size: '6705'
+          body: cylinder
+          depth: 12
+          extra: motor_servo_standard_01_horn_adapter_screws
+          height: 3
+          horn_adapter: screws
+          inner_joining_rotation: 45
+          interior_hole_positions: []
+          interior_radius_name: m3
+          joining_tangent_clearance: 0.01
+          oobb_name: bearing_plate
+          prepare_print: true
+          print_gap: 10
+          shaft: motor_servo_standard_01
+          split: true
+          split_z: 0.5
+          width: 3
+        shaft: motor_servo_standard_01
+        split_z: 0.5
+        taxonomy_1: oobb
+        taxonomy_10: ''
+        taxonomy_11: ''
+        taxonomy_12: ''
+        taxonomy_13: ''
+        taxonomy_14: ''
+        taxonomy_15: ''
+        taxonomy_2: part
+        taxonomy_3: plate
+        taxonomy_4: bearing
+        taxonomy_5: 6705_bearing_size
+        taxonomy_6: 3_width
+        taxonomy_7: 3_height
+        taxonomy_8: 12_depth
+        taxonomy_9: motor_servo_standard_01_horn_adapter_screws
+        url_chat: ''
+        width: 3
+      dict_data_files: {}
+      dict_data_files_exists: {}
+      file_output: label_oomp.svg
+      file_template: C:\gh\oomlout_oobb_part_plate_bearing_version_5\source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+      search_and_replace: []
+    file_test: label_oomp.pdf
+    retries_until_complete: 0
+  oomp_key: oomp_oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+  part_number: ''
+  shaft: motor_servo_standard_01
+  short_name: ''
+  size: default_bearing_plate
+  split_z: 0.5
+  taxonomy_1: oobb
+  taxonomy_10: ''
+  taxonomy_11: ''
+  taxonomy_12: ''
+  taxonomy_13: ''
+  taxonomy_14: ''
+  taxonomy_15: ''
+  taxonomy_1_capital: Oobb
+  taxonomy_1_first_letter: o
+  taxonomy_1_first_letter_upper: O
+  taxonomy_1_length_1: o
+  taxonomy_1_length_2: oo
+  taxonomy_1_length_3: oob
+  taxonomy_1_length_4: oobb
+  taxonomy_1_length_5: oobb
+  taxonomy_1_upper: OOBB
+  taxonomy_1_upper_length_1: O
+  taxonomy_1_upper_length_2: OO
+  taxonomy_1_upper_length_3: OOB
+  taxonomy_1_upper_length_4: OOBB
+  taxonomy_1_upper_length_5: OOBB
+  taxonomy_2: part
+  taxonomy_2_capital: Part
+  taxonomy_2_first_letter: p
+  taxonomy_2_first_letter_upper: P
+  taxonomy_2_length_1: p
+  taxonomy_2_length_2: pa
+  taxonomy_2_length_3: par
+  taxonomy_2_length_4: part
+  taxonomy_2_length_5: part
+  taxonomy_2_upper: PART
+  taxonomy_2_upper_length_1: P
+  taxonomy_2_upper_length_2: PA
+  taxonomy_2_upper_length_3: PAR
+  taxonomy_2_upper_length_4: PART
+  taxonomy_2_upper_length_5: PART
+  taxonomy_3: plate
+  taxonomy_3_capital: Plate
+  taxonomy_3_first_letter: p
+  taxonomy_3_first_letter_upper: P
+  taxonomy_3_length_1: p
+  taxonomy_3_length_2: pl
+  taxonomy_3_length_3: pla
+  taxonomy_3_length_4: plat
+  taxonomy_3_length_5: plate
+  taxonomy_3_upper: PLATE
+  taxonomy_3_upper_length_1: P
+  taxonomy_3_upper_length_2: PL
+  taxonomy_3_upper_length_3: PLA
+  taxonomy_3_upper_length_4: PLAT
+  taxonomy_3_upper_length_5: PLATE
+  taxonomy_4: bearing
+  taxonomy_4_capital: Bearing
+  taxonomy_4_first_letter: b
+  taxonomy_4_first_letter_upper: B
+  taxonomy_4_length_1: b
+  taxonomy_4_length_2: be
+  taxonomy_4_length_3: bea
+  taxonomy_4_length_4: bear
+  taxonomy_4_length_5: beari
+  taxonomy_4_upper: BEARING
+  taxonomy_4_upper_length_1: B
+  taxonomy_4_upper_length_2: BE
+  taxonomy_4_upper_length_3: BEA
+  taxonomy_4_upper_length_4: BEAR
+  taxonomy_4_upper_length_5: BEARI
+  taxonomy_5: 6705_bearing_size
+  taxonomy_5_capital: 6705 Bearing Size
+  taxonomy_5_first_letter: '6'
+  taxonomy_5_first_letter_upper: '6'
+  taxonomy_5_length_1: '6'
+  taxonomy_5_length_2: '67'
+  taxonomy_5_length_3: '670'
+  taxonomy_5_length_4: '6705'
+  taxonomy_5_length_5: '6705_'
+  taxonomy_5_upper: 6705_BEARING_SIZE
+  taxonomy_5_upper_length_1: '6'
+  taxonomy_5_upper_length_2: '67'
+  taxonomy_5_upper_length_3: '670'
+  taxonomy_5_upper_length_4: '6705'
+  taxonomy_5_upper_length_5: '6705_'
+  taxonomy_6: 3_width
+  taxonomy_6_capital: 3 Width
+  taxonomy_6_first_letter: '3'
+  taxonomy_6_first_letter_upper: '3'
+  taxonomy_6_length_1: '3'
+  taxonomy_6_length_2: '3_'
+  taxonomy_6_length_3: 3_w
+  taxonomy_6_length_4: 3_wi
+  taxonomy_6_length_5: 3_wid
+  taxonomy_6_upper: 3_WIDTH
+  taxonomy_6_upper_length_1: '3'
+  taxonomy_6_upper_length_2: '3_'
+  taxonomy_6_upper_length_3: 3_W
+  taxonomy_6_upper_length_4: 3_WI
+  taxonomy_6_upper_length_5: 3_WID
+  taxonomy_7: 3_height
+  taxonomy_7_capital: 3 Height
+  taxonomy_7_first_letter: '3'
+  taxonomy_7_first_letter_upper: '3'
+  taxonomy_7_length_1: '3'
+  taxonomy_7_length_2: '3_'
+  taxonomy_7_length_3: 3_h
+  taxonomy_7_length_4: 3_he
+  taxonomy_7_length_5: 3_hei
+  taxonomy_7_upper: 3_HEIGHT
+  taxonomy_7_upper_length_1: '3'
+  taxonomy_7_upper_length_2: '3_'
+  taxonomy_7_upper_length_3: 3_H
+  taxonomy_7_upper_length_4: 3_HE
+  taxonomy_7_upper_length_5: 3_HEI
+  taxonomy_8: 12_depth
+  taxonomy_8_capital: 12 Depth
+  taxonomy_8_first_letter: '1'
+  taxonomy_8_first_letter_upper: '1'
+  taxonomy_8_length_1: '1'
+  taxonomy_8_length_2: '12'
+  taxonomy_8_length_3: '12_'
+  taxonomy_8_length_4: 12_d
+  taxonomy_8_length_5: 12_de
+  taxonomy_8_upper: 12_DEPTH
+  taxonomy_8_upper_length_1: '1'
+  taxonomy_8_upper_length_2: '12'
+  taxonomy_8_upper_length_3: '12_'
+  taxonomy_8_upper_length_4: 12_D
+  taxonomy_8_upper_length_5: 12_DE
+  taxonomy_9: motor_servo_standard_01_horn_adapter_screws
+  taxonomy_9_capital: Motor Servo Standard 01 Horn Adapter Screws
+  taxonomy_9_first_letter: m
+  taxonomy_9_first_letter_upper: M
+  taxonomy_9_length_1: m
+  taxonomy_9_length_2: mo
+  taxonomy_9_length_3: mot
+  taxonomy_9_length_4: moto
+  taxonomy_9_length_5: motor
+  taxonomy_9_upper: MOTOR_SERVO_STANDARD_01_HORN_ADAPTER_SCREWS
+  taxonomy_9_upper_length_1: M
+  taxonomy_9_upper_length_2: MO
+  taxonomy_9_upper_length_3: MOT
+  taxonomy_9_upper_length_4: MOTO
+  taxonomy_9_upper_length_5: MOTOR
+  type: part
+  url_chat: ''
+  width: 3
+  width_mm: 44
+url_chat: ''
+width: 3

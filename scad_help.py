@@ -163,7 +163,7 @@ def make_parts(**kwargs):
         for part in parts:
             oobb_name = part.get("oobb_name", "default")            
             extra = part["kwargs"].get("extra", "")
-            if filter in oobb_name or filter in extra:
+            if filter in oobb_name or filter in extra or filter in part.get("id", ""):
                 print(f"making {part['oobb_name']}")
                 make_scad_generic(part)            
                 

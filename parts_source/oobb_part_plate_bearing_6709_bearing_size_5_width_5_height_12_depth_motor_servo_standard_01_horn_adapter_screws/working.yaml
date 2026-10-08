@@ -1,0 +1,55 @@
+bearing_depth: 6
+bearing_dimension_source: https://www.cxnjs.com/content/150.html
+bearing_inner_diameter: 45
+bearing_outer_diameter: 55
+bearing_print_radial_clearance: 0.2
+bearing_size: '6709'
+body: cylinder
+depth: 12
+extra: motor_servo_standard_01_horn_adapter_screws
+height: 5
+horn_adapter: screws
+id: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+inner_joining_rotation: 45
+interior_grid: 0
+oobb_details:
+  bearing_depth: 6
+  bearing_inner_diameter: 45
+  bearing_outer_diameter: 55
+  bearing_print_radial_clearance: 0.2
+  bearing_size: '6709'
+  body: cylinder
+  depth: 12
+  extra: motor_servo_standard_01_horn_adapter_screws
+  height: 5
+  horn_adapter: screws
+  inner_joining_rotation: 45
+  interior_grid: 0
+  interior_hole_positions: []
+  interior_radius_name: m3
+  joining_tangent_clearance: 0.01
+  oobb_name: bearing_plate
+  prepare_print: true
+  print_gap: 10
+  shaft: motor_servo_standard_01
+  split: true
+  split_z: 0.5
+  width: 5
+shaft: motor_servo_standard_01
+split_z: 0.5
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: plate
+taxonomy_4: bearing
+taxonomy_5: 6709_bearing_size
+taxonomy_6: 5_width
+taxonomy_7: 5_height
+taxonomy_8: 12_depth
+taxonomy_9: motor_servo_standard_01_horn_adapter_screws
+width: 5

@@ -1,0 +1,398 @@
+bearing_depth: 6
+bearing_dimension_source: https://www.cxnjs.com/content/150.html
+bearing_inner_diameter: 45
+bearing_outer_diameter: 55
+bearing_print_radial_clearance: 0.2
+bearing_size: '6709'
+bip_39_2_word_array:
+- regret
+- work
+bip_39_2_word_no_space: regretwork
+bip_39_2_word_space: regret work
+bip_39_2_word_underscore: regret_work
+bip_39_3_word_array:
+- regret
+- work
+- tortoise
+bip_39_3_word_no_space: regretworktortoise
+bip_39_3_word_space: regret work tortoise
+bip_39_3_word_underscore: regret_work_tortoise
+bip_39_full_array:
+- regret
+- work
+- tortoise
+- margin
+- ghost
+- end
+- gadget
+- fetch
+- chunk
+- caution
+- scare
+- round
+bip_39_full_no_space: regretworktortoisemarginghostendgadgetfetchchunkcautionscareround
+bip_39_full_space: regret work tortoise margin ghost end gadget fetch chunk caution
+  scare round
+bip_39_full_underscore: regret_work_tortoise_margin_ghost_end_gadget_fetch_chunk_caution_scare_round
+coupler_bolt_circle_diameter: 16
+coupler_bore: 5
+coupler_flange_depth: 2
+coupler_flange_diameter: 22
+coupler_mount_count: 4
+coupler_mount_radius_name: m3
+coupler_mount_rotation: 0
+coupler_oomp_id: mechanical_coupler_flange_name_5_mm_bore
+coupler_source: C:/od/OneDrive/docs/oomp_mechanical_coupler/source_file/dimension/flange/dimension.csv
+depth: 12
+directory: parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+extra: inside_mechanical_coupler_flange_name_5_mm_bore
+height: 5
+id: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+id_no_class: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+id_no_size: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+id_no_type: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+id_oobb: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+inner_joining_rotation: 45
+inside: flange_coupler
+interior_grid: 0
+kwargs:
+  bearing_depth: 6
+  bearing_inner_diameter: 45
+  bearing_outer_diameter: 55
+  bearing_print_radial_clearance: 0.2
+  bearing_size: '6709'
+  body: plate
+  coupler_bolt_circle_diameter: 16
+  coupler_bore: 5
+  coupler_flange_depth: 2
+  coupler_flange_diameter: 22
+  coupler_mount_count: 4
+  coupler_mount_radius_name: m3
+  coupler_mount_rotation: 0
+  coupler_oomp_id: mechanical_coupler_flange_name_5_mm_bore
+  depth: 12
+  extra: inside_mechanical_coupler_flange_name_5_mm_bore
+  filter: ''
+  height: 5
+  horn_adapter: ''
+  inner_joining_rotation: 45
+  inside: flange_coupler
+  interior_grid: 0
+  interior_hole_positions: []
+  interior_radius_name: m3
+  joining_tangent_clearance: 0.01
+  modes:
+  - 3dpr
+  navigation: true
+  oobb_name: bearing_plate
+  oomp_description_extra: m5_shaft_inside_mechanical_coupler_flange_name_5_mm_bore_extra_12_depth
+  oomp_description_main: bearing_plate_5_width_5_height
+  oomp_mode: project
+  oomp_run: true
+  overwrite: true
+  prepare_print: true
+  print_gap: 10
+  shaft: m5
+  split: true
+  split_z: 0
+  typ: all
+  type: default_bearing_plate
+  width: 5
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+md5: b4bfb39643f6189317aaaa28a497015e
+md5_10: b4bfb39643
+md5_10_upper: B4BFB39643
+md5_5: b4bfb
+md5_5_upper: B4BFB
+md5_6: b4bfb3
+md5_6_alpha: 71w37
+md5_6_alpha_upper: 71W37
+md5_6_upper: B4BFB3
+name: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Inside Mechanical
+  Coupler Flange Name 5 Mm Bore
+name_no_class: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth
+  Inside Mechanical Coupler Flange Name 5 Mm Bore
+name_no_size: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth
+  Inside Mechanical Coupler Flange Name 5 Mm Bore
+name_no_type: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth
+  Inside Mechanical Coupler Flange Name 5 Mm Bore
+name_proper: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Inside
+  Mechanical Coupler Flange Name 5 Mm Bore
+name_space: oobb part plate bearing 6709 bearing size 5 width 5 height 12 depth inside
+  mechanical coupler flange name 5 mm bore
+name_upper: OOBB PART PLATE BEARING 6709 BEARING SIZE 5 WIDTH 5 HEIGHT 12 DEPTH INSIDE
+  MECHANICAL COUPLER FLANGE NAME 5 MM BORE
+oobb_details:
+  bearing_depth: 6
+  bearing_inner_diameter: 45
+  bearing_outer_diameter: 55
+  bearing_print_radial_clearance: 0.2
+  bearing_size: '6709'
+  body: plate
+  coupler_bolt_circle_diameter: 16
+  coupler_bore: 5
+  coupler_flange_depth: 2
+  coupler_flange_diameter: 22
+  coupler_mount_count: 4
+  coupler_mount_radius_name: m3
+  coupler_mount_rotation: 0
+  coupler_oomp_id: mechanical_coupler_flange_name_5_mm_bore
+  depth: 12
+  extra: inside_mechanical_coupler_flange_name_5_mm_bore
+  height: 5
+  horn_adapter: ''
+  inner_joining_rotation: 45
+  inside: flange_coupler
+  interior_grid: 0
+  interior_hole_positions: []
+  interior_radius_name: m3
+  joining_tangent_clearance: 0.01
+  oobb_name: bearing_plate
+  prepare_print: true
+  print_gap: 10
+  shaft: m5
+  split: true
+  split_z: 0
+  width: 5
+oobb_name: bearing_plate
+oomlout_ai_roboclick_1:
+  actions:
+  - command: text_jinja_template
+    convert_to_pdf: false
+    convert_to_png: false
+    dict_data:
+      bearing_depth: 6
+      bearing_dimension_source: https://www.cxnjs.com/content/150.html
+      bearing_inner_diameter: 45
+      bearing_outer_diameter: 55
+      bearing_print_radial_clearance: 0.2
+      bearing_size: '6709'
+      coupler_bolt_circle_diameter: 16
+      coupler_bore: 5
+      coupler_flange_depth: 2
+      coupler_flange_diameter: 22
+      coupler_mount_count: 4
+      coupler_mount_radius_name: m3
+      coupler_mount_rotation: 0
+      coupler_oomp_id: mechanical_coupler_flange_name_5_mm_bore
+      coupler_source: C:/od/OneDrive/docs/oomp_mechanical_coupler/source_file/dimension/flange/dimension.csv
+      depth: 12
+      directory: parts\oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+      extra: inside_mechanical_coupler_flange_name_5_mm_bore
+      height: 5
+      id: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+      inner_joining_rotation: 45
+      inside: flange_coupler
+      interior_grid: 0
+      name: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+      name_proper: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth
+        Inside Mechanical Coupler Flange Name 5 Mm Bore
+      name_space: oobb part plate bearing 6709 bearing size 5 width 5 height 12 depth
+        inside mechanical coupler flange name 5 mm bore
+      name_upper: OOBB PART PLATE BEARING 6709 BEARING SIZE 5 WIDTH 5 HEIGHT 12 DEPTH
+        INSIDE MECHANICAL COUPLER FLANGE NAME 5 MM BORE
+      oobb_details:
+        bearing_depth: 6
+        bearing_inner_diameter: 45
+        bearing_outer_diameter: 55
+        bearing_print_radial_clearance: 0.2
+        bearing_size: '6709'
+        body: plate
+        coupler_bolt_circle_diameter: 16
+        coupler_bore: 5
+        coupler_flange_depth: 2
+        coupler_flange_diameter: 22
+        coupler_mount_count: 4
+        coupler_mount_radius_name: m3
+        coupler_mount_rotation: 0
+        coupler_oomp_id: mechanical_coupler_flange_name_5_mm_bore
+        depth: 12
+        extra: inside_mechanical_coupler_flange_name_5_mm_bore
+        height: 5
+        horn_adapter: ''
+        inner_joining_rotation: 45
+        inside: flange_coupler
+        interior_grid: 0
+        interior_hole_positions: []
+        interior_radius_name: m3
+        joining_tangent_clearance: 0.01
+        oobb_name: bearing_plate
+        prepare_print: true
+        print_gap: 10
+        shaft: m5
+        split: true
+        split_z: 0
+        width: 5
+      shaft: m5
+      taxonomy_1: oobb
+      taxonomy_10: ''
+      taxonomy_11: ''
+      taxonomy_12: ''
+      taxonomy_13: ''
+      taxonomy_14: ''
+      taxonomy_15: ''
+      taxonomy_2: part
+      taxonomy_3: plate
+      taxonomy_4: bearing
+      taxonomy_5: 6709_bearing_size
+      taxonomy_6: 5_width
+      taxonomy_7: 5_height
+      taxonomy_8: 12_depth
+      taxonomy_9: inside_mechanical_coupler_flange_name_5_mm_bore
+      url_chat: ''
+      width: 5
+    dict_data_files: {}
+    dict_data_files_exists: {}
+    file_output: label_oomp.svg
+    file_template: C:\gh\oomlout_oobb_part_plate_bearing_version_5\source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+    search_and_replace: []
+  file_test: label_oomp.pdf
+  retries_until_complete: 0
+oomp_key: oomp_oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+project_name: C:\gh\oomlout_oobb_part_plate_bearing_version_5
+shaft: m5
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: plate
+taxonomy_3_capital: Plate
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: pl
+taxonomy_3_length_3: pla
+taxonomy_3_length_4: plat
+taxonomy_3_length_5: plate
+taxonomy_3_upper: PLATE
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PL
+taxonomy_3_upper_length_3: PLA
+taxonomy_3_upper_length_4: PLAT
+taxonomy_3_upper_length_5: PLATE
+taxonomy_4: bearing
+taxonomy_4_capital: Bearing
+taxonomy_4_first_letter: b
+taxonomy_4_first_letter_upper: B
+taxonomy_4_length_1: b
+taxonomy_4_length_2: be
+taxonomy_4_length_3: bea
+taxonomy_4_length_4: bear
+taxonomy_4_length_5: beari
+taxonomy_4_upper: BEARING
+taxonomy_4_upper_length_1: B
+taxonomy_4_upper_length_2: BE
+taxonomy_4_upper_length_3: BEA
+taxonomy_4_upper_length_4: BEAR
+taxonomy_4_upper_length_5: BEARI
+taxonomy_5: 6709_bearing_size
+taxonomy_5_capital: 6709 Bearing Size
+taxonomy_5_first_letter: '6'
+taxonomy_5_first_letter_upper: '6'
+taxonomy_5_length_1: '6'
+taxonomy_5_length_2: '67'
+taxonomy_5_length_3: '670'
+taxonomy_5_length_4: '6709'
+taxonomy_5_length_5: '6709_'
+taxonomy_5_upper: 6709_BEARING_SIZE
+taxonomy_5_upper_length_1: '6'
+taxonomy_5_upper_length_2: '67'
+taxonomy_5_upper_length_3: '670'
+taxonomy_5_upper_length_4: '6709'
+taxonomy_5_upper_length_5: '6709_'
+taxonomy_6: 5_width
+taxonomy_6_capital: 5 Width
+taxonomy_6_first_letter: '5'
+taxonomy_6_first_letter_upper: '5'
+taxonomy_6_length_1: '5'
+taxonomy_6_length_2: '5_'
+taxonomy_6_length_3: 5_w
+taxonomy_6_length_4: 5_wi
+taxonomy_6_length_5: 5_wid
+taxonomy_6_upper: 5_WIDTH
+taxonomy_6_upper_length_1: '5'
+taxonomy_6_upper_length_2: '5_'
+taxonomy_6_upper_length_3: 5_W
+taxonomy_6_upper_length_4: 5_WI
+taxonomy_6_upper_length_5: 5_WID
+taxonomy_7: 5_height
+taxonomy_7_capital: 5 Height
+taxonomy_7_first_letter: '5'
+taxonomy_7_first_letter_upper: '5'
+taxonomy_7_length_1: '5'
+taxonomy_7_length_2: '5_'
+taxonomy_7_length_3: 5_h
+taxonomy_7_length_4: 5_he
+taxonomy_7_length_5: 5_hei
+taxonomy_7_upper: 5_HEIGHT
+taxonomy_7_upper_length_1: '5'
+taxonomy_7_upper_length_2: '5_'
+taxonomy_7_upper_length_3: 5_H
+taxonomy_7_upper_length_4: 5_HE
+taxonomy_7_upper_length_5: 5_HEI
+taxonomy_8: 12_depth
+taxonomy_8_capital: 12 Depth
+taxonomy_8_first_letter: '1'
+taxonomy_8_first_letter_upper: '1'
+taxonomy_8_length_1: '1'
+taxonomy_8_length_2: '12'
+taxonomy_8_length_3: '12_'
+taxonomy_8_length_4: 12_d
+taxonomy_8_length_5: 12_de
+taxonomy_8_upper: 12_DEPTH
+taxonomy_8_upper_length_1: '1'
+taxonomy_8_upper_length_2: '12'
+taxonomy_8_upper_length_3: '12_'
+taxonomy_8_upper_length_4: 12_D
+taxonomy_8_upper_length_5: 12_DE
+taxonomy_9: inside_mechanical_coupler_flange_name_5_mm_bore
+taxonomy_9_capital: Inside Mechanical Coupler Flange Name 5 mm Bore
+taxonomy_9_first_letter: i
+taxonomy_9_first_letter_upper: I
+taxonomy_9_length_1: i
+taxonomy_9_length_2: in
+taxonomy_9_length_3: ins
+taxonomy_9_length_4: insi
+taxonomy_9_length_5: insid
+taxonomy_9_upper: INSIDE_MECHANICAL_COUPLER_FLANGE_NAME_5_MM_BORE
+taxonomy_9_upper_length_1: I
+taxonomy_9_upper_length_2: IN
+taxonomy_9_upper_length_3: INS
+taxonomy_9_upper_length_4: INSI
+taxonomy_9_upper_length_5: INSID
+url_chat: ''
+width: 5

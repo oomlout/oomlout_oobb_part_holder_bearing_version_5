@@ -1,0 +1,44 @@
+bearing_size: '6705'
+body: cylinder
+depth: 12
+extra: motor_servo_standard_01_horn_adapter_screws
+height: 3
+horn_adapter: screws
+id: oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws
+inner_joining_rotation: 45
+oobb_details:
+  bearing_size: '6705'
+  body: cylinder
+  depth: 12
+  extra: motor_servo_standard_01_horn_adapter_screws
+  height: 3
+  horn_adapter: screws
+  inner_joining_rotation: 45
+  interior_hole_positions: []
+  interior_radius_name: m3
+  joining_tangent_clearance: 0.01
+  oobb_name: bearing_plate
+  prepare_print: true
+  print_gap: 10
+  shaft: motor_servo_standard_01
+  split: true
+  split_z: 0.5
+  width: 3
+shaft: motor_servo_standard_01
+split_z: 0.5
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: plate
+taxonomy_4: bearing
+taxonomy_5: 6705_bearing_size
+taxonomy_6: 3_width
+taxonomy_7: 3_height
+taxonomy_8: 12_depth
+taxonomy_9: motor_servo_standard_01_horn_adapter_screws
+width: 3

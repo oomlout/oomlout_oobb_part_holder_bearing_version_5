@@ -1,0 +1,334 @@
+bearing_size: '6704'
+bip_39_2_word_array:
+- review
+- differ
+bip_39_2_word_no_space: reviewdiffer
+bip_39_2_word_space: review differ
+bip_39_2_word_underscore: review_differ
+bip_39_3_word_array:
+- review
+- differ
+- modify
+bip_39_3_word_no_space: reviewdiffermodify
+bip_39_3_word_space: review differ modify
+bip_39_3_word_underscore: review_differ_modify
+bip_39_full_array:
+- review
+- differ
+- modify
+- head
+- weather
+- melt
+- tent
+- outer
+- mail
+- young
+- slow
+- frequent
+bip_39_full_no_space: reviewdiffermodifyheadweathermelttentoutermailyoungslowfrequent
+bip_39_full_space: review differ modify head weather melt tent outer mail young slow
+    frequent
+bip_39_full_underscore: review_differ_modify_head_weather_melt_tent_outer_mail_young_slow_frequent
+depth: 12
+design_note: '13 mm nut spacing, rotated flats, central M6 hole retained. Approximately
+    0.25 mm minimum web at print clearances: experimental, physical fit and strength
+    unverified.'
+directory: parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts
+embedded_nut_positions: &id001
+-   - -6.5
+    - 0
+-   - 6.5
+    - 0
+-   - 0
+    - -6.5
+-   - 0
+    - 6.5
+embedded_nut_rotation: 30
+embedded_nut_rotation_radial: true
+experimental: true
+extra: inside_embedded_m3_nuts
+height: 3
+id: oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts
+id_no_class: oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts
+id_no_size: oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts
+id_no_type: oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts
+inner_joining_head: socket_cap
+inner_joining_rotation: 45
+inside: embedded_m3_nuts
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts
+md5: b887ba3ab50f8b1577d4ea863feb30ae
+md5_10: b887ba3ab5
+md5_10_upper: B887BA3AB5
+md5_5: b887b
+md5_5_upper: B887B
+md5_6: b887ba
+md5_6_alpha: 777ay
+md5_6_alpha_upper: 777AY
+md5_6_upper: B887BA
+name: Oobb Part Plate Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Inside Embedded
+    M3 Nuts
+name_no_class: Oobb Part Plate Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth
+    Inside Embedded M3 Nuts
+name_no_size: Oobb Part Plate Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth
+    Inside Embedded M3 Nuts
+name_no_type: Oobb Part Plate Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth
+    Inside Embedded M3 Nuts
+name_proper: Oobb Part Plate Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Inside
+    Embedded M3 Nuts
+name_space: oobb part plate bearing 6704 bearing size 3 width 3 height 12 depth inside
+    embedded m3 nuts
+name_upper: OOBB PART PLATE BEARING 6704 BEARING SIZE 3 WIDTH 3 HEIGHT 12 DEPTH INSIDE
+    EMBEDDED M3 NUTS
+oobb_details:
+    bearing_size: '6704'
+    body: plate
+    depth: 12
+    embedded_nut_positions: *id001
+    embedded_nut_rotation: 30
+    embedded_nut_rotation_radial: true
+    extra: inside_embedded_m3_nuts
+    height: 3
+    horn_adapter: ''
+    inner_joining_head: socket_cap
+    inner_joining_rotation: 45
+    inside: embedded_m3_nuts
+    interior_hole_positions: []
+    interior_radius_name: m3
+    joining_tangent_clearance: 0.01
+    oobb_name: bearing_plate
+    prepare_print: true
+    print_gap: 10
+    shaft: m6
+    split: true
+    split_z: 0
+    width: 3
+oomlout_ai_roboclick_1:
+    actions:
+    -   command: text_jinja_template
+        convert_to_pdf: false
+        convert_to_png: false
+        dict_data:
+            bearing_size: '6704'
+            depth: 12
+            design_note: '13 mm nut spacing, rotated flats, central M6 hole retained.
+                Approximately 0.25 mm minimum web at print clearances: experimental,
+                physical fit and strength unverified.'
+            directory: parts\oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts
+            embedded_nut_positions: &id002
+            -   - -6.5
+                - 0
+            -   - 6.5
+                - 0
+            -   - 0
+                - -6.5
+            -   - 0
+                - 6.5
+            embedded_nut_rotation: 30
+            embedded_nut_rotation_radial: true
+            experimental: true
+            extra: inside_embedded_m3_nuts
+            height: 3
+            id: oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts
+            inner_joining_head: socket_cap
+            inner_joining_rotation: 45
+            inside: embedded_m3_nuts
+            name: oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts
+            name_proper: Oobb Part Plate Bearing 6704 Bearing Size 3 Width 3 Height
+                12 Depth Inside Embedded M3 Nuts
+            name_space: oobb part plate bearing 6704 bearing size 3 width 3 height
+                12 depth inside embedded m3 nuts
+            name_upper: OOBB PART PLATE BEARING 6704 BEARING SIZE 3 WIDTH 3 HEIGHT
+                12 DEPTH INSIDE EMBEDDED M3 NUTS
+            oobb_details:
+                bearing_size: '6704'
+                body: plate
+                depth: 12
+                embedded_nut_positions: *id002
+                embedded_nut_rotation: 30
+                embedded_nut_rotation_radial: true
+                extra: inside_embedded_m3_nuts
+                height: 3
+                horn_adapter: ''
+                inner_joining_head: socket_cap
+                inner_joining_rotation: 45
+                inside: embedded_m3_nuts
+                interior_hole_positions: []
+                interior_radius_name: m3
+                joining_tangent_clearance: 0.01
+                oobb_name: bearing_plate
+                prepare_print: true
+                print_gap: 10
+                shaft: m6
+                split: true
+                split_z: 0
+                width: 3
+            taxonomy_1: oobb
+            taxonomy_10: ''
+            taxonomy_11: ''
+            taxonomy_12: ''
+            taxonomy_13: ''
+            taxonomy_14: ''
+            taxonomy_15: ''
+            taxonomy_2: part
+            taxonomy_3: plate
+            taxonomy_4: bearing
+            taxonomy_5: 6704_bearing_size
+            taxonomy_6: 3_width
+            taxonomy_7: 3_height
+            taxonomy_8: 12_depth
+            taxonomy_9: inside_embedded_m3_nuts
+            url_chat: ''
+            width: 3
+        dict_data_files: {}
+        dict_data_files_exists: {}
+        file_output: label_oomp.svg
+        file_template: C:\gh\oomlout_oobb_part_plate_bearing_version_5\source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+        search_and_replace: []
+    file_test: label_oomp.pdf
+    retries_until_complete: 0
+oomp_key: oomp_oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: plate
+taxonomy_3_capital: Plate
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: pl
+taxonomy_3_length_3: pla
+taxonomy_3_length_4: plat
+taxonomy_3_length_5: plate
+taxonomy_3_upper: PLATE
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PL
+taxonomy_3_upper_length_3: PLA
+taxonomy_3_upper_length_4: PLAT
+taxonomy_3_upper_length_5: PLATE
+taxonomy_4: bearing
+taxonomy_4_capital: Bearing
+taxonomy_4_first_letter: b
+taxonomy_4_first_letter_upper: B
+taxonomy_4_length_1: b
+taxonomy_4_length_2: be
+taxonomy_4_length_3: bea
+taxonomy_4_length_4: bear
+taxonomy_4_length_5: beari
+taxonomy_4_upper: BEARING
+taxonomy_4_upper_length_1: B
+taxonomy_4_upper_length_2: BE
+taxonomy_4_upper_length_3: BEA
+taxonomy_4_upper_length_4: BEAR
+taxonomy_4_upper_length_5: BEARI
+taxonomy_5: 6704_bearing_size
+taxonomy_5_capital: 6704 Bearing Size
+taxonomy_5_first_letter: '6'
+taxonomy_5_first_letter_upper: '6'
+taxonomy_5_length_1: '6'
+taxonomy_5_length_2: '67'
+taxonomy_5_length_3: '670'
+taxonomy_5_length_4: '6704'
+taxonomy_5_length_5: '6704_'
+taxonomy_5_upper: 6704_BEARING_SIZE
+taxonomy_5_upper_length_1: '6'
+taxonomy_5_upper_length_2: '67'
+taxonomy_5_upper_length_3: '670'
+taxonomy_5_upper_length_4: '6704'
+taxonomy_5_upper_length_5: '6704_'
+taxonomy_6: 3_width
+taxonomy_6_capital: 3 Width
+taxonomy_6_first_letter: '3'
+taxonomy_6_first_letter_upper: '3'
+taxonomy_6_length_1: '3'
+taxonomy_6_length_2: '3_'
+taxonomy_6_length_3: 3_w
+taxonomy_6_length_4: 3_wi
+taxonomy_6_length_5: 3_wid
+taxonomy_6_upper: 3_WIDTH
+taxonomy_6_upper_length_1: '3'
+taxonomy_6_upper_length_2: '3_'
+taxonomy_6_upper_length_3: 3_W
+taxonomy_6_upper_length_4: 3_WI
+taxonomy_6_upper_length_5: 3_WID
+taxonomy_7: 3_height
+taxonomy_7_capital: 3 Height
+taxonomy_7_first_letter: '3'
+taxonomy_7_first_letter_upper: '3'
+taxonomy_7_length_1: '3'
+taxonomy_7_length_2: '3_'
+taxonomy_7_length_3: 3_h
+taxonomy_7_length_4: 3_he
+taxonomy_7_length_5: 3_hei
+taxonomy_7_upper: 3_HEIGHT
+taxonomy_7_upper_length_1: '3'
+taxonomy_7_upper_length_2: '3_'
+taxonomy_7_upper_length_3: 3_H
+taxonomy_7_upper_length_4: 3_HE
+taxonomy_7_upper_length_5: 3_HEI
+taxonomy_8: 12_depth
+taxonomy_8_capital: 12 Depth
+taxonomy_8_first_letter: '1'
+taxonomy_8_first_letter_upper: '1'
+taxonomy_8_length_1: '1'
+taxonomy_8_length_2: '12'
+taxonomy_8_length_3: '12_'
+taxonomy_8_length_4: 12_d
+taxonomy_8_length_5: 12_de
+taxonomy_8_upper: 12_DEPTH
+taxonomy_8_upper_length_1: '1'
+taxonomy_8_upper_length_2: '12'
+taxonomy_8_upper_length_3: '12_'
+taxonomy_8_upper_length_4: 12_D
+taxonomy_8_upper_length_5: 12_DE
+taxonomy_9: inside_embedded_m3_nuts
+taxonomy_9_capital: Inside Embedded M3 Nuts
+taxonomy_9_first_letter: i
+taxonomy_9_first_letter_upper: I
+taxonomy_9_length_1: i
+taxonomy_9_length_2: in
+taxonomy_9_length_3: ins
+taxonomy_9_length_4: insi
+taxonomy_9_length_5: insid
+taxonomy_9_upper: INSIDE_EMBEDDED_M3_NUTS
+taxonomy_9_upper_length_1: I
+taxonomy_9_upper_length_2: IN
+taxonomy_9_upper_length_3: INS
+taxonomy_9_upper_length_4: INSI
+taxonomy_9_upper_length_5: INSID
+url_chat: ''
+width: 3

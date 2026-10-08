@@ -1,0 +1,71 @@
+bearing_depth: 6
+bearing_dimension_source: https://www.cxnjs.com/content/150.html
+bearing_inner_diameter: 45
+bearing_outer_diameter: 55
+bearing_print_radial_clearance: 0.2
+bearing_size: '6709'
+coupler_bolt_circle_diameter: 16
+coupler_bore: 5
+coupler_flange_depth: 2
+coupler_flange_diameter: 22
+coupler_mount_count: 4
+coupler_mount_radius_name: m3
+coupler_mount_rotation: 0
+coupler_oomp_id: mechanical_coupler_flange_name_5_mm_bore
+coupler_source: C:/od/OneDrive/docs/oomp_mechanical_coupler/source_file/dimension/flange/dimension.csv
+depth: 12
+extra: inside_mechanical_coupler_flange_name_5_mm_bore
+height: 5
+id: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore
+inner_joining_rotation: 45
+inside: flange_coupler
+interior_grid: 0
+oobb_details:
+  bearing_depth: 6
+  bearing_inner_diameter: 45
+  bearing_outer_diameter: 55
+  bearing_print_radial_clearance: 0.2
+  bearing_size: '6709'
+  body: plate
+  coupler_bolt_circle_diameter: 16
+  coupler_bore: 5
+  coupler_flange_depth: 2
+  coupler_flange_diameter: 22
+  coupler_mount_count: 4
+  coupler_mount_radius_name: m3
+  coupler_mount_rotation: 0
+  coupler_oomp_id: mechanical_coupler_flange_name_5_mm_bore
+  depth: 12
+  extra: inside_mechanical_coupler_flange_name_5_mm_bore
+  height: 5
+  horn_adapter: ''
+  inner_joining_rotation: 45
+  inside: flange_coupler
+  interior_grid: 0
+  interior_hole_positions: []
+  interior_radius_name: m3
+  joining_tangent_clearance: 0.01
+  oobb_name: bearing_plate
+  prepare_print: true
+  print_gap: 10
+  shaft: m5
+  split: true
+  split_z: 0
+  width: 5
+shaft: m5
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: plate
+taxonomy_4: bearing
+taxonomy_5: 6709_bearing_size
+taxonomy_6: 5_width
+taxonomy_7: 5_height
+taxonomy_8: 12_depth
+taxonomy_9: inside_mechanical_coupler_flange_name_5_mm_bore
+width: 5

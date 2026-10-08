@@ -1,0 +1,4176 @@
+bearing_depth: 6
+bearing_dimension_source: https://www.cxnjs.com/content/150.html
+bearing_inner_diameter: 45
+bearing_outer_diameter: 55
+bearing_print_radial_clearance: 0.2
+bearing_size: '6709'
+bip_39_2_word_array:
+- insect
+- notice
+bip_39_2_word_no_space: insectnotice
+bip_39_2_word_space: insect notice
+bip_39_2_word_underscore: insect_notice
+bip_39_3_word_array:
+- insect
+- notice
+- torch
+bip_39_3_word_no_space: insectnoticetorch
+bip_39_3_word_space: insect notice torch
+bip_39_3_word_underscore: insect_notice_torch
+bip_39_full_array:
+- insect
+- notice
+- torch
+- nerve
+- left
+- warm
+- visit
+- clap
+- century
+- divorce
+- lyrics
+- legal
+bip_39_full_no_space: insectnoticetorchnerveleftwarmvisitclapcenturydivorcelyricslegal
+bip_39_full_space: insect notice torch nerve left warm visit clap century divorce
+  lyrics legal
+bip_39_full_underscore: insect_notice_torch_nerve_left_warm_visit_clap_century_divorce_lyrics_legal
+depth: 12
+directory: parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+extra: motor_servo_micro_01
+height: 5
+id: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+id_no_class: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+id_no_size: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+id_no_type: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+id_oobb: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+inner_joining_rotation: 45
+interior_grid: 0
+kwargs:
+  bearing_depth: 6
+  bearing_inner_diameter: 45
+  bearing_outer_diameter: 55
+  bearing_print_radial_clearance: 0.2
+  bearing_size: '6709'
+  body: plate
+  depth: 12
+  extra: motor_servo_micro_01
+  filter: ''
+  height: 5
+  horn_adapter: ''
+  inner_joining_rotation: 45
+  interior_grid: 0
+  interior_hole_positions: []
+  interior_radius_name: m3
+  joining_tangent_clearance: 0.01
+  modes:
+  - 3dpr
+  navigation: true
+  oobb_name: bearing_plate
+  oomp_description_extra: motor_servo_micro_01_shaft_motor_servo_micro_01_extra_12_depth
+  oomp_description_main: bearing_plate_5_width_5_height
+  oomp_mode: project
+  oomp_run: true
+  overwrite: true
+  prepare_print: true
+  print_gap: 10
+  shaft: motor_servo_micro_01
+  split: true
+  split_z: 0
+  typ: all
+  type: default_bearing_plate
+  width: 5
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+md5: 7512df954a37f3ee7d314e25680215bf
+md5_10: 7512df954a
+md5_10_upper: 7512DF954A
+md5_5: 7512d
+md5_5_upper: 7512D
+md5_6: 7512df
+md5_6_alpha: 4kg67
+md5_6_alpha_upper: 4KG67
+md5_6_upper: 7512DF
+name: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor Servo
+  Micro 01
+name_no_class: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth
+  Motor Servo Micro 01
+name_no_size: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth
+  Motor Servo Micro 01
+name_no_type: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth
+  Motor Servo Micro 01
+name_proper: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor
+  Servo Micro 01
+name_space: oobb part plate bearing 6709 bearing size 5 width 5 height 12 depth motor
+  servo micro 01
+name_upper: OOBB PART PLATE BEARING 6709 BEARING SIZE 5 WIDTH 5 HEIGHT 12 DEPTH MOTOR
+  SERVO MICRO 01
+oobb_details:
+  bearing_depth: 6
+  bearing_inner_diameter: 45
+  bearing_outer_diameter: 55
+  bearing_print_radial_clearance: 0.2
+  bearing_size: '6709'
+  body: plate
+  depth: 12
+  extra: motor_servo_micro_01
+  height: 5
+  horn_adapter: ''
+  inner_joining_rotation: 45
+  interior_grid: 0
+  interior_hole_positions: []
+  interior_radius_name: m3
+  joining_tangent_clearance: 0.01
+  oobb_name: bearing_plate
+  prepare_print: true
+  print_gap: 10
+  shaft: motor_servo_micro_01
+  split: true
+  split_z: 0
+  width: 5
+oobb_name: bearing_plate
+oomlout_ai_roboclick_1:
+  actions:
+  - command: text_jinja_template
+    convert_to_pdf: false
+    convert_to_png: false
+    dict_data:
+      bearing_depth: 6
+      bearing_dimension_source: https://www.cxnjs.com/content/150.html
+      bearing_inner_diameter: 45
+      bearing_outer_diameter: 55
+      bearing_print_radial_clearance: 0.2
+      bearing_size: '6709'
+      depth: 12
+      directory: parts\oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+      extra: motor_servo_micro_01
+      height: 5
+      id: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+      inner_joining_rotation: 45
+      interior_grid: 0
+      name: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+      name_proper: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth
+        Motor Servo Micro 01
+      name_space: oobb part plate bearing 6709 bearing size 5 width 5 height 12 depth
+        motor servo micro 01
+      name_upper: OOBB PART PLATE BEARING 6709 BEARING SIZE 5 WIDTH 5 HEIGHT 12 DEPTH
+        MOTOR SERVO MICRO 01
+      oobb_details:
+        bearing_depth: 6
+        bearing_inner_diameter: 45
+        bearing_outer_diameter: 55
+        bearing_print_radial_clearance: 0.2
+        bearing_size: '6709'
+        body: plate
+        depth: 12
+        extra: motor_servo_micro_01
+        height: 5
+        horn_adapter: ''
+        inner_joining_rotation: 45
+        interior_grid: 0
+        interior_hole_positions: []
+        interior_radius_name: m3
+        joining_tangent_clearance: 0.01
+        oobb_name: bearing_plate
+        prepare_print: true
+        print_gap: 10
+        shaft: motor_servo_micro_01
+        split: true
+        split_z: 0
+        width: 5
+      shaft: motor_servo_micro_01
+      taxonomy_1: oobb
+      taxonomy_10: ''
+      taxonomy_11: ''
+      taxonomy_12: ''
+      taxonomy_13: ''
+      taxonomy_14: ''
+      taxonomy_15: ''
+      taxonomy_2: part
+      taxonomy_3: plate
+      taxonomy_4: bearing
+      taxonomy_5: 6709_bearing_size
+      taxonomy_6: 5_width
+      taxonomy_7: 5_height
+      taxonomy_8: 12_depth
+      taxonomy_9: motor_servo_micro_01
+      url_chat: ''
+      width: 5
+    dict_data_files: {}
+    dict_data_files_exists: {}
+    file_output: label_oomp.svg
+    file_template: C:\gh\oomlout_oobb_part_plate_bearing_version_5\source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+    search_and_replace: []
+  file_test: label_oomp.pdf
+  retries_until_complete: 0
+oomp_key: oomp_oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+project_name: C:\gh\oomlout_oobb_part_plate_bearing_version_5
+shaft: motor_servo_micro_01
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_1_capital: Oobb
+taxonomy_1_first_letter: o
+taxonomy_1_first_letter_upper: O
+taxonomy_1_length_1: o
+taxonomy_1_length_2: oo
+taxonomy_1_length_3: oob
+taxonomy_1_length_4: oobb
+taxonomy_1_length_5: oobb
+taxonomy_1_upper: OOBB
+taxonomy_1_upper_length_1: O
+taxonomy_1_upper_length_2: OO
+taxonomy_1_upper_length_3: OOB
+taxonomy_1_upper_length_4: OOBB
+taxonomy_1_upper_length_5: OOBB
+taxonomy_2: part
+taxonomy_2_capital: Part
+taxonomy_2_first_letter: p
+taxonomy_2_first_letter_upper: P
+taxonomy_2_length_1: p
+taxonomy_2_length_2: pa
+taxonomy_2_length_3: par
+taxonomy_2_length_4: part
+taxonomy_2_length_5: part
+taxonomy_2_upper: PART
+taxonomy_2_upper_length_1: P
+taxonomy_2_upper_length_2: PA
+taxonomy_2_upper_length_3: PAR
+taxonomy_2_upper_length_4: PART
+taxonomy_2_upper_length_5: PART
+taxonomy_3: plate
+taxonomy_3_capital: Plate
+taxonomy_3_first_letter: p
+taxonomy_3_first_letter_upper: P
+taxonomy_3_length_1: p
+taxonomy_3_length_2: pl
+taxonomy_3_length_3: pla
+taxonomy_3_length_4: plat
+taxonomy_3_length_5: plate
+taxonomy_3_upper: PLATE
+taxonomy_3_upper_length_1: P
+taxonomy_3_upper_length_2: PL
+taxonomy_3_upper_length_3: PLA
+taxonomy_3_upper_length_4: PLAT
+taxonomy_3_upper_length_5: PLATE
+taxonomy_4: bearing
+taxonomy_4_capital: Bearing
+taxonomy_4_first_letter: b
+taxonomy_4_first_letter_upper: B
+taxonomy_4_length_1: b
+taxonomy_4_length_2: be
+taxonomy_4_length_3: bea
+taxonomy_4_length_4: bear
+taxonomy_4_length_5: beari
+taxonomy_4_upper: BEARING
+taxonomy_4_upper_length_1: B
+taxonomy_4_upper_length_2: BE
+taxonomy_4_upper_length_3: BEA
+taxonomy_4_upper_length_4: BEAR
+taxonomy_4_upper_length_5: BEARI
+taxonomy_5: 6709_bearing_size
+taxonomy_5_capital: 6709 Bearing Size
+taxonomy_5_first_letter: '6'
+taxonomy_5_first_letter_upper: '6'
+taxonomy_5_length_1: '6'
+taxonomy_5_length_2: '67'
+taxonomy_5_length_3: '670'
+taxonomy_5_length_4: '6709'
+taxonomy_5_length_5: '6709_'
+taxonomy_5_upper: 6709_BEARING_SIZE
+taxonomy_5_upper_length_1: '6'
+taxonomy_5_upper_length_2: '67'
+taxonomy_5_upper_length_3: '670'
+taxonomy_5_upper_length_4: '6709'
+taxonomy_5_upper_length_5: '6709_'
+taxonomy_6: 5_width
+taxonomy_6_capital: 5 Width
+taxonomy_6_first_letter: '5'
+taxonomy_6_first_letter_upper: '5'
+taxonomy_6_length_1: '5'
+taxonomy_6_length_2: '5_'
+taxonomy_6_length_3: 5_w
+taxonomy_6_length_4: 5_wi
+taxonomy_6_length_5: 5_wid
+taxonomy_6_upper: 5_WIDTH
+taxonomy_6_upper_length_1: '5'
+taxonomy_6_upper_length_2: '5_'
+taxonomy_6_upper_length_3: 5_W
+taxonomy_6_upper_length_4: 5_WI
+taxonomy_6_upper_length_5: 5_WID
+taxonomy_7: 5_height
+taxonomy_7_capital: 5 Height
+taxonomy_7_first_letter: '5'
+taxonomy_7_first_letter_upper: '5'
+taxonomy_7_length_1: '5'
+taxonomy_7_length_2: '5_'
+taxonomy_7_length_3: 5_h
+taxonomy_7_length_4: 5_he
+taxonomy_7_length_5: 5_hei
+taxonomy_7_upper: 5_HEIGHT
+taxonomy_7_upper_length_1: '5'
+taxonomy_7_upper_length_2: '5_'
+taxonomy_7_upper_length_3: 5_H
+taxonomy_7_upper_length_4: 5_HE
+taxonomy_7_upper_length_5: 5_HEI
+taxonomy_8: 12_depth
+taxonomy_8_capital: 12 Depth
+taxonomy_8_first_letter: '1'
+taxonomy_8_first_letter_upper: '1'
+taxonomy_8_length_1: '1'
+taxonomy_8_length_2: '12'
+taxonomy_8_length_3: '12_'
+taxonomy_8_length_4: 12_d
+taxonomy_8_length_5: 12_de
+taxonomy_8_upper: 12_DEPTH
+taxonomy_8_upper_length_1: '1'
+taxonomy_8_upper_length_2: '12'
+taxonomy_8_upper_length_3: '12_'
+taxonomy_8_upper_length_4: 12_D
+taxonomy_8_upper_length_5: 12_DE
+taxonomy_9: motor_servo_micro_01
+taxonomy_9_capital: Motor Servo Micro 01
+taxonomy_9_first_letter: m
+taxonomy_9_first_letter_upper: M
+taxonomy_9_length_1: m
+taxonomy_9_length_2: mo
+taxonomy_9_length_3: mot
+taxonomy_9_length_4: moto
+taxonomy_9_length_5: motor
+taxonomy_9_upper: MOTOR_SERVO_MICRO_01
+taxonomy_9_upper_length_1: M
+taxonomy_9_upper_length_2: MO
+taxonomy_9_upper_length_3: MOT
+taxonomy_9_upper_length_4: MOTO
+taxonomy_9_upper_length_5: MOTOR
+thing:
+  bearing_depth: 6
+  bearing_dimension_source: https://www.cxnjs.com/content/150.html
+  bearing_inner_diameter: 45
+  bearing_outer_diameter: 55
+  bearing_print_radial_clearance: 0.2
+  bearing_size: '6709'
+  bip_39_2_word_array:
+  - insect
+  - notice
+  bip_39_2_word_no_space: insectnotice
+  bip_39_2_word_space: insect notice
+  bip_39_2_word_underscore: insect_notice
+  bip_39_3_word_array:
+  - insect
+  - notice
+  - torch
+  bip_39_3_word_no_space: insectnoticetorch
+  bip_39_3_word_space: insect notice torch
+  bip_39_3_word_underscore: insect_notice_torch
+  bip_39_full_array:
+  - insect
+  - notice
+  - torch
+  - nerve
+  - left
+  - warm
+  - visit
+  - clap
+  - century
+  - divorce
+  - lyrics
+  - legal
+  bip_39_full_no_space: insectnoticetorchnerveleftwarmvisitclapcenturydivorcelyricslegal
+  bip_39_full_space: insect notice torch nerve left warm visit clap century divorce
+    lyrics legal
+  bip_39_full_underscore: insect_notice_torch_nerve_left_warm_visit_clap_century_divorce_lyrics_legal
+  classification: oobb
+  color: ''
+  components:
+  - inclusion: 3dpr
+    objects:
+    - inclusion: 3dpr
+      objects:
+      - - depth: 12
+          height: 5
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - -6.0
+          shape: rounded_rectangle
+          size:
+          - 75.0
+          - 75.0
+          - 12
+          type: positive
+          width: 5
+      - inclusion: 3dpr
+        objects:
+        - - depth: 6
+            h: 6
+            inclusion: laser
+            pos: &id001
+            - 0
+            - 0
+            - -3.0
+            r: 27.7
+            shape: cylinder
+            type: positive
+          - depth: 6
+            h: 6
+            inclusion: 3dpr
+            pos: *id001
+            r: 27.7
+            shape: cylinder
+            type: positive
+          - depth: 6
+            h: 6
+            inclusion: 'true'
+            pos: *id001
+            r: 27.7
+            shape: cylinder
+            type: positive
+        - - depth: 6.02
+            h: 6.02
+            inclusion: laser
+            pos: &id002
+            - 0
+            - 0
+            - -3.01
+            r: 22.5
+            shape: cylinder
+            type: negative
+          - depth: 6.02
+            h: 6.02
+            inclusion: 3dpr
+            pos: *id002
+            r: 22.5
+            shape: cylinder
+            type: negative
+          - depth: 6.02
+            h: 6.02
+            inclusion: 'true'
+            pos: *id002
+            r: 22.5
+            shape: cylinder
+            type: negative
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+      - inclusion: 3dpr
+        objects:
+        - - depth: 42
+            h: 42
+            inclusion: laser
+            pos: &id003
+            - 0
+            - 0
+            - -21.0
+            r: 25.6
+            shape: cylinder
+            type: positive
+          - depth: 42
+            h: 42
+            inclusion: 3dpr
+            pos: *id003
+            r: 25.6
+            shape: cylinder
+            type: positive
+          - depth: 42
+            h: 42
+            inclusion: 'true'
+            pos: *id003
+            r: 25.6
+            shape: cylinder
+            type: positive
+        - - depth: 42.02
+            h: 42.02
+            inclusion: laser
+            pos: &id004
+            - 0
+            - 0
+            - -21.01
+            r: 24.6
+            shape: cylinder
+            type: negative
+          - depth: 42.02
+            h: 42.02
+            inclusion: 3dpr
+            pos: *id004
+            r: 24.6
+            shape: cylinder
+            type: negative
+          - depth: 42.02
+            h: 42.02
+            inclusion: 'true'
+            pos: *id004
+            r: 24.6
+            shape: cylinder
+            type: negative
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+      - - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -30.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -30.0
+            - -30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -30.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -30.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -30.0
+            - -15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -30.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -30.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -30.0
+            - 15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -30.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -30.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -30.0
+            - 30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -30.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -15.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -15.0
+            - -30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -15.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -15.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -15.0
+            - 30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -15.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 15.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 15.0
+            - -30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 15.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 15.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 15.0
+            - 30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 15.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 30.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 30.0
+            - -30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 30.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 30.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 30.0
+            - -15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 30.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 30.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 30.0
+            - 15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 30.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 30.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 30.0
+            - 30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 30.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+      - - depth: 6
+          h: 6
+          inclusion: laser
+          pos: &id005
+          - -7.5
+          - 0
+          - -6.0
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 3dpr
+          pos: *id005
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 'true'
+          pos: *id005
+          r: 2.0
+          shape: cylinder
+          type: negative
+      - - depth: 14
+          h: 14
+          inclusion: 3dpr
+          pos:
+          - -7.5
+          - 0
+          - -7.0
+          r: 1.8
+          shape: cylinder
+          type: negative
+      - - depth: 6
+          h: 6
+          inclusion: laser
+          pos: &id006
+          - 7.5
+          - 0
+          - -6.0
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 3dpr
+          pos: *id006
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 'true'
+          pos: *id006
+          r: 2.0
+          shape: cylinder
+          type: negative
+      - - depth: 14
+          h: 14
+          inclusion: 3dpr
+          pos:
+          - 7.5
+          - 0
+          - -7.0
+          r: 1.8
+          shape: cylinder
+          type: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 30
+              type: rotation
+              typetype: positive
+          pos:
+          - 30.0
+          - 0
+          - 6.0
+          rot:
+          - 0
+          - 0
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 0
+              type: rotation
+              typetype: positive
+          pos:
+          - 0
+          - -30.0
+          - -6.0
+          rot:
+          - 0
+          - 180
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 30
+              type: rotation
+              typetype: positive
+          pos:
+          - -30.0
+          - 0
+          - 6.0
+          rot:
+          - 0
+          - 0
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 0
+              type: rotation
+              typetype: positive
+          pos:
+          - 0
+          - 30.0
+          - -6.0
+          rot:
+          - 0
+          - 180
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 45.0
+              type: rotation
+              typetype: positive
+          pos:
+          - -10.606601717798213
+          - 10.606601717798213
+          - 6.0
+          rot:
+          - 0
+          - 0
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 45.0
+              type: rotation
+              typetype: positive
+          pos:
+          - 10.606601717798213
+          - -10.606601717798213
+          - -6.0
+          rot:
+          - 0
+          - 180
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 45.0
+              type: rotation
+              typetype: positive
+          pos:
+          - 10.606601717798213
+          - 10.606601717798213
+          - 6.0
+          rot:
+          - 0
+          - 0
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 45.0
+              type: rotation
+              typetype: positive
+          pos:
+          - -10.606601717798213
+          - -10.606601717798213
+          - 6.0
+          rot:
+          - 0
+          - 0
+          - 0
+          type: rotation
+          typetype: negative
+      - - depth: 3
+          h: 3
+          inclusion: laser
+          pos: &id007
+          - 0
+          - 0
+          - -6.0
+          r1: 2.5
+          r2: 2.4
+          radius_1: 2.5
+          radius_2: 2.4
+          shape: cylinder
+          type: negative
+        - depth: 3
+          h: 3
+          inclusion: 3dpr
+          pos: *id007
+          r1: 2.5
+          r2: 2.4
+          radius_1: 2.5
+          radius_2: 2.4
+          shape: cylinder
+          type: negative
+        - depth: 3
+          h: 3
+          inclusion: 'true'
+          pos: *id007
+          r1: 2.5
+          r2: 2.4
+          radius_1: 2.5
+          radius_2: 2.4
+          shape: cylinder
+          type: negative
+      - - depth: 14
+          h: 14
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - -7.0
+          r: 1.35
+          shape: cylinder
+          type: negative
+      - - inclusion: 3dpr
+          pos:
+          - -250
+          - -250
+          - 0
+          shape: cube
+          size:
+          - 500
+          - 500
+          - 500
+          type: negative
+      pos:
+      - 0
+      - 0
+      - 6.0
+      rot:
+      - 0
+      - 0
+      - 0
+      type: rotation
+      typetype: positive
+    - inclusion: 3dpr
+      objects:
+      - - depth: 12
+          height: 5
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - -6.0
+          shape: rounded_rectangle
+          size:
+          - 75.0
+          - 75.0
+          - 12
+          type: positive
+          width: 5
+      - inclusion: 3dpr
+        objects:
+        - - depth: 6
+            h: 6
+            inclusion: laser
+            pos: &id008
+            - 0
+            - 0
+            - -3.0
+            r: 27.7
+            shape: cylinder
+            type: positive
+          - depth: 6
+            h: 6
+            inclusion: 3dpr
+            pos: *id008
+            r: 27.7
+            shape: cylinder
+            type: positive
+          - depth: 6
+            h: 6
+            inclusion: 'true'
+            pos: *id008
+            r: 27.7
+            shape: cylinder
+            type: positive
+        - - depth: 6.02
+            h: 6.02
+            inclusion: laser
+            pos: &id009
+            - 0
+            - 0
+            - -3.01
+            r: 22.5
+            shape: cylinder
+            type: negative
+          - depth: 6.02
+            h: 6.02
+            inclusion: 3dpr
+            pos: *id009
+            r: 22.5
+            shape: cylinder
+            type: negative
+          - depth: 6.02
+            h: 6.02
+            inclusion: 'true'
+            pos: *id009
+            r: 22.5
+            shape: cylinder
+            type: negative
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+      - inclusion: 3dpr
+        objects:
+        - - depth: 42
+            h: 42
+            inclusion: laser
+            pos: &id010
+            - 0
+            - 0
+            - -21.0
+            r: 25.6
+            shape: cylinder
+            type: positive
+          - depth: 42
+            h: 42
+            inclusion: 3dpr
+            pos: *id010
+            r: 25.6
+            shape: cylinder
+            type: positive
+          - depth: 42
+            h: 42
+            inclusion: 'true'
+            pos: *id010
+            r: 25.6
+            shape: cylinder
+            type: positive
+        - - depth: 42.02
+            h: 42.02
+            inclusion: laser
+            pos: &id011
+            - 0
+            - 0
+            - -21.01
+            r: 24.6
+            shape: cylinder
+            type: negative
+          - depth: 42.02
+            h: 42.02
+            inclusion: 3dpr
+            pos: *id011
+            r: 24.6
+            shape: cylinder
+            type: negative
+          - depth: 42.02
+            h: 42.02
+            inclusion: 'true'
+            pos: *id011
+            r: 24.6
+            shape: cylinder
+            type: negative
+        pos:
+        - 0
+        - 0
+        - 0
+        rot:
+        - 0
+        - 0
+        - 0
+        type: rotation
+        typetype: negative
+      - - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -30.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -30.0
+            - -30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -30.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -30.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -30.0
+            - -15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -30.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -30.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -30.0
+            - 15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -30.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -30.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -30.0
+            - 30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -30.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -15.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -15.0
+            - -30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -15.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - -15.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - -15.0
+            - 30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - -15.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 15.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 15.0
+            - -30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 15.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 15.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 15.0
+            - 30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 15.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 30.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 30.0
+            - -30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 30.0
+            - -30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 30.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 30.0
+            - -15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 30.0
+            - -15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 30.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 30.0
+            - 15.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 30.0
+            - 15.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+        - - h: 200
+            inclusion: laser
+            m: ''
+            pos:
+            - 30.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 3dpr
+            m: ''
+            pos:
+            - 30.0
+            - 30.0
+            - -100.0
+            r: 3.25
+            shape: cylinder
+            type: negative
+          - h: 200
+            inclusion: 'true'
+            m: ''
+            pos:
+            - 30.0
+            - 30.0
+            - -100.0
+            r: 3.0
+            shape: cylinder
+            type: negative
+      - - depth: 6
+          h: 6
+          inclusion: laser
+          pos: &id012
+          - -7.5
+          - 0
+          - -6.0
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 3dpr
+          pos: *id012
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 'true'
+          pos: *id012
+          r: 2.0
+          shape: cylinder
+          type: negative
+      - - depth: 14
+          h: 14
+          inclusion: 3dpr
+          pos:
+          - -7.5
+          - 0
+          - -7.0
+          r: 1.8
+          shape: cylinder
+          type: negative
+      - - depth: 6
+          h: 6
+          inclusion: laser
+          pos: &id013
+          - 7.5
+          - 0
+          - -6.0
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 3dpr
+          pos: *id013
+          r: 2.0
+          shape: cylinder
+          type: negative
+        - depth: 6
+          h: 6
+          inclusion: 'true'
+          pos: *id013
+          r: 2.0
+          shape: cylinder
+          type: negative
+      - - depth: 14
+          h: 14
+          inclusion: 3dpr
+          pos:
+          - 7.5
+          - 0
+          - -7.0
+          r: 1.8
+          shape: cylinder
+          type: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 30
+              type: rotation
+              typetype: positive
+          pos:
+          - 30.0
+          - 0
+          - 6.0
+          rot:
+          - 0
+          - 0
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 0
+              type: rotation
+              typetype: positive
+          pos:
+          - 0
+          - -30.0
+          - -6.0
+          rot:
+          - 0
+          - 180
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 30
+              type: rotation
+              typetype: positive
+          pos:
+          - -30.0
+          - 0
+          - 6.0
+          rot:
+          - 0
+          - 0
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 0
+              type: rotation
+              typetype: positive
+          pos:
+          - 0
+          - 30.0
+          - -6.0
+          rot:
+          - 0
+          - 180
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 45.0
+              type: rotation
+              typetype: positive
+          pos:
+          - -10.606601717798213
+          - 10.606601717798213
+          - 6.0
+          rot:
+          - 0
+          - 0
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 45.0
+              type: rotation
+              typetype: positive
+          pos:
+          - 10.606601717798213
+          - -10.606601717798213
+          - -6.0
+          rot:
+          - 0
+          - 180
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 45.0
+              type: rotation
+              typetype: positive
+          pos:
+          - 10.606601717798213
+          - 10.606601717798213
+          - 6.0
+          rot:
+          - 0
+          - 0
+          - 0
+          type: rotation
+          typetype: negative
+      - - objects:
+          - - depth: 12
+              h: 1.9
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -1.9
+              r1: 1.8
+              r2: 3.6
+              shape: cylinder
+              type: positive
+          - - depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - height: 3
+                inclusion: 3dpr
+                pos:
+                - 0
+                - 0
+                - 0
+                r: 3.4619999999999997
+                shape: polyg
+                sides: 6
+                type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - -0.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - -0.6
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -3.25
+                          - 3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 6.5
+                          - 0.3
+                          type: positive
+                  - - - - inclusion: 3dpr
+                          pos:
+                          - -1.75
+                          - -1.75
+                          - 3.3
+                          rotX: 0
+                          rotY: 0
+                          rotZ: 0
+                          shape: cube
+                          size:
+                          - 3.5
+                          - 3.5
+                          - 0.3
+                          type: positive
+              - - h: 200
+                  inclusion: 3dpr
+                  pos:
+                  - 0
+                  - 0
+                  - -100.0
+                  r: 1.8
+                  shape: cylinder
+                  type: positive
+              pos:
+              - 0
+              - 0
+              - -12.0
+              rot:
+              - 0
+              - 0
+              - 45.0
+              type: rotation
+              typetype: positive
+          pos:
+          - -10.606601717798213
+          - -10.606601717798213
+          - 6.0
+          rot:
+          - 0
+          - 0
+          - 0
+          type: rotation
+          typetype: negative
+      - - depth: 3
+          h: 3
+          inclusion: laser
+          pos: &id014
+          - 0
+          - 0
+          - -6.0
+          r1: 2.5
+          r2: 2.4
+          radius_1: 2.5
+          radius_2: 2.4
+          shape: cylinder
+          type: negative
+        - depth: 3
+          h: 3
+          inclusion: 3dpr
+          pos: *id014
+          r1: 2.5
+          r2: 2.4
+          radius_1: 2.5
+          radius_2: 2.4
+          shape: cylinder
+          type: negative
+        - depth: 3
+          h: 3
+          inclusion: 'true'
+          pos: *id014
+          r1: 2.5
+          r2: 2.4
+          radius_1: 2.5
+          radius_2: 2.4
+          shape: cylinder
+          type: negative
+      - - depth: 14
+          h: 14
+          inclusion: 3dpr
+          pos:
+          - 0
+          - 0
+          - -7.0
+          r: 1.35
+          shape: cylinder
+          type: negative
+      - - inclusion: 3dpr
+          pos:
+          - -250
+          - -250
+          - -500
+          shape: cube
+          size:
+          - 500
+          - 500
+          - 500
+          type: negative
+      pos:
+      - 85
+      - 0
+      - 6.0
+      rot:
+      - 180
+      - 0
+      - 0
+      type: rotation
+      typetype: positive
+    pos:
+    - 0
+    - 0
+    - 0
+    rot:
+    - 0
+    - 0
+    - 0
+    type: rotation
+    typetype: positive
+  components_objects:
+  - depth: 12
+    extra_mm: true
+    height: 5
+    holes: false
+    inclusion: 3dpr
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - 0
+    shape: oobb_plate
+    type: positive
+    width: 5
+    zz: middle
+  - depth: 6
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - 0
+    radius_name: plate_bearing_6709_od
+    shape: oobb_cylinder
+    type: positive
+    zz: center
+  - depth: 6.02
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - 0
+    radius_name: plate_bearing_6709_id
+    shape: oobb_cylinder
+    type: negative
+    zz: center
+  - depth: 42
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - 0
+    radius_name: plate_bearing_6709_relief_od
+    shape: oobb_cylinder
+    type: positive
+    zz: center
+  - depth: 42.02
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - 0
+    radius_name: plate_bearing_6709_relief_id
+    shape: oobb_cylinder
+    type: negative
+    zz: center
+  - height: 5
+    holes: perimeter_miss_middle
+    inclusion: 3dpr
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - 0
+    radius_name: m6
+    shape: oobb_holes
+    type: negative
+    width: 5
+  - depth: 6
+    mode: 3dpr
+    pos:
+    - -7.5
+    - 0
+    - -3.0
+    radius_name: plate_bearing_insert_radius
+    shape: oobb_cylinder
+    type: negative
+    zz: center
+  - depth: 14
+    mode: 3dpr
+    pos:
+    - -7.5
+    - 0
+    - -7.0
+    radius_name: m3
+    shape: oobb_hole
+    type: negative
+  - depth: 6
+    mode: 3dpr
+    pos:
+    - 7.5
+    - 0
+    - -3.0
+    radius_name: plate_bearing_insert_radius
+    shape: oobb_cylinder
+    type: negative
+    zz: center
+  - depth: 14
+    mode: 3dpr
+    pos:
+    - 7.5
+    - 0
+    - -7.0
+    radius_name: m3
+    shape: oobb_hole
+    type: negative
+  - depth: 12
+    hole: true
+    mode: 3dpr
+    nut_include: true
+    overhang: true
+    pos:
+    - 30.0
+    - 0
+    - 6.0
+    radius_name: m3
+    rot:
+    - 0
+    - 0
+    - 0
+    rotation_nut:
+    - 0
+    - 0
+    - 30
+    shape: oobb_screw_countersunk
+    type: negative
+  - depth: 12
+    hole: true
+    mode: 3dpr
+    nut_include: true
+    overhang: true
+    pos:
+    - 0
+    - -30.0
+    - -6.0
+    radius_name: m3
+    rot:
+    - 0
+    - 180
+    - 0
+    rotation_nut:
+    - 0
+    - 0
+    - 0
+    shape: oobb_screw_countersunk
+    type: negative
+  - depth: 12
+    hole: true
+    mode: 3dpr
+    nut_include: true
+    overhang: true
+    pos:
+    - -30.0
+    - 0
+    - 6.0
+    radius_name: m3
+    rot:
+    - 0
+    - 0
+    - 0
+    rotation_nut:
+    - 0
+    - 0
+    - 30
+    shape: oobb_screw_countersunk
+    type: negative
+  - depth: 12
+    hole: true
+    mode: 3dpr
+    nut_include: true
+    overhang: true
+    pos:
+    - 0
+    - 30.0
+    - -6.0
+    radius_name: m3
+    rot:
+    - 0
+    - 180
+    - 0
+    rotation_nut:
+    - 0
+    - 0
+    - 0
+    shape: oobb_screw_countersunk
+    type: negative
+  - depth: 12
+    hole: true
+    mode: 3dpr
+    nut_include: true
+    overhang: true
+    pos:
+    - -10.606601717798213
+    - 10.606601717798213
+    - 6.0
+    radius_name: m3
+    rot:
+    - 0
+    - 0
+    - 0
+    rotation_nut:
+    - 0
+    - 0
+    - 45.0
+    shape: oobb_screw_countersunk
+    type: negative
+  - depth: 12
+    hole: true
+    mode: 3dpr
+    nut_include: true
+    overhang: true
+    pos:
+    - 10.606601717798213
+    - -10.606601717798213
+    - -6.0
+    radius_name: m3
+    rot:
+    - 0
+    - 180
+    - 0
+    rotation_nut:
+    - 0
+    - 0
+    - 45.0
+    shape: oobb_screw_countersunk
+    type: negative
+  - depth: 12
+    hole: true
+    mode: 3dpr
+    nut_include: true
+    overhang: true
+    pos:
+    - 10.606601717798213
+    - 10.606601717798213
+    - 6.0
+    radius_name: m3
+    rot:
+    - 0
+    - 0
+    - 0
+    rotation_nut:
+    - 0
+    - 0
+    - 45.0
+    shape: oobb_screw_countersunk
+    type: negative
+  - depth: 12
+    hole: true
+    mode: 3dpr
+    nut_include: true
+    overhang: true
+    pos:
+    - -10.606601717798213
+    - -10.606601717798213
+    - 6.0
+    radius_name: m3
+    rot:
+    - 0
+    - 0
+    - 0
+    rotation_nut:
+    - 0
+    - 0
+    - 45.0
+    shape: oobb_screw_countersunk
+    type: negative
+  - depth: 3
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - -6.0
+    radius_1: 2.5
+    radius_2: 2.4
+    shape: oobb_cylinder
+    type: negative
+    zz: bottom
+  - depth: 14
+    mode: 3dpr
+    pos:
+    - 0
+    - 0
+    - -7.0
+    radius_name: m2
+    shape: oobb_hole
+    type: negative
+  components_string:
+  - oobb_plate_shape_positive_type_12_depth_5_width_5_height_true_extra_mm_false_holes_middle_zz_3dpr_mode
+  - oobb_holes_shape_negative_type_m6_radius_name_5_width_5_height_perimeter_miss_middle_holes_3dpr_mode
+  - oobb_cylinder_shape_negative_type_plate_bearing_insert_radius_radius_name_6_depth_-7.5_0_-3.0_pos_center_zz_3dpr_mode
+  - oobb_hole_shape_negative_type_m3_radius_name_14_depth_-7.5_0_-7.0_pos_3dpr_mode
+  - oobb_cylinder_shape_negative_type_plate_bearing_insert_radius_radius_name_6_depth_7.5_0_-3.0_pos_center_zz_3dpr_mode
+  - oobb_hole_shape_negative_type_m3_radius_name_14_depth_7.5_0_-7.0_pos_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_30.0_0_6.0_pos_0_0_0_rot_0_0_30_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_0_-30.0_-6.0_pos_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_-30.0_0_6.0_pos_0_0_0_rot_0_0_30_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_0_30.0_-6.0_pos_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_-10.606601717798213_10.606601717798213_6.0_pos_0_0_0_rot_0_0_45.0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_10.606601717798213_-10.606601717798213_-6.0_pos_0_180_0_rot_0_0_45.0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_10.606601717798213_10.606601717798213_6.0_pos_0_0_0_rot_0_0_45.0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_-10.606601717798213_-10.606601717798213_6.0_pos_0_0_0_rot_0_0_45.0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_cylinder_shape_negative_type_3_depth_0_0_-6.0_pos_2.5_radius_1_2.4_radius_2_bottom_zz_3dpr_mode
+  - oobb_hole_shape_negative_type_m2_radius_name_14_depth_0_0_-7.0_pos_3dpr_mode
+  depth: 12
+  description: default bearing plate 5x5x0
+  description_extra: motor_servo_micro_01_shaft_motor_servo_micro_01_extra_12_depth
+  description_main: 5_width_5_height
+  directory: parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+  extra: motor_servo_micro_01
+  height: 5
+  height_mm: 74
+  id: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+  id_no_class: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+  id_no_size: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+  id_no_type: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+  inner_joining_rotation: 45
+  interior_grid: 0
+  kwargs:
+    bearing_depth: 6
+    bearing_inner_diameter: 45
+    bearing_outer_diameter: 55
+    bearing_print_radial_clearance: 0.2
+    bearing_size: '6709'
+    body: plate
+    depth: 12
+    extra: motor_servo_micro_01
+    filter: ''
+    height: 5
+    horn_adapter: ''
+    inner_joining_rotation: 45
+    interior_grid: 0
+    interior_hole_positions: []
+    interior_radius_name: m3
+    joining_tangent_clearance: 0.01
+    modes:
+    - 3dpr
+    navigation: true
+    oobb_name: bearing_plate
+    oomp_description_extra: motor_servo_micro_01_shaft_motor_servo_micro_01_extra_12_depth
+    oomp_description_main: bearing_plate_5_width_5_height
+    oomp_mode: project
+    oomp_run: true
+    overwrite: true
+    prepare_print: true
+    print_gap: 10
+    save_type: all
+    shaft: motor_servo_micro_01
+    split: true
+    split_z: 0
+    typ: all
+    type: default_bearing_plate
+    width: 5
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+  manufacturer: ''
+  md5: 7512df954a37f3ee7d314e25680215bf
+  md5_10: 7512df954a
+  md5_10_upper: 7512DF954A
+  md5_5: 7512d
+  md5_5_upper: 7512D
+  md5_6: 7512df
+  md5_6_alpha: 4kg67
+  md5_6_alpha_upper: 4KG67
+  md5_6_upper: 7512DF
+  name: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor
+    Servo Micro 01
+  name_no_class: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth
+    Motor Servo Micro 01
+  name_no_size: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth
+    Motor Servo Micro 01
+  name_no_type: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth
+    Motor Servo Micro 01
+  name_proper: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth
+    Motor Servo Micro 01
+  name_short: Default Bearing Plate 5x5xMotor Servo
+  name_space: oobb part plate bearing 6709 bearing size 5 width 5 height 12 depth
+    motor servo micro 01
+  name_text: Oobb Part Default Bearing Plate 5 Width 5 Height Motor Servo Micro 01
+    Shaft Motor Servo Micro 01 Extra 12 Depth
+  name_upper: OOBB PART PLATE BEARING 6709 BEARING SIZE 5 WIDTH 5 HEIGHT 12 DEPTH
+    MOTOR SERVO MICRO 01
+  oobb_details:
+    bearing_depth: 6
+    bearing_inner_diameter: 45
+    bearing_outer_diameter: 55
+    bearing_print_radial_clearance: 0.2
+    bearing_size: '6709'
+    body: plate
+    depth: 12
+    extra: motor_servo_micro_01
+    height: 5
+    horn_adapter: ''
+    inner_joining_rotation: 45
+    interior_grid: 0
+    interior_hole_positions: []
+    interior_radius_name: m3
+    joining_tangent_clearance: 0.01
+    oobb_name: bearing_plate
+    prepare_print: true
+    print_gap: 10
+    shaft: motor_servo_micro_01
+    split: true
+    split_z: 0
+    width: 5
+  oobb_name: bearing_plate
+  oomlout_ai_roboclick_1:
+    actions:
+    - command: text_jinja_template
+      convert_to_pdf: false
+      convert_to_png: false
+      dict_data:
+        bearing_depth: 6
+        bearing_dimension_source: https://www.cxnjs.com/content/150.html
+        bearing_inner_diameter: 45
+        bearing_outer_diameter: 55
+        bearing_print_radial_clearance: 0.2
+        bearing_size: '6709'
+        depth: 12
+        directory: parts\oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+        extra: motor_servo_micro_01
+        height: 5
+        id: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+        inner_joining_rotation: 45
+        interior_grid: 0
+        name: oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+        name_proper: Oobb Part Plate Bearing 6709 Bearing Size 5 Width 5 Height 12
+          Depth Motor Servo Micro 01
+        name_space: oobb part plate bearing 6709 bearing size 5 width 5 height 12
+          depth motor servo micro 01
+        name_upper: OOBB PART PLATE BEARING 6709 BEARING SIZE 5 WIDTH 5 HEIGHT 12
+          DEPTH MOTOR SERVO MICRO 01
+        oobb_details:
+          bearing_depth: 6
+          bearing_inner_diameter: 45
+          bearing_outer_diameter: 55
+          bearing_print_radial_clearance: 0.2
+          bearing_size: '6709'
+          body: plate
+          depth: 12
+          extra: motor_servo_micro_01
+          height: 5
+          horn_adapter: ''
+          inner_joining_rotation: 45
+          interior_grid: 0
+          interior_hole_positions: []
+          interior_radius_name: m3
+          joining_tangent_clearance: 0.01
+          oobb_name: bearing_plate
+          prepare_print: true
+          print_gap: 10
+          shaft: motor_servo_micro_01
+          split: true
+          split_z: 0
+          width: 5
+        shaft: motor_servo_micro_01
+        taxonomy_1: oobb
+        taxonomy_10: ''
+        taxonomy_11: ''
+        taxonomy_12: ''
+        taxonomy_13: ''
+        taxonomy_14: ''
+        taxonomy_15: ''
+        taxonomy_2: part
+        taxonomy_3: plate
+        taxonomy_4: bearing
+        taxonomy_5: 6709_bearing_size
+        taxonomy_6: 5_width
+        taxonomy_7: 5_height
+        taxonomy_8: 12_depth
+        taxonomy_9: motor_servo_micro_01
+        url_chat: ''
+        width: 5
+      dict_data_files: {}
+      dict_data_files_exists: {}
+      file_output: label_oomp.svg
+      file_template: C:\gh\oomlout_oobb_part_plate_bearing_version_5\source_file\template_jinja\template_jinja_label_oomlout_76_2_mm_50_8_mm\working.svg.j2
+      search_and_replace: []
+    file_test: label_oomp.pdf
+    retries_until_complete: 0
+  oomp_key: oomp_oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01
+  part_number: ''
+  shaft: motor_servo_micro_01
+  short_name: ''
+  size: default_bearing_plate
+  taxonomy_1: oobb
+  taxonomy_10: ''
+  taxonomy_11: ''
+  taxonomy_12: ''
+  taxonomy_13: ''
+  taxonomy_14: ''
+  taxonomy_15: ''
+  taxonomy_1_capital: Oobb
+  taxonomy_1_first_letter: o
+  taxonomy_1_first_letter_upper: O
+  taxonomy_1_length_1: o
+  taxonomy_1_length_2: oo
+  taxonomy_1_length_3: oob
+  taxonomy_1_length_4: oobb
+  taxonomy_1_length_5: oobb
+  taxonomy_1_upper: OOBB
+  taxonomy_1_upper_length_1: O
+  taxonomy_1_upper_length_2: OO
+  taxonomy_1_upper_length_3: OOB
+  taxonomy_1_upper_length_4: OOBB
+  taxonomy_1_upper_length_5: OOBB
+  taxonomy_2: part
+  taxonomy_2_capital: Part
+  taxonomy_2_first_letter: p
+  taxonomy_2_first_letter_upper: P
+  taxonomy_2_length_1: p
+  taxonomy_2_length_2: pa
+  taxonomy_2_length_3: par
+  taxonomy_2_length_4: part
+  taxonomy_2_length_5: part
+  taxonomy_2_upper: PART
+  taxonomy_2_upper_length_1: P
+  taxonomy_2_upper_length_2: PA
+  taxonomy_2_upper_length_3: PAR
+  taxonomy_2_upper_length_4: PART
+  taxonomy_2_upper_length_5: PART
+  taxonomy_3: plate
+  taxonomy_3_capital: Plate
+  taxonomy_3_first_letter: p
+  taxonomy_3_first_letter_upper: P
+  taxonomy_3_length_1: p
+  taxonomy_3_length_2: pl
+  taxonomy_3_length_3: pla
+  taxonomy_3_length_4: plat
+  taxonomy_3_length_5: plate
+  taxonomy_3_upper: PLATE
+  taxonomy_3_upper_length_1: P
+  taxonomy_3_upper_length_2: PL
+  taxonomy_3_upper_length_3: PLA
+  taxonomy_3_upper_length_4: PLAT
+  taxonomy_3_upper_length_5: PLATE
+  taxonomy_4: bearing
+  taxonomy_4_capital: Bearing
+  taxonomy_4_first_letter: b
+  taxonomy_4_first_letter_upper: B
+  taxonomy_4_length_1: b
+  taxonomy_4_length_2: be
+  taxonomy_4_length_3: bea
+  taxonomy_4_length_4: bear
+  taxonomy_4_length_5: beari
+  taxonomy_4_upper: BEARING
+  taxonomy_4_upper_length_1: B
+  taxonomy_4_upper_length_2: BE
+  taxonomy_4_upper_length_3: BEA
+  taxonomy_4_upper_length_4: BEAR
+  taxonomy_4_upper_length_5: BEARI
+  taxonomy_5: 6709_bearing_size
+  taxonomy_5_capital: 6709 Bearing Size
+  taxonomy_5_first_letter: '6'
+  taxonomy_5_first_letter_upper: '6'
+  taxonomy_5_length_1: '6'
+  taxonomy_5_length_2: '67'
+  taxonomy_5_length_3: '670'
+  taxonomy_5_length_4: '6709'
+  taxonomy_5_length_5: '6709_'
+  taxonomy_5_upper: 6709_BEARING_SIZE
+  taxonomy_5_upper_length_1: '6'
+  taxonomy_5_upper_length_2: '67'
+  taxonomy_5_upper_length_3: '670'
+  taxonomy_5_upper_length_4: '6709'
+  taxonomy_5_upper_length_5: '6709_'
+  taxonomy_6: 5_width
+  taxonomy_6_capital: 5 Width
+  taxonomy_6_first_letter: '5'
+  taxonomy_6_first_letter_upper: '5'
+  taxonomy_6_length_1: '5'
+  taxonomy_6_length_2: '5_'
+  taxonomy_6_length_3: 5_w
+  taxonomy_6_length_4: 5_wi
+  taxonomy_6_length_5: 5_wid
+  taxonomy_6_upper: 5_WIDTH
+  taxonomy_6_upper_length_1: '5'
+  taxonomy_6_upper_length_2: '5_'
+  taxonomy_6_upper_length_3: 5_W
+  taxonomy_6_upper_length_4: 5_WI
+  taxonomy_6_upper_length_5: 5_WID
+  taxonomy_7: 5_height
+  taxonomy_7_capital: 5 Height
+  taxonomy_7_first_letter: '5'
+  taxonomy_7_first_letter_upper: '5'
+  taxonomy_7_length_1: '5'
+  taxonomy_7_length_2: '5_'
+  taxonomy_7_length_3: 5_h
+  taxonomy_7_length_4: 5_he
+  taxonomy_7_length_5: 5_hei
+  taxonomy_7_upper: 5_HEIGHT
+  taxonomy_7_upper_length_1: '5'
+  taxonomy_7_upper_length_2: '5_'
+  taxonomy_7_upper_length_3: 5_H
+  taxonomy_7_upper_length_4: 5_HE
+  taxonomy_7_upper_length_5: 5_HEI
+  taxonomy_8: 12_depth
+  taxonomy_8_capital: 12 Depth
+  taxonomy_8_first_letter: '1'
+  taxonomy_8_first_letter_upper: '1'
+  taxonomy_8_length_1: '1'
+  taxonomy_8_length_2: '12'
+  taxonomy_8_length_3: '12_'
+  taxonomy_8_length_4: 12_d
+  taxonomy_8_length_5: 12_de
+  taxonomy_8_upper: 12_DEPTH
+  taxonomy_8_upper_length_1: '1'
+  taxonomy_8_upper_length_2: '12'
+  taxonomy_8_upper_length_3: '12_'
+  taxonomy_8_upper_length_4: 12_D
+  taxonomy_8_upper_length_5: 12_DE
+  taxonomy_9: motor_servo_micro_01
+  taxonomy_9_capital: Motor Servo Micro 01
+  taxonomy_9_first_letter: m
+  taxonomy_9_first_letter_upper: M
+  taxonomy_9_length_1: m
+  taxonomy_9_length_2: mo
+  taxonomy_9_length_3: mot
+  taxonomy_9_length_4: moto
+  taxonomy_9_length_5: motor
+  taxonomy_9_upper: MOTOR_SERVO_MICRO_01
+  taxonomy_9_upper_length_1: M
+  taxonomy_9_upper_length_2: MO
+  taxonomy_9_upper_length_3: MOT
+  taxonomy_9_upper_length_4: MOTO
+  taxonomy_9_upper_length_5: MOTOR
+  type: part
+  url_chat: ''
+  width: 5
+  width_mm: 74
+url_chat: ''
+width: 5

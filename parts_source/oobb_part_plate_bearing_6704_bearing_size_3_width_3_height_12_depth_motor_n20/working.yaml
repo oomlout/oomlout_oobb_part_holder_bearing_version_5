@@ -1,0 +1,50 @@
+bearing_size: '6704'
+body: cylinder
+depth: 12
+extra: motor_n20
+height: 3
+id: oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20
+inner_joining_rotation: 45
+legacy_id: oobb_bearing_plate_03_03_12_6704_sh_motor_n20
+legacy_source: C:/gh/oomlout_oobb_version_3/things/oobb_bearing_plate_03_03_12_6704_sh_motor_n20
+migration_note: Saved N20 SCAD has r=0.95 and an impossible negative-depth flat. Preserve
+  its actual circular hole; physical shaft fit unverified.
+oobb_details:
+  bearing_size: '6704'
+  body: cylinder
+  depth: 12
+  extra: motor_n20
+  height: 3
+  horn_adapter: ''
+  inner_joining_rotation: 45
+  interior_hole_positions: []
+  interior_radius_name: m3
+  joining_tangent_clearance: 0.01
+  oobb_name: bearing_plate
+  prepare_print: true
+  print_gap: 10
+  shaft: motor_n20
+  shaft_cut_depth: 0
+  shaft_radius: 0.95
+  split: true
+  split_z: 0
+  width: 3
+shaft: motor_n20
+shaft_cut_depth: 0
+shaft_radius: 0.95
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: plate
+taxonomy_4: bearing
+taxonomy_5: 6704_bearing_size
+taxonomy_6: 3_width
+taxonomy_7: 3_height
+taxonomy_8: 12_depth
+taxonomy_9: motor_n20
+width: 3

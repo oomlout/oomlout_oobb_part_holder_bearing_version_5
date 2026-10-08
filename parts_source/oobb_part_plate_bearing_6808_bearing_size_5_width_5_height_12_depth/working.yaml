@@ -1,0 +1,40 @@
+bearing_size: '6808'
+depth: 12
+extra: ''
+height: 5
+id: oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth
+legacy_id: oobb_bearing_plate_05_05_12_6808
+legacy_source: C:/gh/oomlout_oobb_version_3/things/oobb_bearing_plate_05_05_12_6808
+oobb_details:
+  bearing_size: '6808'
+  body: plate
+  depth: 12
+  extra: ''
+  height: 5
+  horn_adapter: ''
+  interior_hole_positions: []
+  interior_radius_name: m3
+  joining_tangent_clearance: 0.01
+  oobb_name: bearing_plate
+  prepare_print: true
+  print_gap: 10
+  shaft: m6
+  split: true
+  split_z: 0
+  width: 5
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: plate
+taxonomy_4: bearing
+taxonomy_5: 6808_bearing_size
+taxonomy_6: 5_width
+taxonomy_7: 5_height
+taxonomy_8: 12_depth
+taxonomy_9: ''
+width: 5

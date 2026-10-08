@@ -1,0 +1,2603 @@
+{
+  "tests": "103 passed; tests/test_bearing_plates.py",
+  "physical_fit_tested": false,
+  "renders": [
+    {
+      "id": "oobb_part_plate_bearing_606_bearing_size_3_width_3_height_12_depth",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 19250.310842652754,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_606_bearing_size_3_width_3_height_12_depth/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_606_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_606_bearing_size_3_width_3_height_12_depth/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_606"
+    },
+    {
+      "id": "oobb_part_plate_bearing_606_bearing_size_3_width_3_height_12_depth",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19805.635033433424,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 3,
+      "scad": "parts/oobb_part_plate_bearing_606_bearing_size_3_width_3_height_12_depth/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_606_bearing_size_3_width_3_height_12_depth/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_606_bearing_size_3_width_3_height_12_depth/true.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_606"
+    },
+    {
+      "id": "oobb_part_plate_bearing_606_bearing_size_3_width_3_height_12_depth",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 19262.416603651738,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 3,
+      "scad": "parts/oobb_part_plate_bearing_606_bearing_size_3_width_3_height_12_depth/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_606_bearing_size_3_width_3_height_12_depth/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_606_bearing_size_3_width_3_height_12_depth/laser.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_606"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 18856.344051893953,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19632.18162351713,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth/true.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 19052.38888647885,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth/laser.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6803_bearing_size_3_width_3_height_12_depth",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 18861.045142269602,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6803_bearing_size_3_width_3_height_12_depth/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6803_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6803_bearing_size_3_width_3_height_12_depth/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6803"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6803_bearing_size_3_width_3_height_12_depth",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19581.010241696807,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6803_bearing_size_3_width_3_height_12_depth/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6803_bearing_size_3_width_3_height_12_depth/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6803_bearing_size_3_width_3_height_12_depth/true.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6803"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6803_bearing_size_3_width_3_height_12_depth",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 19037.791811915118,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6803_bearing_size_3_width_3_height_12_depth/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6803_bearing_size_3_width_3_height_12_depth/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6803_bearing_size_3_width_3_height_12_depth/laser.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6803"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6804_bearing_size_3_width_3_height_12_depth",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 16512.178044911794,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6804_bearing_size_3_width_3_height_12_depth/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6804_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6804_bearing_size_3_width_3_height_12_depth/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6804"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6804_bearing_size_3_width_3_height_12_depth",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 17423.183381946274,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6804_bearing_size_3_width_3_height_12_depth/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6804_bearing_size_3_width_3_height_12_depth/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6804_bearing_size_3_width_3_height_12_depth/true.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6804"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6804_bearing_size_3_width_3_height_12_depth",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 19982.179521831717,
+      "bounds_mm": [
+        [
+          -23.875,
+          -23.86513364214136,
+          -6.0
+        ],
+        [
+          23.875,
+          23.86513364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6804_bearing_size_3_width_3_height_12_depth/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6804_bearing_size_3_width_3_height_12_depth/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6804_bearing_size_3_width_3_height_12_depth/laser.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6804"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 52320.01033437531,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          0.0
+        ],
+        [
+          122.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_05_05_12_6808"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 53904.142837691696,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth/true.png",
+      "legacy_id": "oobb_bearing_plate_05_05_12_6808"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 53360.92440791001,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6808_bearing_size_5_width_5_height_12_depth/laser.png",
+      "legacy_id": "oobb_bearing_plate_05_05_12_6808"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 74876.26675508266,
+      "bounds_mm": [
+        [
+          -52.5,
+          -37.49013364214136,
+          0.0
+        ],
+        [
+          167.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_07_05_12_6810"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 76634.92578613733,
+      "bounds_mm": [
+        [
+          -52.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          52.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth/true.png",
+      "legacy_id": "oobb_bearing_plate_07_05_12_6810"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 76091.70735635566,
+      "bounds_mm": [
+        [
+          -52.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          52.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth/laser.png",
+      "legacy_id": "oobb_bearing_plate_07_05_12_6810"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 18583.91374009469,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19671.194381014506,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/true.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 19121.481620031653,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/laser.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_gearmotor_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 18730.187992593892,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_servo_micro_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19840.663115050203,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/true.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_servo_micro_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 19290.950354067358,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/laser.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_servo_micro_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 18870.256474833903,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_printed_sh_motor_servo_standard_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19666.34547603452,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_printed_sh_motor_servo_standard_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 19118.2777137422,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/laser.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_printed_sh_motor_servo_standard_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 3848.0810877460112,
+      "bounds_mm": [
+        [
+          -11.35,
+          -11.327603367660881,
+          0.0
+        ],
+        [
+          45.35,
+          11.327603367660881,
+          6.5
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 3916.4651045980304,
+      "bounds_mm": [
+        [
+          -11.25,
+          -11.227800694818056,
+          -6.0
+        ],
+        [
+          11.25,
+          11.227800694818056,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 3948.190079343995,
+      "bounds_mm": [
+        [
+          -11.25,
+          -11.227800694818056,
+          -6.0
+        ],
+        [
+          11.25,
+          11.227800694818056,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/laser.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_ex_horn_adapter_screws_sh_motor_servo_standard_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 3493.057529151176,
+      "bounds_mm": [
+        [
+          -11.35,
+          -11.327603367660881,
+          0.0
+        ],
+        [
+          11.35,
+          11.327603367660881,
+          12.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_building_block_large_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 3468.4781153837976,
+      "bounds_mm": [
+        [
+          -11.25,
+          -11.227800694818056,
+          -6.0
+        ],
+        [
+          11.25,
+          11.227800694818056,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/true.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_building_block_large_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 3498.55809143923,
+      "bounds_mm": [
+        [
+          -11.25,
+          -11.227800694818056,
+          -6.0
+        ],
+        [
+          11.25,
+          11.227800694818056,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/laser.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_building_block_large_01"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 3782.428073693829,
+      "bounds_mm": [
+        [
+          -11.35,
+          -11.327603367660881,
+          0.0
+        ],
+        [
+          45.35,
+          11.327603367660881,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_n20"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 3847.2890469422277,
+      "bounds_mm": [
+        [
+          -11.25,
+          -11.227800694818056,
+          -6.0
+        ],
+        [
+          11.25,
+          11.227800694818056,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/true.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_n20"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 3840.79471574106,
+      "bounds_mm": [
+        [
+          -11.25,
+          -11.227800694818056,
+          -6.0
+        ],
+        [
+          11.25,
+          11.227800694818056,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/laser.png",
+      "legacy_id": "oobb_bearing_plate_03_03_12_6704_sh_motor_n20"
+    },
+    {
+      "id": "oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 19755.197554755745,
+      "bounds_mm": [
+        [
+          -22.5,
+          -28.5,
+          0.0
+        ],
+        [
+          77.5,
+          28.5,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/3dpr.scad",
+      "stl": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "preview": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_jack_03_03_12_606"
+    },
+    {
+      "id": "oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 20667.482042908592,
+      "bounds_mm": [
+        [
+          -22.5,
+          -28.5,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 3,
+      "scad": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/true.scad",
+      "stl": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/true.stl",
+      "preview": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/true.png",
+      "legacy_id": "oobb_bearing_plate_jack_03_03_12_606"
+    },
+    {
+      "id": "oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 19984.62490734588,
+      "bounds_mm": [
+        [
+          -22.5,
+          -28.5,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 3,
+      "scad": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/laser.scad",
+      "stl": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/laser.stl",
+      "preview": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/laser.png",
+      "legacy_id": "oobb_bearing_plate_jack_03_03_12_606"
+    },
+    {
+      "id": "oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 19089.050323909298,
+      "bounds_mm": [
+        [
+          -22.5,
+          -28.5,
+          0.0
+        ],
+        [
+          77.5,
+          28.5,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/3dpr.scad",
+      "stl": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/3dpr.stl",
+      "preview": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/3dpr.png",
+      "legacy_id": "oobb_bearing_plate_jack_basic_03_03_12_606"
+    },
+    {
+      "id": "oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 20029.832882398136,
+      "bounds_mm": [
+        [
+          -22.5,
+          -28.5,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 3,
+      "scad": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/true.scad",
+      "stl": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/true.stl",
+      "preview": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/true.png",
+      "legacy_id": "oobb_bearing_plate_jack_basic_03_03_12_606"
+    },
+    {
+      "id": "oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 19345.27119019436,
+      "bounds_mm": [
+        [
+          -22.5,
+          -28.5,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 3,
+      "scad": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/laser.scad",
+      "stl": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/laser.stl",
+      "preview": "parts/oobb_part_plate_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/laser.png",
+      "legacy_id": "oobb_bearing_plate_jack_basic_03_03_12_606"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 18348.90696916587,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/3dpr.png",
+      "experimental": true
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19221.361484587454,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/true.png",
+      "experimental": true
+    },
+    {
+      "id": "oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 18678.143054805772,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/laser.png",
+      "experimental": true
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 18536.22712934887,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19287.515231215297,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 18758.53775984411,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 18083.8488177567,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 18963.089359884034,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 18434.11188851284,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 5687.780707085419,
+      "bounds_mm": [
+        [
+          -13.825,
+          -13.797719520520854,
+          0.0
+        ],
+        [
+          13.825,
+          13.797719520520854,
+          12.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 5661.809702759121,
+      "bounds_mm": [
+        [
+          -13.75,
+          -13.722867515888733,
+          -6.0
+        ],
+        [
+          13.75,
+          13.722867515888733,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 5691.889678814553,
+      "bounds_mm": [
+        [
+          -13.75,
+          -13.722867515888733,
+          -6.0
+        ],
+        [
+          13.75,
+          13.722867515888733,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 18263.796817549595,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19326.52798871267,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 18827.630493396908,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 6056.876113164682,
+      "bounds_mm": [
+        [
+          -13.825,
+          -13.797719520520854,
+          0.0
+        ],
+        [
+          52.825,
+          13.797719520520854,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 6118.953905295242,
+      "bounds_mm": [
+        [
+          -13.75,
+          -13.722867515888733,
+          -6.0
+        ],
+        [
+          13.75,
+          13.722867515888733,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 6112.459574094075,
+      "bounds_mm": [
+        [
+          -13.75,
+          -13.722867515888733,
+          -6.0
+        ],
+        [
+          13.75,
+          13.722867515888733,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 18410.07107004881,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19495.99672274837,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 18997.099227432616,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 18550.139552288823,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19321.679083732684,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 18824.426587107457,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 6122.529127216864,
+      "bounds_mm": [
+        [
+          -13.825,
+          -13.797719520520854,
+          0.0
+        ],
+        [
+          52.825,
+          13.797719520520854,
+          6.5
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 6188.129962951044,
+      "bounds_mm": [
+        [
+          -13.75,
+          -13.722867515888733,
+          -6.0
+        ],
+        [
+          13.75,
+          13.722867515888733,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 6219.85493769701,
+      "bounds_mm": [
+        [
+          -13.75,
+          -13.722867515888733,
+          -6.0
+        ],
+        [
+          13.75,
+          13.722867515888733,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 53047.33209490905,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          0.0
+        ],
+        [
+          122.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 54744.21761180039,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 54193.48157089969,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 54183.55251874444,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          0.0
+        ],
+        [
+          122.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 55773.39066296362,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 55222.6546220629,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 52062.92101415923,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          0.0
+        ],
+        [
+          122.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 53783.396160810145,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 53232.660119909444,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 54296.3524289523,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          0.0
+        ],
+        [
+          122.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 55876.790580654175,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 55326.05453975345,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 19272.340868366347,
+      "bounds_mm": [
+        [
+          -24.5,
+          -24.45165484649265,
+          0.0
+        ],
+        [
+          24.5,
+          24.45165484649265,
+          12.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19294.148851006543,
+      "bounds_mm": [
+        [
+          -24.5,
+          -24.45165484649265,
+          -6.0
+        ],
+        [
+          24.5,
+          24.45165484649265,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 19324.228827061972,
+      "bounds_mm": [
+        [
+          -24.5,
+          -24.45165484649265,
+          -6.0
+        ],
+        [
+          24.5,
+          24.45165484649265,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 54363.50051853733,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          0.0
+        ],
+        [
+          122.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 56136.829291792244,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 55616.173226946965,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 20066.006911474597,
+      "bounds_mm": [
+        [
+          -24.5,
+          -24.45165484649265,
+          0.0
+        ],
+        [
+          83.5,
+          24.45165484649265,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 20223.642677538133,
+      "bounds_mm": [
+        [
+          -24.5,
+          -24.45165484649265,
+          -6.0
+        ],
+        [
+          24.5,
+          24.45165484649265,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 20217.148346336962,
+      "bounds_mm": [
+        [
+          -24.5,
+          -24.45165484649265,
+          -6.0
+        ],
+        [
+          24.5,
+          24.45165484649265,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 54509.77477103656,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          0.0
+        ],
+        [
+          122.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 56306.298025827964,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 55785.64196098268,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 54649.31955960198,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          0.0
+        ],
+        [
+          122.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 56131.980386812276,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 55612.969320657525,
+      "bounds_mm": [
+        [
+          -37.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          37.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 20131.659925526783,
+      "bounds_mm": [
+        [
+          -24.5,
+          -24.45165484649265,
+          0.0
+        ],
+        [
+          83.5,
+          24.45165484649265,
+          6.5
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 20292.81873519393,
+      "bounds_mm": [
+        [
+          -24.5,
+          -24.45165484649265,
+          -6.0
+        ],
+        [
+          24.5,
+          24.45165484649265,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 20324.543709939895,
+      "bounds_mm": [
+        [
+          -24.5,
+          -24.45165484649265,
+          -6.0
+        ],
+        [
+          24.5,
+          24.45165484649265,
+          6.0
+        ]
+      ],
+      "shells": 1,
+      "scad": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_608_bearing_size_3_width_3_height_12_depth",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 18547.53606874931,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          0.0
+        ],
+        [
+          77.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_608_bearing_size_3_width_3_height_12_depth/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_608_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_608_bearing_size_3_width_3_height_12_depth/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_608_bearing_size_3_width_3_height_12_depth",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 19213.435504842084,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_608_bearing_size_3_width_3_height_12_depth/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_608_bearing_size_3_width_3_height_12_depth/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_608_bearing_size_3_width_3_height_12_depth/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_608_bearing_size_3_width_3_height_12_depth",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 18670.217075060402,
+      "bounds_mm": [
+        [
+          -22.5,
+          -22.49013364214136,
+          -6.0
+        ],
+        [
+          22.5,
+          22.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_608_bearing_size_3_width_3_height_12_depth/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_608_bearing_size_3_width_3_height_12_depth/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_608_bearing_size_3_width_3_height_12_depth/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 74843.32753353717,
+      "bounds_mm": [
+        [
+          -52.5,
+          -37.49013364214136,
+          0.0
+        ],
+        [
+          167.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 76840.35314878584,
+      "bounds_mm": [
+        [
+          -52.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          52.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 76260.56041174753,
+      "bounds_mm": [
+        [
+          -52.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          52.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/laser.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts",
+      "mode": "3dpr",
+      "watertight": true,
+      "volume_mm3": 73461.83690126124,
+      "bounds_mm": [
+        [
+          -52.5,
+          -37.49013364214136,
+          0.0
+        ],
+        [
+          167.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 4,
+      "scad": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/3dpr.scad",
+      "stl": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/3dpr.stl",
+      "preview": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/3dpr.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts",
+      "mode": "true",
+      "watertight": true,
+      "volume_mm3": 75379.91334549885,
+      "bounds_mm": [
+        [
+          -52.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          52.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/true.scad",
+      "stl": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/true.stl",
+      "preview": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/true.png"
+    },
+    {
+      "id": "oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts",
+      "mode": "laser",
+      "watertight": true,
+      "volume_mm3": 74800.12060846055,
+      "bounds_mm": [
+        [
+          -52.5,
+          -37.49013364214136,
+          -6.0
+        ],
+        [
+          52.5,
+          37.49013364214136,
+          6.0
+        ]
+      ],
+      "shells": 2,
+      "scad": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/laser.scad",
+      "stl": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/laser.stl",
+      "preview": "parts/oobb_part_plate_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/laser.png"
+    }
+  ],
+  "embedded_nuts": {
+    "6704_m3": {
+      "positions_mm": [
+        [
+          -6.5,
+          0
+        ],
+        [
+          6.5,
+          0
+        ],
+        [
+          0,
+          -6.5
+        ],
+        [
+          0,
+          6.5
+        ]
+      ],
+      "centre_nut": false,
+      "rotation_degrees": 30,
+      "rotation_radial": true,
+      "joining_head": "socket_cap",
+      "experimental": true,
+      "physical_fit_tested": false
+    },
+    "6705_m3": {
+      "positions_mm": [
+        [
+          -7.5,
+          0
+        ],
+        [
+          7.5,
+          0
+        ],
+        [
+          0,
+          -7.5
+        ],
+        [
+          0,
+          7.5
+        ]
+      ],
+      "centre_nut": false,
+      "rotation_degrees": 30,
+      "rotation_radial": true,
+      "joining_head": "countersunk",
+      "experimental": false,
+      "physical_fit_tested": false
+    },
+    "6709_m3": {
+      "positions_mm": [
+        [
+          -15,
+          0
+        ],
+        [
+          15,
+          0
+        ],
+        [
+          0,
+          -15
+        ],
+        [
+          0,
+          15
+        ]
+      ],
+      "centre_nut": false,
+      "rotation_degrees": 30,
+      "rotation_radial": true,
+      "joining_head": "countersunk",
+      "experimental": false,
+      "physical_fit_tested": false
+    },
+    "6709_m6": {
+      "positions_mm": [
+        [
+          -15,
+          0
+        ],
+        [
+          15,
+          0
+        ],
+        [
+          0,
+          -15
+        ],
+        [
+          0,
+          15
+        ]
+      ],
+      "centre_nut": false,
+      "rotation_degrees": 30,
+      "rotation_radial": true,
+      "joining_head": "countersunk",
+      "experimental": false,
+      "physical_fit_tested": false
+    },
+    "6810_m3": {
+      "positions_mm": [
+        [
+          -15,
+          0
+        ],
+        [
+          15,
+          0
+        ],
+        [
+          0,
+          -15
+        ],
+        [
+          0,
+          15
+        ],
+        [
+          -15,
+          -15
+        ],
+        [
+          -15,
+          15
+        ],
+        [
+          15,
+          -15
+        ],
+        [
+          15,
+          15
+        ]
+      ],
+      "centre_nut": false,
+      "rotation_degrees": 30,
+      "rotation_radial": true,
+      "joining_head": "countersunk",
+      "experimental": false,
+      "physical_fit_tested": false
+    },
+    "6810_m6": {
+      "positions_mm": [
+        [
+          -15,
+          0
+        ],
+        [
+          15,
+          0
+        ],
+        [
+          0,
+          -15
+        ],
+        [
+          0,
+          15
+        ]
+      ],
+      "centre_nut": false,
+      "rotation_degrees": 30,
+      "rotation_radial": true,
+      "joining_head": "countersunk",
+      "experimental": false,
+      "physical_fit_tested": false
+    }
+  },
+  "inner_joining_rotation_degrees": 45,
+  "laser_inner_joining": "Through-bolt with head and nut recessed in the outside faces; no central standoff."
+}
