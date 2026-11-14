@@ -1,0 +1,80 @@
+bearing_size: '6810'
+corner:
+  axial_clearance: 0.2
+  bearing_depth: 7
+  bearing_inner_diameter: 50
+  bearing_outer_diameter: 65
+  gear_backlash: 0.2
+  gear_depth: 12
+  gear_face_width: 6
+  gear_module: 1.5
+  gear_repo: ../oomlout_oobb_gear_version_5
+  gear_teeth: 50
+  joining_screw_length: 25
+  minimum_gear_gap: 1
+  mounting_row: 45
+  radial_clearance: 0.15
+  split_gap: 0.2
+depth: 12
+extra: corner_bevel_50_teeth
+height: 5
+holder_type: holder_90_degree
+id: oobb_part_holder_90_degree_bearing_6810_bearing_size_7_width_5_height_12_depth_corner_bevel_50_teeth
+inner_joining_positions: &id001
+- - -7.5
+  - 7.5
+- - 7.5
+  - -7.5
+inner_joining_rotation: 45
+oobb_details:
+  bearing_size: '6810'
+  body: plate
+  corner:
+    axial_clearance: 0.2
+    bearing_depth: 7
+    bearing_inner_diameter: 50
+    bearing_outer_diameter: 65
+    gear_backlash: 0.2
+    gear_depth: 12
+    gear_face_width: 6
+    gear_module: 1.5
+    gear_repo: ../oomlout_oobb_gear_version_5
+    gear_teeth: 50
+    joining_screw_length: 25
+    minimum_gear_gap: 1
+    mounting_row: 45
+    radial_clearance: 0.15
+    split_gap: 0.2
+  depth: 12
+  extra: corner_bevel_50_teeth
+  height: 5
+  holder_type: holder_90_degree
+  horn_adapter: ''
+  inner_joining_positions: *id001
+  inner_joining_rotation: 45
+  interior_hole_positions: []
+  interior_radius_name: m3
+  mounting_minimum_web: 0.3
+  oobb_name: bearing_holder_corner
+  prepare_print: true
+  print_gap: 10
+  shaft: m6
+  split: true
+  split_z: 0
+  width: 7
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: holder_90_degree
+taxonomy_4: bearing
+taxonomy_5: 6810_bearing_size
+taxonomy_6: 7_width
+taxonomy_7: 5_height
+taxonomy_8: 12_depth
+taxonomy_9: corner_bevel_50_teeth
+width: 7

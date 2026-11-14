@@ -1,0 +1,52 @@
+bearing_size: '6810'
+centre_hole_diameter: 30
+depth: 12
+extra: inside_hole_30_mm
+height: 5
+id: oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_hole_30_mm
+inner_joining_positions: &id001
+- - 0
+  - 21
+- - 0
+  - -21
+inner_joining_rotation: 45
+inside: hole_30_mm
+oobb_details:
+  bearing_size: '6810'
+  body: plate
+  centre_hole_diameter: 30
+  depth: 12
+  extra: inside_hole_30_mm
+  height: 5
+  holder_type: holder
+  horn_adapter: ''
+  inner_joining_positions: *id001
+  inner_joining_rotation: 45
+  inside: hole_30_mm
+  interior_hole_positions: []
+  interior_radius_name: m3
+  mounting_minimum_web: 0.3
+  oobb_name: bearing_holder
+  prepare_print: true
+  print_gap: 10
+  shaft: round_bore
+  split: true
+  split_z: 0
+  width: 7
+shaft: round_bore
+taxonomy_1: oobb
+taxonomy_10: ''
+taxonomy_11: ''
+taxonomy_12: ''
+taxonomy_13: ''
+taxonomy_14: ''
+taxonomy_15: ''
+taxonomy_2: part
+taxonomy_3: holder
+taxonomy_4: bearing
+taxonomy_5: 6810_bearing_size
+taxonomy_6: 7_width
+taxonomy_7: 5_height
+taxonomy_8: 12_depth
+taxonomy_9: inside_hole_30_mm
+width: 7

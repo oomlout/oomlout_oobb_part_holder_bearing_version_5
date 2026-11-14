@@ -1,0 +1,10 @@
+{
+  "title": "OOBB bearing holders",
+  "summary": "Parametric bearing holders with bearing-size, holder-style and mounting variants.",
+  "parts": "Select the bearing size and holder style in navigation. Printed holder components and purchased bearings are distinct; the preview is generated from the printable mesh.",
+  "assembly": "Follow the selected part\u2019s split, preparation and embedded-nut metadata. Check bearing fit and retain the existing project examples for the applicable assembly.",
+  "modes": [
+    "3dpr",
+    "true"
+  ]
+}

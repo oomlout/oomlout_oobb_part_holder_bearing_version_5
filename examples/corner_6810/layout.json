@@ -1,0 +1,1802 @@
+{
+  "bearing_inner_diameter": 50,
+  "bearing_outer_diameter": 65,
+  "bearing_depth": 7,
+  "radial_clearance": 0.15,
+  "axial_clearance": 0.2,
+  "split_gap": 0.2,
+  "joining_screw_length": 25,
+  "gear_teeth": 50,
+  "gear_module": 1.5,
+  "gear_depth": 12,
+  "gear_face_width": 6,
+  "gear_backlash": 0.2,
+  "minimum_gear_gap": 1,
+  "mounting_row": 45,
+  "gear_repo": "../oomlout_oobb_gear_version_5",
+  "depth": 12,
+  "height_mm": 75,
+  "distance": 60,
+  "apex": 38.2872,
+  "inner_radius": 25.0,
+  "outer_radius": 32.5,
+  "hub_radius": 28.35,
+  "opening_radius": 30.7,
+  "far_edge": 52.5,
+  "gear_mounts": [
+    [
+      -15,
+      -15
+    ],
+    [
+      -15,
+      15
+    ],
+    [
+      15,
+      -15
+    ],
+    [
+      15,
+      15
+    ]
+  ],
+  "gear_mount_radius_name": "m6",
+  "gear_pad_radius": 4.8,
+  "hub_source": {
+    "oobb_name": "bearing_holder",
+    "holder_type": "holder",
+    "mounting_minimum_web": 0.3,
+    "bearing_size": "6810",
+    "width": 7,
+    "height": 5,
+    "depth": 12,
+    "extra": "",
+    "shaft": "m6",
+    "body": "plate",
+    "horn_adapter": "",
+    "split": true,
+    "split_z": 0,
+    "prepare_print": false,
+    "print_gap": 10,
+    "interior_hole_positions": [],
+    "interior_radius_name": "m3",
+    "inner_joining_positions": [
+      [
+        -7.5,
+        7.5
+      ],
+      [
+        7.5,
+        -7.5
+      ]
+    ],
+    "inner_joining_rotation": 45,
+    "mode": "3dpr"
+  },
+  "spacer": 9.712800000000001,
+  "hub_split_gap": 0,
+  "bearing_size": "6810",
+  "mounting_minimum_web": 0.3,
+  "frame_mounting": {
+    "holes": [
+      {
+        "u": -45.0,
+        "v": -30.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": -45.0,
+        "v": -22.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -45.0,
+        "v": -15.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": -45.0,
+        "v": -7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -45.0,
+        "v": 0.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": -45.0,
+        "v": 7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -45.0,
+        "v": 15.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": -45.0,
+        "v": 22.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -45.0,
+        "v": 30.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": -37.5,
+        "v": -30.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -37.5,
+        "v": -22.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -37.5,
+        "v": -15.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -37.5,
+        "v": -7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -37.5,
+        "v": 0.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -37.5,
+        "v": 7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -37.5,
+        "v": 15.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -37.5,
+        "v": 22.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -37.5,
+        "v": 30.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -30.0,
+        "v": -30.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": -30.0,
+        "v": -22.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -30.0,
+        "v": 22.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -30.0,
+        "v": 30.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": -22.5,
+        "v": -30.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -22.5,
+        "v": 30.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 22.5,
+        "v": -30.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 22.5,
+        "v": 30.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 30.0,
+        "v": -30.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": 30.0,
+        "v": -22.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 30.0,
+        "v": 22.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 30.0,
+        "v": 30.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": 45.0,
+        "v": -30.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": 45.0,
+        "v": -22.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 45.0,
+        "v": -15.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": 45.0,
+        "v": -7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 45.0,
+        "v": 0.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": 45.0,
+        "v": 7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 45.0,
+        "v": 15.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": 45.0,
+        "v": 22.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 45.0,
+        "v": 30.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      }
+    ],
+    "omitted": [
+      {
+        "u": -60.0,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -60.0,
+        "v": -30.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "perpendicular_arm"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -60.0,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -60.0,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "perpendicular_arm"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -60.0,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -60.0,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "perpendicular_arm"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -60.0,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -60.0,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "perpendicular_arm"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -60.0,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -60.0,
+        "v": 30.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "perpendicular_arm"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -60.0,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -52.5,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -52.5,
+        "v": -30.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -52.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -52.5,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -52.5,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -52.5,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -52.5,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -52.5,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -52.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -52.5,
+        "v": 30.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -52.5,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -45.0,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -45.0,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -37.5,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -37.5,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -30.0,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -30.0,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -30.0,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -30.0,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -30.0,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -30.0,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -30.0,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -22.5,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -22.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -22.5,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -22.5,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -22.5,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -22.5,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -22.5,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -22.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -22.5,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": -30.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": 30.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": -30.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": 30.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": -30.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": 30.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": -30.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": 30.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": -30.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": 30.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 30.0,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 30.0,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 30.0,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 30.0,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 30.0,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 30.0,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 30.0,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": -30.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": 30.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 45.0,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 45.0,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 52.5,
+        "v": -37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 52.5,
+        "v": -30.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 52.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 52.5,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 52.5,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 52.5,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 52.5,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 52.5,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 52.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 52.5,
+        "v": 30.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 52.5,
+        "v": 37.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      }
+    ],
+    "counts_per_arm": {
+      "m6": 14,
+      "m3": 25
+    }
+  },
+  "gear_reference_retained": true,
+  "gear_id": "oobb_part_gear_big_scale_5_diameter_50_teeth_bevel_style_12_mm_depth",
+  "gear_source": "examples/corner_6810/components/gear.stl"
+}

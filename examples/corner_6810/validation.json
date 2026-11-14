@@ -1,0 +1,190 @@
+{
+  "components": {
+    "bearing": {
+      "watertight": true,
+      "components": 1,
+      "volume_mm3": 9458.742470556088,
+      "bounds_mm": [
+        [
+          -32.5,
+          -32.435868673918826,
+          -3.5
+        ],
+        [
+          32.5,
+          32.435868673918826,
+          3.5
+        ]
+      ]
+    },
+    "frame_negative": {
+      "watertight": true,
+      "components": 1,
+      "volume_mm3": 51427.2378033964,
+      "bounds_mm": [
+        [
+          -66.0,
+          -37.5,
+          -66.0
+        ],
+        [
+          52.5,
+          -0.09999999999999432,
+          52.5
+        ]
+      ]
+    },
+    "frame_positive": {
+      "watertight": true,
+      "components": 1,
+      "volume_mm3": 51836.55570238074,
+      "bounds_mm": [
+        [
+          -66.0,
+          0.10000000000002274,
+          -66.0
+        ],
+        [
+          52.5,
+          37.5,
+          52.5
+        ]
+      ]
+    },
+    "gear": {
+      "watertight": true,
+      "components": 1,
+      "volume_mm3": 34009.11838530123,
+      "bounds_mm": [
+        [
+          -38.51258245121822,
+          -38.55873372986044,
+          -6.0
+        ],
+        [
+          38.51258245121822,
+          38.55873372986044,
+          6.0
+        ]
+      ]
+    },
+    "hub_gear": {
+      "watertight": true,
+      "components": 1,
+      "volume_mm3": 11570.36607398822,
+      "bounds_mm": [
+        [
+          -28.35,
+          -28.2940577509415,
+          -9.712800000000001
+        ],
+        [
+          28.35,
+          28.2940577509415,
+          6.0
+        ]
+      ]
+    },
+    "hub_outer": {
+      "watertight": true,
+      "components": 1,
+      "volume_mm3": 10051.434292703669,
+      "bounds_mm": [
+        [
+          -28.35,
+          -28.2940577509415,
+          0.0
+        ],
+        [
+          28.35,
+          28.2940577509415,
+          6.0
+        ]
+      ]
+    }
+  },
+  "print_components": 6,
+  "mounting_holes_per_arm": {
+    "m6": 14,
+    "m3": 25
+  },
+  "mounting_hole_gauges": 78,
+  "mounting_hole_gauge_intersection_mm3": [
+    0.0,
+    0.0
+  ],
+  "print_volume_matches_assembly": true,
+  "motion_checks": [
+    {
+      "pair": "gear_gear",
+      "samples": 16,
+      "max_intersection_mm3": 0.0
+    },
+    {
+      "pair": "frame_rotors",
+      "samples": 64,
+      "range_degrees": 360,
+      "max_intersection_mm3": 0.0
+    },
+    {
+      "pair": "bearings_printed_parts",
+      "samples": 64,
+      "range_degrees": 360,
+      "max_intersection_mm3": 1.9497791754474747e-06
+    },
+    {
+      "pair": "frame_halves",
+      "samples": 1,
+      "max_intersection_mm3": 0.0
+    },
+    {
+      "pair": "cross_axis_rotors",
+      "samples": 64,
+      "range_degrees": 360,
+      "max_intersection_mm3": 0.0
+    },
+    {
+      "pair": "hub_halves_and_gear",
+      "samples": 1,
+      "max_intersection_mm3": 0.0
+    }
+  ],
+  "engine": "Manifold: rendered STL intersections plus OpenSCAD example cross-checks",
+  "openscad_cross_checks_mm3": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "openscad_exploded_checks_mm3": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "regular_interior_difference_mm3": [
+    7.681616731739874e-06,
+    6.898512969163069e-06
+  ],
+  "tooth_cycle_degrees": 7.2,
+  "fit": "CAD clearance validated; physical fit and load testing pending",
+  "sha256": {
+    "working_corner.py": "61f7c2f4b8a06f29c30624061aa082ef87b050b49d0104e04f9993f91c21b570",
+    "working_scad.py": "674a3c8e220ba3c60da4483751e4929e2ad5bc092ff36baafa0bedd70af5d566",
+    "working_populate.py": "3d78108e0ea7643adf17e80c2500b3af22dc9597b966c14c3c0ce7ddf3d4d1f1",
+    "action_make_corner.py": "98a7d8aedbf20bf6e399aabb4e74557c1306de71622c022257a7bc7bec6a750b",
+    "validate_corner.py": "f4abfb8acb0216ac5c1fa0f45342dbfbc11393a3515b0bde4559d57529f25b18",
+    "examples/corner_6810/assembly.scad": "cf8287a549cef3b5e9a5cd1a35be60ddf6b5f2ac33634fd2b8b8d530f56cee52",
+    "examples/corner_6810/exploded.scad": "059300c4c5f94d291536d0943eecfbfb96bafb8da640811c3c44fd6ebf5c837c",
+    "examples/corner_6810/layout.json": "83acd6e23ce04701a211c23bf3479414b7659d9f23bd73a7ec015f045b8e3d48",
+    "parts/oobb_part_holder_90_degree_bearing_6810_bearing_size_7_width_5_height_12_depth_corner_bevel_50_teeth/3dpr.stl": "22d77d744812ab74936e5cc16c462f3a346252891300e513d1175824b818a0ca",
+    "examples/corner_6810/components/bearing.stl": "e1dd2295296a65f1e6a0ecf046d46b8e25efcad8e114b274dfe2fcb55a78267d",
+    "examples/corner_6810/components/frame_negative.stl": "f1533cd8ce0bd8da27e57c3db174928962cc2a99880319f24c25016c10110dbd",
+    "examples/corner_6810/components/frame_positive.stl": "08a8addbdf1c25e0cbdd5948e9beece3e03f429c4a715da48221b0d79266bbe2",
+    "examples/corner_6810/components/gear.stl": "5ecdfd36f68bdab0efe62ba424f85dc5d7f39aa55ed663d7a8b25cfe40f2bf75",
+    "examples/corner_6810/components/hub_gear.stl": "ffd4e8734045e9ae80369d1cb0579b6edd0dc8439f7d632e7eca459423735d08",
+    "examples/corner_6810/components/hub_outer.stl": "6e8c5aaec4cf79e7c3eca26158079f846f30879a33eefbd022d65cccf368a970"
+  }
+}

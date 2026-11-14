@@ -1,0 +1,773 @@
+{
+  "bearing_inner_diameter": 20,
+  "bearing_outer_diameter": 27,
+  "bearing_depth": 4,
+  "radial_clearance": 0.15,
+  "axial_clearance": 0.2,
+  "split_gap": 0.2,
+  "joining_screw_length": 25,
+  "axis_pitch": 7.5,
+  "hub_nut_depth": 2.4,
+  "gear_teeth": 30,
+  "gear_module": 1.5,
+  "gear_depth": 12,
+  "gear_face_width": 6,
+  "gear_backlash": 0.2,
+  "minimum_gear_gap": 1,
+  "mounting_row": 30,
+  "gear_mounts": [
+    [
+      -7.5,
+      0
+    ],
+    [
+      7.5,
+      0
+    ],
+    [
+      0,
+      -7.5
+    ],
+    [
+      0,
+      7.5
+    ]
+  ],
+  "gear_mount_radius_name": "m3",
+  "gear_pad_radius": 3,
+  "gear_join_access": true,
+  "gear_repo": "../oomlout_oobb_gear_version_5",
+  "depth": 9,
+  "height_mm": 45,
+  "distance": 37.5,
+  "apex": 23.3563,
+  "inner_radius": 10.0,
+  "outer_radius": 13.5,
+  "hub_radius": 11.35,
+  "opening_radius": 12.625,
+  "far_edge": 37.5,
+  "hub_source": {
+    "oobb_name": "bearing_holder",
+    "holder_type": "holder",
+    "mounting_minimum_web": 0.3,
+    "bearing_size": "6704",
+    "width": 5,
+    "height": 3,
+    "depth": 9,
+    "extra": "",
+    "shaft": "m6",
+    "body": "plate",
+    "horn_adapter": "",
+    "split": true,
+    "split_z": 0,
+    "prepare_print": false,
+    "print_gap": 10,
+    "interior_hole_positions": [],
+    "interior_radius_name": "m3",
+    "inner_joining_rotation": 45,
+    "mode": "3dpr",
+    "bearing_inner_diameter": 20,
+    "bearing_outer_diameter": 27,
+    "bearing_depth": 4,
+    "joining_nut_depth": 2.4
+  },
+  "spacer": 3.643699999999999,
+  "hub_split_gap": 0,
+  "bearing_size": "6704",
+  "mounting_minimum_web": 0.3,
+  "frame_mounting": {
+    "holes": [
+      {
+        "u": -30.0,
+        "v": -15.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -30.0,
+        "v": -7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -30.0,
+        "v": 0.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -30.0,
+        "v": 7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -30.0,
+        "v": 15.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -22.5,
+        "v": -15.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -22.5,
+        "v": -7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -22.5,
+        "v": 0.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -22.5,
+        "v": 7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -22.5,
+        "v": 15.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -15.0,
+        "v": -15.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": -15.0,
+        "v": -7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -15.0,
+        "v": 7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -15.0,
+        "v": 15.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": -7.5,
+        "v": -15.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": -7.5,
+        "v": 15.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 7.5,
+        "v": -15.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 7.5,
+        "v": 15.0,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 15.0,
+        "v": -15.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": 15.0,
+        "v": -7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 15.0,
+        "v": 7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 15.0,
+        "v": 15.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": 30.0,
+        "v": -15.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": 30.0,
+        "v": -7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 30.0,
+        "v": 0.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      },
+      {
+        "u": 30.0,
+        "v": 7.5,
+        "radius_name": "m3",
+        "radius": 1.8
+      },
+      {
+        "u": 30.0,
+        "v": 15.0,
+        "radius_name": "m6",
+        "radius": 3.25
+      }
+    ],
+    "omitted": [
+      {
+        "u": -37.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -37.5,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -37.5,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -37.5,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -37.5,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -37.5,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "perpendicular_arm"
+          }
+        ]
+      },
+      {
+        "u": -37.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -30.0,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -30.0,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -22.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -22.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -15.0,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": -7.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 0.0,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 7.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m6",
+            "reason": "bearing_seat"
+          },
+          {
+            "radius_name": "m3",
+            "reason": "bearing_seat"
+          }
+        ]
+      },
+      {
+        "u": 15.0,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "joining_access"
+          }
+        ]
+      },
+      {
+        "u": 22.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 30.0,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 30.0,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": -22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": -15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": -7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": 0.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": 7.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": 15.0,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      },
+      {
+        "u": 37.5,
+        "v": 22.5,
+        "attempts": [
+          {
+            "radius_name": "m3",
+            "reason": "edge"
+          }
+        ]
+      }
+    ],
+    "counts_per_arm": {
+      "m6": 7,
+      "m3": 20
+    }
+  },
+  "gear_reference_retained": true,
+  "gear_id": "oobb_part_gear_big_scale_3_diameter_30_teeth_bevel_style_12_mm_depth",
+  "gear_source": "examples/corner_6704/components/gear.stl"
+}

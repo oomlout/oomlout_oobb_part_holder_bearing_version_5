@@ -1,0 +1,1589 @@
+{
+  "schema": 1,
+  "renders": [
+    {
+      "id": "oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "source_sha256": "84f4f6e6c338e7a5bd567193dda2d10ed7fd5a5689d777387ed31adb736f725a",
+      "image": "parts/oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        57.0,
+        6.0
+      ],
+      "key": "20ba9def22ee1e955e9c69e9",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder 90 Degree Bearing 606 Bearing Size 3 Width 3 Height 12 Depth \u2014 Print layout",
+      "image_sha256": "0a67238d312a13094c0792dc4fd37ca7c6b3c701246002994f14f99c3c8f746e"
+    },
+    {
+      "id": "oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/true.stl",
+      "source_sha256": "0cb68a222c2af5fa50d707a2afa381b6af9cef478e10e29a0387a3908b1f4e98",
+      "image": "parts/oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        50.99,
+        12.0
+      ],
+      "key": "e10b8bd3a458bd84418e6a92",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder 90 Degree Bearing 606 Bearing Size 3 Width 3 Height 12 Depth \u2014 Nominal / assembly",
+      "image_sha256": "69a4d4d92d56639ecdd867e3cf5a2f19d63d37aa986a96e42b1cc703e0d9587d"
+    },
+    {
+      "id": "oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/3dpr.stl",
+      "source_sha256": "94504d3587976e4ce472422282120b39d0ccd9e86e343f64fdda72740affae70",
+      "image": "parts/oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        57.0,
+        6.0
+      ],
+      "key": "2b13ebba69d6e079f8c9bae8",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder 90 Degree Bearing 606 Bearing Size 3 Width 3 Height 12 Depth Basic \u2014 Print layout",
+      "image_sha256": "2d0109caf5d870c0bca737666ae6ce96f4d05ae268e8e1b5f239b2342b599c82"
+    },
+    {
+      "id": "oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/true.stl",
+      "source_sha256": "cc298d08cfed3735e517af898b6cdaf19af2d00ab32e1dad455fef9e7e17d5c1",
+      "image": "parts/oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth_basic/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        50.99,
+        12.0
+      ],
+      "key": "46c44c08ed8ed45681b81416",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder 90 Degree Bearing 606 Bearing Size 3 Width 3 Height 12 Depth Basic \u2014 Nominal / assembly",
+      "image_sha256": "978522f39284dcbc270230b7dcb51ce67d491a5347971ffcd9b6b7fae1229a64"
+    },
+    {
+      "id": "oobb_part_holder_90_degree_bearing_6704_bearing_size_5_width_3_height_9_depth_corner_bevel_30_teeth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_90_degree_bearing_6704_bearing_size_5_width_3_height_9_depth_corner_bevel_30_teeth/3dpr.stl",
+      "source_sha256": "5860777be26093cea7a0cd82a1e19c6c8815a90993201f3b93503e981a9f5fe4",
+      "image": "parts/oobb_part_holder_90_degree_bearing_6704_bearing_size_5_width_3_height_9_depth_corner_bevel_30_teeth/3dpr_presentation.png",
+      "dimensions_mm": [
+        175.55,
+        142.828,
+        22.4
+      ],
+      "key": "2ae56951f76ec7bd022643f1",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "oobb part holder 90 degree bearing 6704 bearing size 5 width 3 height 9 depth corner bevel 30 teeth \u2014 Print layout",
+      "image_sha256": "b195c0e6757dd5d91c018e2ffc561573690c0fe7dcb544a19b5a97aa0621d32b"
+    },
+    {
+      "id": "oobb_part_holder_90_degree_bearing_6704_bearing_size_5_width_3_height_9_depth_corner_bevel_30_teeth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_90_degree_bearing_6704_bearing_size_5_width_3_height_9_depth_corner_bevel_30_teeth/true.stl",
+      "source_sha256": "4488b725840370a2e60b1cb2729b34b4225b43df3258e1a4ac8ce40023d3bb4c",
+      "image": "parts/oobb_part_holder_90_degree_bearing_6704_bearing_size_5_width_3_height_9_depth_corner_bevel_30_teeth/true_presentation.png",
+      "dimensions_mm": [
+        175.55,
+        142.828,
+        22.4
+      ],
+      "key": "7b83307622fa5fa970b84c42",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "oobb part holder 90 degree bearing 6704 bearing size 5 width 3 height 9 depth corner bevel 30 teeth \u2014 Nominal / assembly",
+      "image_sha256": "6454e3b915e3904146ae7d96c269603aacb2e59955abe04d5087a66421df6e37"
+    },
+    {
+      "id": "oobb_part_holder_90_degree_bearing_6810_bearing_size_7_width_5_height_12_depth_corner_bevel_50_teeth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_90_degree_bearing_6810_bearing_size_7_width_5_height_12_depth_corner_bevel_50_teeth/3dpr.stl",
+      "source_sha256": "22d77d744812ab74936e5cc16c462f3a346252891300e513d1175824b818a0ca",
+      "image": "parts/oobb_part_holder_90_degree_bearing_6810_bearing_size_7_width_5_height_12_depth_corner_bevel_50_teeth/3dpr_presentation.png",
+      "dimensions_mm": [
+        289.55,
+        222.794,
+        37.4
+      ],
+      "key": "bc259e9e84954b4547eabd36",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "oobb part holder 90 degree bearing 6810 bearing size 7 width 5 height 12 depth corner bevel 50 teeth \u2014 Print layout",
+      "image_sha256": "fb1c73fa8ae57e7c781abfdf2b9f7ee361787a96b7b93c2cbba5a8201d0ad801"
+    },
+    {
+      "id": "oobb_part_holder_90_degree_bearing_6810_bearing_size_7_width_5_height_12_depth_corner_bevel_50_teeth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_90_degree_bearing_6810_bearing_size_7_width_5_height_12_depth_corner_bevel_50_teeth/true.stl",
+      "source_sha256": "dc4724190a959a39c1a794cccb28fc02a58eb10162eeef40208be492b1539663",
+      "image": "parts/oobb_part_holder_90_degree_bearing_6810_bearing_size_7_width_5_height_12_depth_corner_bevel_50_teeth/true_presentation.png",
+      "dimensions_mm": [
+        289.55,
+        222.794,
+        37.4
+      ],
+      "key": "555af8d7b093a943eade2299",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "oobb part holder 90 degree bearing 6810 bearing size 7 width 5 height 12 depth corner bevel 50 teeth \u2014 Nominal / assembly",
+      "image_sha256": "4d0e7882adadfc286c453a0aceb46c7c3c3d104ad97de7f218a8602cd1bb09ec"
+    },
+    {
+      "id": "oobb_part_holder_bearing_606_bearing_size_3_width_3_height_12_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_606_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "source_sha256": "5e2824a6e87f8b7c95df07bae12112815f912920bddd5692df6e5966fc6bcdaf",
+      "image": "parts/oobb_part_holder_bearing_606_bearing_size_3_width_3_height_12_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "3a520934f805199b99837e96",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 606 Bearing Size 3 Width 3 Height 12 Depth \u2014 Print layout",
+      "image_sha256": "6e6a90a3c6c27ff310b6a3b59fdb674ca035427e5f98275592904c614d3d0576"
+    },
+    {
+      "id": "oobb_part_holder_bearing_606_bearing_size_3_width_3_height_12_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_606_bearing_size_3_width_3_height_12_depth/true.stl",
+      "source_sha256": "57e195e39f44ed99762a131e477b3b5b3c4ed104039fd32afe534cd272267996",
+      "image": "parts/oobb_part_holder_bearing_606_bearing_size_3_width_3_height_12_depth/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "4233b13cf3a41d2425dcc508",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 606 Bearing Size 3 Width 3 Height 12 Depth \u2014 Nominal / assembly",
+      "image_sha256": "f28ab638a3165270482359da61003d2672690d7582080a085c7dd32d070ab99f"
+    },
+    {
+      "id": "oobb_part_holder_bearing_608_bearing_size_3_width_3_height_12_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_608_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "source_sha256": "1cfbd23ac0117ac2acd9056a7c1da44bfe2ab0b30c5e0dd414b8cd466feb8d47",
+      "image": "parts/oobb_part_holder_bearing_608_bearing_size_3_width_3_height_12_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "42ca0cb03c51d5b7a91e6f60",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 608 Bearing Size 3 Width 3 Height 12 Depth \u2014 Print layout",
+      "image_sha256": "5e3ee854a4c6b5b11e1378a547302eac97923e51fe2232aa09115a1b5ae92048"
+    },
+    {
+      "id": "oobb_part_holder_bearing_608_bearing_size_3_width_3_height_12_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_608_bearing_size_3_width_3_height_12_depth/true.stl",
+      "source_sha256": "ef967cb676124c5141dc5badbc2059dd74dd018591dbc33a1f4ea36386be44fa",
+      "image": "parts/oobb_part_holder_bearing_608_bearing_size_3_width_3_height_12_depth/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "a2557f2f7a5c50f5759e4966",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 608 Bearing Size 3 Width 3 Height 12 Depth \u2014 Nominal / assembly",
+      "image_sha256": "0f987993f8cf5c90989ce52187a1dec6812815b68d8a6e95dd3ca2d1e623a047"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "source_sha256": "32e20609748068213273a81560329c2ac08420adc3bb444d3947aa64403a1617",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "e57a91f2c45a63f9aa704c9f",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth \u2014 Print layout",
+      "image_sha256": "fcbd02ae8784d5d9a000972733c3f51ba80e7fe2a2a5512d4d4ba90a4d3d2b1b"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth/true.stl",
+      "source_sha256": "8fb24b9d162859847548c2fe757a7ff73dbcd78ec3ae73ff1cc1fdeec445c410",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "b165c927267ede92e0d59a18",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth \u2014 Nominal / assembly",
+      "image_sha256": "f06ac378e5b585406a559dccfd5a57193ddfdc38fd4d6301c5cca1842783a29a"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/3dpr.stl",
+      "source_sha256": "b9228d0d6067bc37ac7ce108db3cf15a4426183419df31848efb1cfa313d6dd8",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "86c607072f4138b3ae30a433",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Inside Embedded M3 Nuts \u2014 Print layout",
+      "image_sha256": "0e5035dee1c695be3ede2e2c7bbaaf71764daab173ec0715e46da84eeec53fdf"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/true.stl",
+      "source_sha256": "9ccafdaaf67229c1ac0a8cb619ec46ce9b9d1d9b5304ced0905d1a25f493ac29",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "d2177539a158e68286d1ba30",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Inside Embedded M3 Nuts \u2014 Nominal / assembly",
+      "image_sha256": "46ad84c081bb6e9fdd3859254a968854dae6502ac073ba9355cf4a3530669b60"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/3dpr.stl",
+      "source_sha256": "9cb77a856afb955cf33291495600f868e4089a01d49b46e25e57cf27a30a8258",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/3dpr_presentation.png",
+      "dimensions_mm": [
+        22.7,
+        22.655,
+        12.0
+      ],
+      "key": "d98bea0077f48db11f6dbf10",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Motor Building Block Large 01 \u2014 Print layout",
+      "image_sha256": "2ffcf94bb5d8d98f82a7a3f4b6bbcb444c6d2cf49cad1d42af5cdcdd6b5a2bf2"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/true.stl",
+      "source_sha256": "1b1d1e3751811dab00f2be80084c16a12d18fe077a85e2ba5a268f50c6c3f002",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/true_presentation.png",
+      "dimensions_mm": [
+        22.5,
+        22.456,
+        12.0
+      ],
+      "key": "e40b7eb0fd9142e9b6862e30",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Motor Building Block Large 01 \u2014 Nominal / assembly",
+      "image_sha256": "b5baa055c4655c6c849b3ebae15484966afac5b1c18f42faadfae13483e04cb1"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/3dpr.stl",
+      "source_sha256": "58d1e2da4f025afbcffc42cf838a4cd79d9d6abe3f5ad7996a723339b1bdc1f1",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "79fa2bf859b8beecf887f301",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Motor Gearmotor 01 \u2014 Print layout",
+      "image_sha256": "514fd126a991f675c36e4d8dba0fadaa3e31daa96d725782d49ef5a02feb74fd"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/true.stl",
+      "source_sha256": "27717cc5173050f220cda6eb2855a1c981630c79221e86750377e6959bc546c2",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "ba0390680698d19e518fd6c6",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Motor Gearmotor 01 \u2014 Nominal / assembly",
+      "image_sha256": "41dfe340044e904c9e7f7469d97f205c9e5c472b750fcf470eb8d10f4e93fee2"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/3dpr.stl",
+      "source_sha256": "36b6f1de37fe33aafdc98d069108cd8a096ba1b8af69382c57188eb5a5ddfac2",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/3dpr_presentation.png",
+      "dimensions_mm": [
+        56.7,
+        22.655,
+        6.0
+      ],
+      "key": "12ad232df6d549e946bc50cc",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Motor N20 \u2014 Print layout",
+      "image_sha256": "9d772eb4a7025275319c3a435154ad5acc3b6da3200cde48516f4e2ddfb4272b"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/true.stl",
+      "source_sha256": "9dfaf81597f68b78404b3b7372e27d754a3e4f54a0856a662defac58663b935d",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_n20/true_presentation.png",
+      "dimensions_mm": [
+        22.5,
+        22.456,
+        12.0
+      ],
+      "key": "48bd5e10577437e7cf5a4181",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Motor N20 \u2014 Nominal / assembly",
+      "image_sha256": "17a61249f69333ca99289ff22bcd4ecaf4937663f89b39d595e7068ae0d76c0f"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/3dpr.stl",
+      "source_sha256": "dda0cb477008c8dc63c8c88fa499385d1466fa48d6ff6b7e25e583f3eee82167",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "a8b58f11cab235e7dad4ac50",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Motor Servo Micro 01 \u2014 Print layout",
+      "image_sha256": "a61a0387ebd073d602b7b06df87732f01c2e68aff8b4188fdb0362d1afd42514"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/true.stl",
+      "source_sha256": "7d1f37fd87abd763c27451e7b12c35dc077b6f4e1effc15d3f9b4f69ebbd0d56",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "466c01f061e8909e4057d87e",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Motor Servo Micro 01 \u2014 Nominal / assembly",
+      "image_sha256": "c3a29f5f0992f52e4ba949bf6a218a7b5ac24bfbec51c60c1e0c91c584f046a2"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr.stl",
+      "source_sha256": "4cd50c2e11f89bfef71e188c3d29ee9c75841c8c3286b3219d0b7d1dee6c153e",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "28b9f4bac4c93ead90b273cd",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Motor Servo Standard 01 Horn Adapter Printed \u2014 Print layout",
+      "image_sha256": "2e3677fc84e6cd618e94f408ccec65031cafec91bc3ef9b5d9f2836faa1bdbb0"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true.stl",
+      "source_sha256": "939a2604432eb2da268bce42ce2dce9eef7e38978ef1fb4fa4a4d7a28f4e8e83",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "8efa05822a6e91b0a5ab3a57",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Motor Servo Standard 01 Horn Adapter Printed \u2014 Nominal / assembly",
+      "image_sha256": "2a63ef488a8a9a1e37b4b1cae2e75287c0947352a5bb672fe024b2c536976f84"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.stl",
+      "source_sha256": "7a670d16fae71764ba30fd9199d8011907b7f9e380683fd9e3e5f9d3d62576e0",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr_presentation.png",
+      "dimensions_mm": [
+        56.7,
+        22.655,
+        6.5
+      ],
+      "key": "906e9da807eb5236e06b46fb",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Motor Servo Standard 01 Horn Adapter Screws \u2014 Print layout",
+      "image_sha256": "16d5154669a7d42cef0578a01a3f6abf3238cf3984dceedf4e49a33f3e0b4f04"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true.stl",
+      "source_sha256": "ac2c8b5f5def952de284c05134cd1d066b69c2699fe7d650c911709f1af7cc7f",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true_presentation.png",
+      "dimensions_mm": [
+        22.5,
+        22.456,
+        12.0
+      ],
+      "key": "de07e7cd849e2b92b48e0ab2",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 12 Depth Motor Servo Standard 01 Horn Adapter Screws \u2014 Nominal / assembly",
+      "image_sha256": "ec4c0dbc8e5938ce9f3fd6203e7d5ab36e304bbab31c6b24c69cd57e34208465"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_9_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_9_depth/3dpr.stl",
+      "source_sha256": "055e1a66f3603c7d0997803fd705d4a9dbac710546714a3a1fb3e045d5d5df45",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_9_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        4.5
+      ],
+      "key": "483b49a6c62182bedeb76bba",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 9 Depth \u2014 Print layout",
+      "image_sha256": "1781ea86dd3bfae0e3e0fcadf20f23a23f74b3ddc0b9cd51500ed22e5e8e61c1"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_9_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_9_depth/true.stl",
+      "source_sha256": "bbd51984b1214ca6855cbf65a58ec10ed637a7e2bcf5f099da0c21096e1bea47",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_3_width_3_height_9_depth/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        9.0
+      ],
+      "key": "58454ac1678a6985b2c98287",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 3 Width 3 Height 9 Depth \u2014 Nominal / assembly",
+      "image_sha256": "65f29e6269f988adda6a026d49d23113caf3e9a1ad6da06831ebec8f2e91ba23"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_5_width_3_height_9_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_5_width_3_height_9_depth/3dpr.stl",
+      "source_sha256": "9bd3c360d6851de15176eb915de95d36f2f2f6d457fb27ff1548a44afac7a93c",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_5_width_3_height_9_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        160.0,
+        44.98,
+        4.5
+      ],
+      "key": "9d20588daf1e0c438778cdf1",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 5 Width 3 Height 9 Depth \u2014 Print layout",
+      "image_sha256": "2a829988b147e71abbfe127b6a07a2450a8990cf0b2c2416075f127d1000ed95"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_5_width_3_height_9_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_5_width_3_height_9_depth/true.stl",
+      "source_sha256": "ba502c532b965a28ed3cebf4fa2896bfc7654d252f3858abdef76aba59243e8e",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_5_width_3_height_9_depth/true_presentation.png",
+      "dimensions_mm": [
+        75.0,
+        44.98,
+        9.0
+      ],
+      "key": "10332e745736e9530418c2fa",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 5 Width 3 Height 9 Depth \u2014 Nominal / assembly",
+      "image_sha256": "1dce5d5bb99f0014996c772469d5ba81e4619d6122505cc47ac9c6caacb6e7cd"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_8_width_3_height_9_depth_double",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_8_width_3_height_9_depth_double/3dpr.stl",
+      "source_sha256": "40bd274608ee60b0dba6a0214fcd6b611337322925d1937b39b810e4ec5425fe",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_8_width_3_height_9_depth_double/3dpr_presentation.png",
+      "dimensions_mm": [
+        250.0,
+        44.98,
+        4.5
+      ],
+      "key": "f292a290b7bd7de975744cca",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 8 Width 3 Height 9 Depth Double \u2014 Print layout",
+      "image_sha256": "23a82a30d840614113e678d3b811c4ce698a9014840b15d4bcf0e8682319a748"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6704_bearing_size_8_width_3_height_9_depth_double",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6704_bearing_size_8_width_3_height_9_depth_double/true.stl",
+      "source_sha256": "2b9116fb2bd4408fa1fb93b15e5814cc514a32049e3a8ecce8b9b2ba06e57806",
+      "image": "parts/oobb_part_holder_bearing_6704_bearing_size_8_width_3_height_9_depth_double/true_presentation.png",
+      "dimensions_mm": [
+        120.0,
+        44.98,
+        9.0
+      ],
+      "key": "f26c6d253c564e18cd0f5cf0",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6704 Bearing Size 8 Width 3 Height 9 Depth Double \u2014 Nominal / assembly",
+      "image_sha256": "521394a0227f50badc69b26c05db66c6966dd8506cdc96b40d5e27c9db5d08c2"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "source_sha256": "a9016b4b2e60928f227e2947ae25990036988a5ef0d27f4bdfc726ceab0fad9b",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "845395d67f6fc6c038d9069c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth \u2014 Print layout",
+      "image_sha256": "abca069655f609f25b101785e9f5db37070c3c9ba84922a0770a9bbd5f621680"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth/true.stl",
+      "source_sha256": "cf33e47e81029f5fb7d9c444e6e4a9ea21ba36bf1d7f225252caa1a79a09bdd2",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "7888ce057ffe36a5547004c4",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth \u2014 Nominal / assembly",
+      "image_sha256": "2b0b386a3722c26a832f6e0daa30c9bbc8f9cbeca9faf82ffe8aff73bf38e1ce"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/3dpr.stl",
+      "source_sha256": "f737166a2d4628cf783283bb5b0f5c376c3f94239caef43d99a732a5186ff7db",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "8930ac49fae7ca45f57c031d",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Inside Embedded M3 Nuts \u2014 Print layout",
+      "image_sha256": "b913cc910ecbd59e29a9a3036f768fe44b8521b981061630984a48e63e227676"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/true.stl",
+      "source_sha256": "5845b70d863f53e2aa2eee69aef9a261728adf8bb095fb98fb8e418da2446491",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_inside_embedded_m3_nuts/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "63774390b536540c5c885baf",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Inside Embedded M3 Nuts \u2014 Nominal / assembly",
+      "image_sha256": "7adb67914af838a92aa0210f66d9791422dbd3ae59aaf0fc80fa2b7dc96d1ccc"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/3dpr.stl",
+      "source_sha256": "3e810917ee3e1543ae02912c718b780cab85de73dacc917d78e7878442c8f3cf",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/3dpr_presentation.png",
+      "dimensions_mm": [
+        27.65,
+        27.595,
+        12.0
+      ],
+      "key": "1ea5eb6b8d1d382c5a9aa01a",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor Building Block Large 01 \u2014 Print layout",
+      "image_sha256": "97da20234f78e50d0330724df2eb826ec98912da4dd2382d5ce19a9627039981"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/true.stl",
+      "source_sha256": "be07bbb7a4bb5219b7afc6594d50ce6d6b17701a25ee421b979fd130b17b8514",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/true_presentation.png",
+      "dimensions_mm": [
+        27.5,
+        27.446,
+        12.0
+      ],
+      "key": "345a087948d02fdd020f59d5",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor Building Block Large 01 \u2014 Nominal / assembly",
+      "image_sha256": "3b191ac0af650e243030d01f99e1c43de696c17c32c04e044cf81deea9b68d3a"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/3dpr.stl",
+      "source_sha256": "ce2f272dc742907967cfd97cce2762c5921e33a5cfa836d0f0c5cff7cd7b431e",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "2c466737ab20f1a577257d9b",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor Gearmotor 01 \u2014 Print layout",
+      "image_sha256": "cacbee1d6d502a0344d2082eea3bc223381ffe3cee1ee55aa01238a6d1b96619"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/true.stl",
+      "source_sha256": "9554d9544a33af4328ccae888ac5abbb6e35fbcea7cb57f71d5618c45388d077",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_gearmotor_01/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "969627586c3d9fb04d8527a3",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor Gearmotor 01 \u2014 Nominal / assembly",
+      "image_sha256": "c3a07949e7194a0370360c0df1d704038e57199441453cdcf175f64a4d1f47fc"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/3dpr.stl",
+      "source_sha256": "5709ba5f4f654a84f30bd7647cadb45b904082b36ca041e8263f6499ffca40d0",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/3dpr_presentation.png",
+      "dimensions_mm": [
+        66.65,
+        27.595,
+        6.0
+      ],
+      "key": "17eee1641817d198876f2ae1",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor N20 \u2014 Print layout",
+      "image_sha256": "a622e1a8a13e4a2e90177f495dfb7c1687db610bfe3b8cd6a37b0c83b1ae2610"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/true.stl",
+      "source_sha256": "19a36ff7050152ed4795cd0e2b5624c298a2c2b35e92e19adb11898da8390460",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_n20/true_presentation.png",
+      "dimensions_mm": [
+        27.5,
+        27.446,
+        12.0
+      ],
+      "key": "aaedc994a5003445f243927f",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor N20 \u2014 Nominal / assembly",
+      "image_sha256": "5d67c447dc5d8f365f9c5b310b98653fadace00fb5d385b222c7e207632ad5ce"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/3dpr.stl",
+      "source_sha256": "b7c52cf4d95fae35067e0e1074fe70e1f8e6b579db09adb4a163a317b92394af",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "1aed19865ed171838f565293",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor Servo Micro 01 \u2014 Print layout",
+      "image_sha256": "7b56517705e4cba32ae27b280f1c05700607055ed096c33bd02df0b5eff78038"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/true.stl",
+      "source_sha256": "30adf68c8ad9b2118b5a1cb069f2d75367c1d6a336da565503e810cc29366b4c",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_micro_01/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "9f50f8cebd3fb403cf33c470",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor Servo Micro 01 \u2014 Nominal / assembly",
+      "image_sha256": "7c50af8856650efeb977bb2ec42a1d40e5433f10eb3c97fefc87779aeb0a1925"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr.stl",
+      "source_sha256": "a9d3edf8f749c514dacb0f5af2171a19face78a98b4ff2f315bce54e2d635891",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "5f0197aa6a6f6cbd0f9c1f33",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor Servo Standard 01 Horn Adapter Printed \u2014 Print layout",
+      "image_sha256": "6d2b60e376589a666fdef1191417b7e43299004705f12734c9304cb30ba2368a"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true.stl",
+      "source_sha256": "3a01cc57e1c53b5b5ff9579e274489a588f1d0f4a9533f43c6dd4ee25e87d252",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "75cabfa8407a7832efbf72c1",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor Servo Standard 01 Horn Adapter Printed \u2014 Nominal / assembly",
+      "image_sha256": "fab265716a5b8e5ba520dccabdb4ee632efaebf71a592a8583c7410e2f807fa3"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.stl",
+      "source_sha256": "83773ba2e8c643c453d56277338935c7276472af94a8133a933d59a9d97b3f6e",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr_presentation.png",
+      "dimensions_mm": [
+        66.65,
+        27.595,
+        6.5
+      ],
+      "key": "bae94ce48e7c42fb97771a84",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor Servo Standard 01 Horn Adapter Screws \u2014 Print layout",
+      "image_sha256": "19250ee29c229ae33e308e54fda605e23fce263adad7de0172cb6b2b7330556f"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true.stl",
+      "source_sha256": "26951ee9f6f5f3870f80bcd2a3ac1dfb097abd21084bcfa4d3cfcd1af6578291",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true_presentation.png",
+      "dimensions_mm": [
+        27.5,
+        27.446,
+        12.0
+      ],
+      "key": "9929b19dfdf1fd9fbedcdc81",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 3 Width 3 Height 12 Depth Motor Servo Standard 01 Horn Adapter Screws \u2014 Nominal / assembly",
+      "image_sha256": "0fcdb663b40aa1f8bb9d672568f351c3ed1f7768e0948babd2641e88a5671cc3"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_5_width_3_height_9_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_5_width_3_height_9_depth/3dpr.stl",
+      "source_sha256": "2a0c8de00d2202935816e21524eda50f0aae7a56ac86db9fc8b7d8203eb7deb7",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_5_width_3_height_9_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        160.0,
+        44.98,
+        4.5
+      ],
+      "key": "facf2b0587c8b9a1b7e01865",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 5 Width 3 Height 9 Depth \u2014 Print layout",
+      "image_sha256": "c4d0fe4a2f72bbdb4139ee8853dd78e496b2adc162c262db9e1420886f960f1e"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6705_bearing_size_5_width_3_height_9_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6705_bearing_size_5_width_3_height_9_depth/true.stl",
+      "source_sha256": "283ff28f4acba431d760808462ac530be030f691009669d4727a97704049fdd1",
+      "image": "parts/oobb_part_holder_bearing_6705_bearing_size_5_width_3_height_9_depth/true_presentation.png",
+      "dimensions_mm": [
+        75.0,
+        44.98,
+        9.0
+      ],
+      "key": "c4d20b49a8d08294d18bf3ed",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6705 Bearing Size 5 Width 3 Height 9 Depth \u2014 Nominal / assembly",
+      "image_sha256": "227ccd81fc2b30ed68014bcfcd3ea003354987f801d4a08bd861b081838e42be"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth/3dpr.stl",
+      "source_sha256": "a99618819e405f8709bfc4c1837f3af27ec6cf00b147911e963f1c6b908d1f4d",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        160.0,
+        74.98,
+        6.0
+      ],
+      "key": "ffa5a5b4ee0590e98956556d",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth \u2014 Print layout",
+      "image_sha256": "e7f887d3f09c6aeed46c0ddc4a390f95e0502c402ccb80dfef4015ddc651a151"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth/true.stl",
+      "source_sha256": "1558183b0477bb058b2110ff4820ae4d615194a906fb1ba8571f614b7b30b5be",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth/true_presentation.png",
+      "dimensions_mm": [
+        75.0,
+        74.98,
+        12.0
+      ],
+      "key": "63e22efeaad95213f1b2d5be",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth \u2014 Nominal / assembly",
+      "image_sha256": "a4bc1f59b70228a93e6f044fb0f0cc311864d8c8706c44f5064f2bb15f04ffc0"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/3dpr.stl",
+      "source_sha256": "8e4729e1339e856d71384c4a7ab6c395bf20d138760f8713c6f753b9cf7d0c94",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/3dpr_presentation.png",
+      "dimensions_mm": [
+        160.0,
+        74.98,
+        6.0
+      ],
+      "key": "4bc399c5c141629b190a03eb",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Inside Embedded M3 Nuts \u2014 Print layout",
+      "image_sha256": "f98687ea63c42a669c480420705f08edeee995596d31e87b3e3020a74e917375"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/true.stl",
+      "source_sha256": "feffd1d8bec6cfe09ab4593a56ad0b018b79c8421d67e91a6c295a32e142f55e",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m3_nuts/true_presentation.png",
+      "dimensions_mm": [
+        75.0,
+        74.98,
+        12.0
+      ],
+      "key": "30d09cfd039a1f218206fd94",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Inside Embedded M3 Nuts \u2014 Nominal / assembly",
+      "image_sha256": "25429cb545720cabd548977ed35796737a739d4e44e9c1b0faa83bd04267ff53"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/3dpr.stl",
+      "source_sha256": "02eb0ecaf04a19286523ad890f73e3d8d91a87cca04cb30d7cda57263409cb57",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/3dpr_presentation.png",
+      "dimensions_mm": [
+        160.0,
+        74.98,
+        6.0
+      ],
+      "key": "a86761e5aeae8188a8161dea",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Inside Embedded M6 Nuts \u2014 Print layout",
+      "image_sha256": "08aa2ed82b9e0a8af5cd9d6e1aeb310ab26ba625b66710a2d9a96ad9580ced03"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/true.stl",
+      "source_sha256": "c8e54146d7ef14f2103c871020693c259195b0347b586c8dcf4ba6556c527692",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_embedded_m6_nuts/true_presentation.png",
+      "dimensions_mm": [
+        75.0,
+        74.98,
+        12.0
+      ],
+      "key": "6c7f50cbfb379c8b5c503bd9",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Inside Embedded M6 Nuts \u2014 Nominal / assembly",
+      "image_sha256": "1571f81948442c6f2a87ccec07a6ce97c8ae6cbc258fbebd3a2ed0540e5e65a1"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/3dpr.stl",
+      "source_sha256": "2ffbb7a87605b5a4b8166c0e24494ba7557571419e1c222bafe688ee8faf3765",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/3dpr_presentation.png",
+      "dimensions_mm": [
+        160.0,
+        74.98,
+        6.0
+      ],
+      "key": "33779b975f518da02875d214",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Inside Mechanical Coupler Flange Name 5 Mm Bore \u2014 Print layout",
+      "image_sha256": "6a5396fd85e1a947b6e0f5c3d7f5cc7831745c9b87e3d4cde4c17c98e9cb6d13"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/true.stl",
+      "source_sha256": "6befe8c3ee7ae192c5526cc51c8995d857f073163b1f8f0b5d9ebdc15ac0444c",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_inside_mechanical_coupler_flange_name_5_mm_bore/true_presentation.png",
+      "dimensions_mm": [
+        75.0,
+        74.98,
+        12.0
+      ],
+      "key": "3b6a4561405cfd6639a08a32",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Inside Mechanical Coupler Flange Name 5 Mm Bore \u2014 Nominal / assembly",
+      "image_sha256": "0f211dcca79a2101a60bff4e10c44a4b40cd559920bb64998834d578cc1b1e2a"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/3dpr.stl",
+      "source_sha256": "0914bab88878338b46cfaf9421277e91af384b39c9c13d2490744b0e4d558e3a",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/3dpr_presentation.png",
+      "dimensions_mm": [
+        49.0,
+        48.903,
+        12.0
+      ],
+      "key": "49cf1d1d8abf7b2a0b01e329",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor Building Block Large 01 \u2014 Print layout",
+      "image_sha256": "bb98635ca29dcca46aebd9ff6a284f4ef3a085fd18288351ddc4f19004df6c1a"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/true.stl",
+      "source_sha256": "71ce8e997733f95045d6cad2dec30b5d94de40e1bafd595833522e4beb81ea94",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/true_presentation.png",
+      "dimensions_mm": [
+        49.0,
+        48.903,
+        12.0
+      ],
+      "key": "f92dedb3c91d689fc3b31bd3",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor Building Block Large 01 \u2014 Nominal / assembly",
+      "image_sha256": "7eed8c170de596bbebfbd934e48b6aef0e4032eaf9f150df3883d8621670181d"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/3dpr.stl",
+      "source_sha256": "b49a7ca9689f317fe6d02b0c2612dcda63b2b288087d6cdab66cad37e54149a5",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/3dpr_presentation.png",
+      "dimensions_mm": [
+        160.0,
+        74.98,
+        6.0
+      ],
+      "key": "c71bbc09a038a218d592de67",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor Gearmotor 01 \u2014 Print layout",
+      "image_sha256": "7f35b4194562ecfad7245ea6384b07c99330f0cf65fd84ba5c68013b4e0e5cb9"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/true.stl",
+      "source_sha256": "c9c7a1ef426055add3921d221a1cecbe7361c8080203f0a2e05e7e3e28340e7b",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_gearmotor_01/true_presentation.png",
+      "dimensions_mm": [
+        75.0,
+        74.98,
+        12.0
+      ],
+      "key": "670bfd043d11c4e436fd279f",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor Gearmotor 01 \u2014 Nominal / assembly",
+      "image_sha256": "06daa29c698b07476f82e87034fc8f7420d685c378379fbc4c49d8a231f85ff4"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/3dpr.stl",
+      "source_sha256": "c5d836c1312767c27360d3e070817695a0b24f00ec6a8fde4b62640cfe9ba7a8",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/3dpr_presentation.png",
+      "dimensions_mm": [
+        108.0,
+        48.903,
+        6.0
+      ],
+      "key": "305f3db8a6c6fb8e2cdc1dbc",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor N20 \u2014 Print layout",
+      "image_sha256": "8274d83699af10d3ff9cc4b8b1e5b84e343eee8b09668c6fbfe862d186d811f7"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/true.stl",
+      "source_sha256": "35cc1ed6b11d8d76c9bbb462702b9fe968cb70af0a4e34ba348a321825f9cf05",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/true_presentation.png",
+      "dimensions_mm": [
+        49.0,
+        48.903,
+        12.0
+      ],
+      "key": "7b17db0f334adfc1520e11e1",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor N20 \u2014 Nominal / assembly",
+      "image_sha256": "1c69ae969751e54f615577921b3907fcd2b993decd021d89eaafb86d55fffeae"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/3dpr.stl",
+      "source_sha256": "25cd79f48eeb1013994e9d390973cf6b0ec502099cf2822da31f3845b2e72f6e",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/3dpr_presentation.png",
+      "dimensions_mm": [
+        160.0,
+        74.98,
+        6.0
+      ],
+      "key": "52824d9fc450036b4a9f8bac",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor Servo Micro 01 \u2014 Print layout",
+      "image_sha256": "c74efe542278d1a9fcc83ada05189dbd73503f3779f1347edfc22ac30bf695a2"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/true.stl",
+      "source_sha256": "b37067d39dc3fe40d18eb0e3ea4b4a8d182486efbf0b5a6221cae19107b5f67b",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_micro_01/true_presentation.png",
+      "dimensions_mm": [
+        75.0,
+        74.98,
+        12.0
+      ],
+      "key": "5e4a641e883e49ee506905af",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor Servo Micro 01 \u2014 Nominal / assembly",
+      "image_sha256": "2473df4392a8f926fd6e99f3bd91bf562197e22a20ee533473eb64d82ad7fc1c"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr.stl",
+      "source_sha256": "568b6d989fa1d8f757d717cf008d5fb3efedf6aeff10f67f2839ed849f21e173",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/3dpr_presentation.png",
+      "dimensions_mm": [
+        160.0,
+        74.98,
+        6.0
+      ],
+      "key": "33a489cf42e74a22d493774d",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor Servo Standard 01 Horn Adapter Printed \u2014 Print layout",
+      "image_sha256": "82fdafc9bed64993b3a178e57a7aaf15ea2f9b0a452be2e88a55cf89ebf9e239"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true.stl",
+      "source_sha256": "7c29a960a499cae1e1b11c73bc74ff30648c5762440780d48b19e0a2ceb2abbe",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_printed/true_presentation.png",
+      "dimensions_mm": [
+        75.0,
+        74.98,
+        12.0
+      ],
+      "key": "734b79fe7d6a5e0467008fe0",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor Servo Standard 01 Horn Adapter Printed \u2014 Nominal / assembly",
+      "image_sha256": "d3a7ebb947cfe6d66583a9120bdc86295b4f0f20f33a76bd01817e150ac39cba"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.stl",
+      "source_sha256": "596dc23978f8b30f7e49dcc3c2aa7816e7fd35ec2d6c65461cfd0362fe03723a",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr_presentation.png",
+      "dimensions_mm": [
+        108.0,
+        48.903,
+        6.5
+      ],
+      "key": "9a1b4f0ef11578c072bc0bcd",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor Servo Standard 01 Horn Adapter Screws \u2014 Print layout",
+      "image_sha256": "9c36a642c1d15206e70c2459c7070391faf8a0db51f816510c5f3a742beba1b7"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true.stl",
+      "source_sha256": "080b002414c74620eb1bf62db9f82ceeeef65694ffe91987eaa8c7a003f065ec",
+      "image": "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_servo_standard_01_horn_adapter_screws/true_presentation.png",
+      "dimensions_mm": [
+        49.0,
+        48.903,
+        12.0
+      ],
+      "key": "4134393ccf8ffcad5a952074",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6709 Bearing Size 5 Width 5 Height 12 Depth Motor Servo Standard 01 Horn Adapter Screws \u2014 Nominal / assembly",
+      "image_sha256": "e69d53a4ccf1584af5a9d5d887b51120086f892bb1f41b9115b6fb84e535e600"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6803_bearing_size_3_width_3_height_12_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6803_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "source_sha256": "818c9125866bc4b95935916744d3c2992e9f80cd1756a43141d096684fea7fac",
+      "image": "parts/oobb_part_holder_bearing_6803_bearing_size_3_width_3_height_12_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "7055c475b57f19600b44abdd",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6803 Bearing Size 3 Width 3 Height 12 Depth \u2014 Print layout",
+      "image_sha256": "7ff0cf935e6d6f2f91077c5226cae0541e007fd021ddb25c9395d375dcc5140c"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6803_bearing_size_3_width_3_height_12_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6803_bearing_size_3_width_3_height_12_depth/true.stl",
+      "source_sha256": "64bb668267ad6006232f3864d84f0e1a3d6f6ed1213a3a3cd2f8c9ab279ef09f",
+      "image": "parts/oobb_part_holder_bearing_6803_bearing_size_3_width_3_height_12_depth/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "60d84e4e290bbc087a741953",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6803 Bearing Size 3 Width 3 Height 12 Depth \u2014 Nominal / assembly",
+      "image_sha256": "3bd3052d76146a10396e06839583dc1296b894660d77de9df4691f714961947b"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6804_bearing_size_3_width_3_height_12_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6804_bearing_size_3_width_3_height_12_depth/3dpr.stl",
+      "source_sha256": "ca7f2c563c6fffa5009e5ec5c476b3c9eb45cf7a26331ed96c94c584356a1ec8",
+      "image": "parts/oobb_part_holder_bearing_6804_bearing_size_3_width_3_height_12_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        100.0,
+        44.98,
+        6.0
+      ],
+      "key": "01494c3575eedcdcc3cd9211",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6804 Bearing Size 3 Width 3 Height 12 Depth \u2014 Print layout",
+      "image_sha256": "4c35f974dc5e02a0f0e1e8f2cc7c5d4bb774ddb711d67756f6323778f3954739"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6804_bearing_size_3_width_3_height_12_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6804_bearing_size_3_width_3_height_12_depth/true.stl",
+      "source_sha256": "713d63493aad1327c0dd830fd5a5217fdbed8ee8ce6b69fd8747ca7ce6c654dd",
+      "image": "parts/oobb_part_holder_bearing_6804_bearing_size_3_width_3_height_12_depth/true_presentation.png",
+      "dimensions_mm": [
+        45.0,
+        44.98,
+        12.0
+      ],
+      "key": "dd46028e0de1a020b21a0de6",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6804 Bearing Size 3 Width 3 Height 12 Depth \u2014 Nominal / assembly",
+      "image_sha256": "162ee70e7128ea477120e1056ef1566bea41008cdd2c91c7a96cd9bdec01df53"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6808_bearing_size_5_width_5_height_12_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6808_bearing_size_5_width_5_height_12_depth/3dpr.stl",
+      "source_sha256": "ab52fc4e343246b364c2631e333eba88ee2d9bf0839dc9545b0b0ff8384b28f4",
+      "image": "parts/oobb_part_holder_bearing_6808_bearing_size_5_width_5_height_12_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        160.0,
+        74.98,
+        6.0
+      ],
+      "key": "6d38a9157cdb9425159fa84f",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6808 Bearing Size 5 Width 5 Height 12 Depth \u2014 Print layout",
+      "image_sha256": "7cea111ebc0a339011f62dfeccc38f6399baa1e11416e2348a0d817e30f9b5b2"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6808_bearing_size_5_width_5_height_12_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6808_bearing_size_5_width_5_height_12_depth/true.stl",
+      "source_sha256": "a1eabe978378c468fc44b03ab64471d560d030dcd7890b2885d57226afa84bea",
+      "image": "parts/oobb_part_holder_bearing_6808_bearing_size_5_width_5_height_12_depth/true_presentation.png",
+      "dimensions_mm": [
+        75.0,
+        74.98,
+        12.0
+      ],
+      "key": "91e5d390e7a419d85cf7b166",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6808 Bearing Size 5 Width 5 Height 12 Depth \u2014 Nominal / assembly",
+      "image_sha256": "aace73a32b193bd2fd84ba1573d99af01ec6ea7a27ceea4ca57c5ab1b163ddcc"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth/3dpr.stl",
+      "source_sha256": "7065f4f5346dee743e1ad77ea988d4b24afa4448aabf3b4a2f0e04a037c6ff6f",
+      "image": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        220.0,
+        74.98,
+        6.0
+      ],
+      "key": "5fa05f1b5c3e1d56054a80ad",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6810 Bearing Size 7 Width 5 Height 12 Depth \u2014 Print layout",
+      "image_sha256": "e0d24675867c729bb93b531331941761974774e07dd894b9997bed77e2c8eab8"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth/true.stl",
+      "source_sha256": "5103f257662d099b5aad4bc4ee1b527644898f47163d1fa760303459ccd5970d",
+      "image": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth/true_presentation.png",
+      "dimensions_mm": [
+        105.0,
+        74.98,
+        12.0
+      ],
+      "key": "34c9335789037a9477409c33",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6810 Bearing Size 7 Width 5 Height 12 Depth \u2014 Nominal / assembly",
+      "image_sha256": "3a6f9b31253ad3ec8c55ba3d96bca1eb7dd1956ebde590ad2af5ede4f6ffb888"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/3dpr.stl",
+      "source_sha256": "3930a0a4e3d14b43634ace550b80b3510599d769744ca12d1791f641071dc4d9",
+      "image": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/3dpr_presentation.png",
+      "dimensions_mm": [
+        220.0,
+        74.98,
+        6.0
+      ],
+      "key": "39a4210c7cf6d5ae44f74838",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6810 Bearing Size 7 Width 5 Height 12 Depth Inside Embedded M3 Nuts \u2014 Print layout",
+      "image_sha256": "148542614f0dfaa7587bb83e1c6d1c5a9a339975c1a08e4b2973adb22792216c"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/true.stl",
+      "source_sha256": "0af034d155e1f3af36a4a22d1ae2ac2d696911e77821c0355004eb9728d63159",
+      "image": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m3_nuts/true_presentation.png",
+      "dimensions_mm": [
+        105.0,
+        74.98,
+        12.0
+      ],
+      "key": "4ab649ee73060ab652511878",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6810 Bearing Size 7 Width 5 Height 12 Depth Inside Embedded M3 Nuts \u2014 Nominal / assembly",
+      "image_sha256": "7e8d44c3ca4de2db59abf3f2669d6e55359b849995f4a7335b9e1fcd36f378be"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/3dpr.stl",
+      "source_sha256": "6568f02d39dbeedf2ca1f37eaafd6c3d04d5e5fb19624be7939301ef299549a6",
+      "image": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/3dpr_presentation.png",
+      "dimensions_mm": [
+        220.0,
+        74.98,
+        6.0
+      ],
+      "key": "ea78af66cd7965a1c0bbda3d",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6810 Bearing Size 7 Width 5 Height 12 Depth Inside Embedded M6 Nuts \u2014 Print layout",
+      "image_sha256": "069da3a7008d4bc60a46b73ab65c68df677e77d215a47b32c1c0d4ab57a80797"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/true.stl",
+      "source_sha256": "9e342e524bde4a6f7558b72a0a8b31c4b3271288438a9c0158cb3de5b7b19d2b",
+      "image": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_embedded_m6_nuts/true_presentation.png",
+      "dimensions_mm": [
+        105.0,
+        74.98,
+        12.0
+      ],
+      "key": "21605ce1315d99cbb0aa995c",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6810 Bearing Size 7 Width 5 Height 12 Depth Inside Embedded M6 Nuts \u2014 Nominal / assembly",
+      "image_sha256": "66449b433cf09e03d6eb9f95ffd4e1d7a1fc137ecc9c47f20919447b65476e89"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_hole_30_mm",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_hole_30_mm/3dpr.stl",
+      "source_sha256": "39b56a9c4d9923278497dfc713bbb77fd5fd0697b1684d1d28b0e73db2c37f9c",
+      "image": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_hole_30_mm/3dpr_presentation.png",
+      "dimensions_mm": [
+        220.0,
+        74.98,
+        6.0
+      ],
+      "key": "499e517cbfaebdacef581b1f",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6810 Bearing Size 7 Width 5 Height 12 Depth Inside Hole 30 Mm \u2014 Print layout",
+      "image_sha256": "c2804918b58fdc44f6f0cff8cc1604b999c7f793d4544262426c54af4b7288e7"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_hole_30_mm",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_hole_30_mm/true.stl",
+      "source_sha256": "278d148afcdcb784198873f28f51f590b2a31db98f014bb8a56cbd31238a9eae",
+      "image": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_12_depth_inside_hole_30_mm/true_presentation.png",
+      "dimensions_mm": [
+        105.0,
+        74.98,
+        12.0
+      ],
+      "key": "a8005f33734af9b29ca0280b",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6810 Bearing Size 7 Width 5 Height 12 Depth Inside Hole 30 Mm \u2014 Nominal / assembly",
+      "image_sha256": "7b208149d271748a77926485c793e1b3d76f6bf18e62fd913784f6f49e6ddf08"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth",
+      "variant": "3dpr",
+      "source": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth/3dpr.stl",
+      "source_sha256": "a50870100f8a222985d378df0b43ee61fa70a8e46f62b22f4c751b90535b3f35",
+      "image": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth/3dpr_presentation.png",
+      "dimensions_mm": [
+        220.0,
+        74.98,
+        7.5
+      ],
+      "key": "e58947d0f4d0a6b75ca9bdcf",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6810 Bearing Size 7 Width 5 Height 15 Depth \u2014 Print layout",
+      "image_sha256": "8ea9edcb2d3d984985a7a84275494cfc745e46bdda4bee327856fc5de044d4a1"
+    },
+    {
+      "id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth",
+      "variant": "true",
+      "source": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth/true.stl",
+      "source_sha256": "6e5da9b21164d21e237da5895cf57e44284cff3e7855bdd7008147f8097be5b1",
+      "image": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth/true_presentation.png",
+      "dimensions_mm": [
+        105.0,
+        74.98,
+        15.0
+      ],
+      "key": "ea8d407966cc939796af23de",
+      "sheet_version": 1,
+      "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+      "blender": "Blender 5.2.2 LTS",
+      "label": "Holder Bearing 6810 Bearing Size 7 Width 5 Height 15 Depth \u2014 Nominal / assembly",
+      "image_sha256": "6fd1c95efb2a53b609c601d1f21c66aec93ae44914b09d7af227b0b669364e9e"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Preserve exact CAD and image bytes used by validation hashes.
+/parts/** -text whitespace=cr-at-eol
+/navigation_oobb/** text eol=lf
+*.png -text
+*.stl -text
+
+# Keep provenance hashes stable across fresh clones and platforms.
+*.py -text
+*.scad -text
+*.json -text
+*.yaml -text
+/examples/** -text
+
+*.py whitespace=cr-at-eol
+*.scad whitespace=cr-at-eol
+*.json whitespace=cr-at-eol
+*.yaml whitespace=cr-at-eol
+/examples/** whitespace=cr-at-eol

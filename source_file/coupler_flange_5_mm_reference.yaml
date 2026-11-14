@@ -1,0 +1,27 @@
+oomp_id: mechanical_coupler_flange_name_5_mm_bore
+source_record: C:/od/OneDrive/docs/oomp_mechanical_coupler/parts/mechanical_coupler_flange_name_5_mm_bore/working.yaml
+source_dimensions: C:/od/OneDrive/docs/oomp_mechanical_coupler/source_file/dimension/flange/dimension.csv
+source_drawing: C:/od/OneDrive/docs/oomp_mechanical_coupler/working_svg.py
+copied_on: '2026-10-06'
+dimensions_mm:
+  bore: 5
+  diameter_baseplate: 22
+  diameter_cylindrical: 10
+  diameter_screw_grub: 3
+  diameter_screw_hole: 3
+  height_total: 12
+  height_cylindrical: 10
+  distance_diagonal_screw_hole: 16
+  flange_thickness: 2
+  count_screw_hole: 4
+  dimension_d: 7.5
+interpretation: The source drawing uses distance_diagonal_screw_hole as the bolt-circle diameter. Four holes are at radius 8 mm, at 0, 90, 180 and 270 degrees. This is a 5 mm shaft bore, not an M5 threaded mounting pattern.
+mounting: Metal flange sits on the outside face of the inner hub. Four M3 bolts engage nuts captured at the split. Two separate hub joining screws clamp both halves. Barrel and grub screws remain outside the plastic.
+bearing:
+  size: '6709'
+  inner_diameter_mm: 45
+  outer_diameter_mm: 55
+  depth_mm: 6
+  source: https://www.cxnjs.com/content/150.html
+  print_outer_radial_clearance_mm: 0.2
+physical_fit_tested: false
