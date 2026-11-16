@@ -413,6 +413,35 @@ def section_checker(mesh):
     return contains
 
 
+@pytest.mark.parametrize("mode", ["3dpr", "true"])
+@pytest.mark.parametrize("depth", [12, 15])
+def test_6810_joining_recesses_fit_12_mm_screws(tmp_path, mode, depth):
+    option = next(p for p in OPTIONS if p["bearing_size"] == "6810"
+                  and p["depth"] == depth and p["extra"] == "")
+    kwargs = dict(option["oobb_details"], mode=mode, prepare_print=False)
+    thing = draw(**kwargs)
+    screws = [c for c in thing["components_objects"]
+              if c.get("shape") == "oobb_screw_countersunk"]
+    assert len(screws) == 6  # Four frame joins and two centre joins.
+    assert {c["rot"][1] for c in screws} == {0, 180}
+    mesh = render(tmp_path, **kwargs)
+    assert mesh.bounds[:, 2] == pytest.approx([-depth / 2, depth / 2])
+    contains = section_checker(mesh)
+    for screw in screws:
+        x, y, z = screw["pos"]
+        face = -1 if screw["rot"][1] == 180 else 1
+        assert z == face * 6
+        assert screw["depth"] == 12
+        # The head and nut must be insertable from the outside, with solid
+        # seating shoulders deeper in the holder, in both screw directions.
+        assert not contains([[x + 2.5, y]], face * (depth / 2 - 0.1)).any()
+        assert not contains([[x + 2.5, y]], face * 5.9).any()
+        assert contains([[x + 2.5, y]], face * 3).all()
+        assert not contains([[x + 2.5, y]], -face * (depth / 2 - 0.1)).any()
+        assert not contains([[x + 2.5, y]], -face * 4.5).any()
+        assert contains([[x + 2.5, y]], -face * 2).all()
+
+
 @pytest.mark.parametrize("mode", ["3dpr", "true", "laser"])
 def test_double_6704_centers_seats_and_hubs(tmp_path, mode):
     option = next(p for p in OPTIONS if p["extra"] == "double")

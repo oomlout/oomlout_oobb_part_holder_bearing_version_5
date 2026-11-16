@@ -1,0 +1,8 @@
+key,part,quantity,kind,purpose
+frame,Printed frame halves,2,Print,Print all frame pieces in 3dpr.stl once
+hub,Printed hub pieces,2,Print,Print all hub pieces in 3dpr.stl once; preserve complementary faces
+bearing,606 bearing — 6 × 17 × 6 mm,1,Hardware,Bore × outside diameter × width
+extension_nuts,M6 hex nuts,3,Hardware,Load extension pockets/slots before closing; mating bolts depend on the mounted part
+joining_12_False,M3 × 12 mm countersunk screws,4,Hardware,Join printed halves; follow the alternating head/nut faces
+joining_nuts,M3 hex nuts,4,Hardware,Opposite-face joining pockets
+shaft_retention,M6 shaft / axle with hub retainers,1,Interface,Required to retain the unjoined hub pieces; select length and retainers for the application

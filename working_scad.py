@@ -916,6 +916,12 @@ def add_joining_screw(thing, **kwargs):
     p3["radius_name"] = "m3"
     p3["depth"] = depth
     p3["pos"] = [kwargs.get("screw_x", 0), kwargs.get("screw_y", 0), z]
+    if depth == 15 and mode in ["3dpr", "true"]:
+        # Centre a 12 mm countersunk screw in the 15 mm holder: recess
+        # both ends 1.5 mm and extend their access pockets to the faces.
+        p3["depth"] = 12
+        p3["pos"][2] = -6 if face == 180 else 6
+        p3["clearance"] = ["top", "bottom"]
     p3["rot"] = [0, face, 0]
     p3["rotation_nut"] = [0, 0, kwargs.get("nut_rotation", 0) * 2]
     p3["hole"] = True

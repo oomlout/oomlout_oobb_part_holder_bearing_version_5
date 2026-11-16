@@ -49,7 +49,7 @@ kwargs:
   body: plate
   depth: 15
   extra: ''
-  filter: ''
+  filter: 15_depth
   generate_stl: false
   height: 5
   holder_type: holder
@@ -79,7 +79,7 @@ kwargs:
   split: true
   split_z: 0
   typ: fast
-  type: default_bearing_holder
+  type: C:\gh\oomlout_oobb_part_holder_bearing_version_5_bearing_holder
   width: 7
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth
@@ -1201,7 +1201,10 @@ thing:
           shape: cylinder
           type: negative
       - - objects:
-          - - depth: 15
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
               h: 1.9
               inclusion: 3dpr
               pos:
@@ -1212,32 +1215,50 @@ thing:
               r2: 3.6
               shape: cylinder
               type: positive
-          - - depth: 15
-              h: 15
-              inclusion: 3dpr
-              pos:
-              - 0
-              - 0
-              - -15.0
-              r: 1.8
-              shape: cylinder
-              type: positive
-          - - objects:
-              - height: 3
+          - - - clearance:
+                - top
+                - bottom
+                depth: 12
+                h: 250
                 inclusion: 3dpr
                 pos:
                 - 0
                 - 0
+                - 0.0
+                r: 3.6
+                shape: cylinder
+                type: positive
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - depth: 250
+                height: 250
+                inclusion: 3dpr
+                pos:
                 - 0
+                - 0
+                - -250
                 r: 3.4619999999999997
                 shape: polyg
                 sides: 6
                 type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - -0.3
+                          - -250.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1247,11 +1268,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - -0.6
+                          - -250.60000000000002
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1261,11 +1283,12 @@ thing:
                           - 3.5
                           - 0.3
                           type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - 3
+                          - 0
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1275,11 +1298,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - 3.3
+                          - 0.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1301,7 +1325,7 @@ thing:
               pos:
               - 0
               - 0
-              - -15.0
+              - -9.0
               rot:
               - 0
               - 0
@@ -1311,7 +1335,7 @@ thing:
           pos:
           - 48.5
           - 22.5
-          - 7.5
+          - 6
           rot:
           - 0
           - 0
@@ -1319,7 +1343,10 @@ thing:
           type: rotation
           typetype: negative
       - - objects:
-          - - depth: 15
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
               h: 1.9
               inclusion: 3dpr
               pos:
@@ -1330,32 +1357,50 @@ thing:
               r2: 3.6
               shape: cylinder
               type: positive
-          - - depth: 15
-              h: 15
-              inclusion: 3dpr
-              pos:
-              - 0
-              - 0
-              - -15.0
-              r: 1.8
-              shape: cylinder
-              type: positive
-          - - objects:
-              - height: 3
+          - - - clearance:
+                - top
+                - bottom
+                depth: 12
+                h: 250
                 inclusion: 3dpr
                 pos:
                 - 0
                 - 0
+                - 0.0
+                r: 3.6
+                shape: cylinder
+                type: positive
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - depth: 250
+                height: 250
+                inclusion: 3dpr
+                pos:
                 - 0
+                - 0
+                - -250
                 r: 3.4619999999999997
                 shape: polyg
                 sides: 6
                 type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - -0.3
+                          - -250.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1365,11 +1410,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - -0.6
+                          - -250.60000000000002
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1379,11 +1425,12 @@ thing:
                           - 3.5
                           - 0.3
                           type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - 3
+                          - 0
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1393,11 +1440,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - 3.3
+                          - 0.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1419,7 +1467,7 @@ thing:
               pos:
               - 0
               - 0
-              - -15.0
+              - -9.0
               rot:
               - 0
               - 0
@@ -1429,7 +1477,7 @@ thing:
           pos:
           - -48.5
           - 22.5
-          - -7.5
+          - -6
           rot:
           - 0
           - 180
@@ -1437,7 +1485,10 @@ thing:
           type: rotation
           typetype: negative
       - - objects:
-          - - depth: 15
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
               h: 1.9
               inclusion: 3dpr
               pos:
@@ -1448,32 +1499,50 @@ thing:
               r2: 3.6
               shape: cylinder
               type: positive
-          - - depth: 15
-              h: 15
-              inclusion: 3dpr
-              pos:
-              - 0
-              - 0
-              - -15.0
-              r: 1.8
-              shape: cylinder
-              type: positive
-          - - objects:
-              - height: 3
+          - - - clearance:
+                - top
+                - bottom
+                depth: 12
+                h: 250
                 inclusion: 3dpr
                 pos:
                 - 0
                 - 0
+                - 0.0
+                r: 3.6
+                shape: cylinder
+                type: positive
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - depth: 250
+                height: 250
+                inclusion: 3dpr
+                pos:
                 - 0
+                - 0
+                - -250
                 r: 3.4619999999999997
                 shape: polyg
                 sides: 6
                 type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - -0.3
+                          - -250.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1483,11 +1552,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - -0.6
+                          - -250.60000000000002
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1497,11 +1567,12 @@ thing:
                           - 3.5
                           - 0.3
                           type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - 3
+                          - 0
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1511,11 +1582,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - 3.3
+                          - 0.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1537,7 +1609,7 @@ thing:
               pos:
               - 0
               - 0
-              - -15.0
+              - -9.0
               rot:
               - 0
               - 0
@@ -1547,7 +1619,7 @@ thing:
           pos:
           - -48.5
           - -22.5
-          - 7.5
+          - 6
           rot:
           - 0
           - 0
@@ -1555,7 +1627,10 @@ thing:
           type: rotation
           typetype: negative
       - - objects:
-          - - depth: 15
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
               h: 1.9
               inclusion: 3dpr
               pos:
@@ -1566,32 +1641,50 @@ thing:
               r2: 3.6
               shape: cylinder
               type: positive
-          - - depth: 15
-              h: 15
-              inclusion: 3dpr
-              pos:
-              - 0
-              - 0
-              - -15.0
-              r: 1.8
-              shape: cylinder
-              type: positive
-          - - objects:
-              - height: 3
+          - - - clearance:
+                - top
+                - bottom
+                depth: 12
+                h: 250
                 inclusion: 3dpr
                 pos:
                 - 0
                 - 0
+                - 0.0
+                r: 3.6
+                shape: cylinder
+                type: positive
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - depth: 250
+                height: 250
+                inclusion: 3dpr
+                pos:
                 - 0
+                - 0
+                - -250
                 r: 3.4619999999999997
                 shape: polyg
                 sides: 6
                 type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - -0.3
+                          - -250.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1601,11 +1694,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - -0.6
+                          - -250.60000000000002
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1615,11 +1709,12 @@ thing:
                           - 3.5
                           - 0.3
                           type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - 3
+                          - 0
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1629,11 +1724,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - 3.3
+                          - 0.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1655,7 +1751,7 @@ thing:
               pos:
               - 0
               - 0
-              - -15.0
+              - -9.0
               rot:
               - 0
               - 0
@@ -1665,7 +1761,7 @@ thing:
           pos:
           - 48.5
           - -22.5
-          - -7.5
+          - -6
           rot:
           - 0
           - 180
@@ -1673,7 +1769,10 @@ thing:
           type: rotation
           typetype: negative
       - - objects:
-          - - depth: 15
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
               h: 1.9
               inclusion: 3dpr
               pos:
@@ -1684,32 +1783,50 @@ thing:
               r2: 3.6
               shape: cylinder
               type: positive
-          - - depth: 15
-              h: 15
-              inclusion: 3dpr
-              pos:
-              - 0
-              - 0
-              - -15.0
-              r: 1.8
-              shape: cylinder
-              type: positive
-          - - objects:
-              - height: 3
+          - - - clearance:
+                - top
+                - bottom
+                depth: 12
+                h: 250
                 inclusion: 3dpr
                 pos:
                 - 0
                 - 0
+                - 0.0
+                r: 3.6
+                shape: cylinder
+                type: positive
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - depth: 250
+                height: 250
+                inclusion: 3dpr
+                pos:
                 - 0
+                - 0
+                - -250
                 r: 3.4619999999999997
                 shape: polyg
                 sides: 6
                 type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - -0.3
+                          - -250.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1719,11 +1836,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - -0.6
+                          - -250.60000000000002
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1733,11 +1851,12 @@ thing:
                           - 3.5
                           - 0.3
                           type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - 3
+                          - 0
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1747,11 +1866,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - 3.3
+                          - 0.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1773,7 +1893,7 @@ thing:
               pos:
               - 0
               - 0
-              - -15.0
+              - -9.0
               rot:
               - 0
               - 0
@@ -1783,7 +1903,7 @@ thing:
           pos:
           - -7.5
           - 7.5
-          - 7.5
+          - 6
           rot:
           - 0
           - 0
@@ -1791,7 +1911,10 @@ thing:
           type: rotation
           typetype: negative
       - - objects:
-          - - depth: 15
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
               h: 1.9
               inclusion: 3dpr
               pos:
@@ -1802,32 +1925,50 @@ thing:
               r2: 3.6
               shape: cylinder
               type: positive
-          - - depth: 15
-              h: 15
-              inclusion: 3dpr
-              pos:
-              - 0
-              - 0
-              - -15.0
-              r: 1.8
-              shape: cylinder
-              type: positive
-          - - objects:
-              - height: 3
+          - - - clearance:
+                - top
+                - bottom
+                depth: 12
+                h: 250
                 inclusion: 3dpr
                 pos:
                 - 0
                 - 0
+                - 0.0
+                r: 3.6
+                shape: cylinder
+                type: positive
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - depth: 250
+                height: 250
+                inclusion: 3dpr
+                pos:
                 - 0
+                - 0
+                - -250
                 r: 3.4619999999999997
                 shape: polyg
                 sides: 6
                 type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - -0.3
+                          - -250.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1837,11 +1978,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - -0.6
+                          - -250.60000000000002
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1851,11 +1993,12 @@ thing:
                           - 3.5
                           - 0.3
                           type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - 3
+                          - 0
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1865,11 +2008,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - 3.3
+                          - 0.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -1891,7 +2035,7 @@ thing:
               pos:
               - 0
               - 0
-              - -15.0
+              - -9.0
               rot:
               - 0
               - 0
@@ -1901,7 +2045,7 @@ thing:
           pos:
           - 7.5
           - -7.5
-          - -7.5
+          - -6
           rot:
           - 0
           - 180
@@ -2776,7 +2920,10 @@ thing:
           shape: cylinder
           type: negative
       - - objects:
-          - - depth: 15
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
               h: 1.9
               inclusion: 3dpr
               pos:
@@ -2787,32 +2934,50 @@ thing:
               r2: 3.6
               shape: cylinder
               type: positive
-          - - depth: 15
-              h: 15
-              inclusion: 3dpr
-              pos:
-              - 0
-              - 0
-              - -15.0
-              r: 1.8
-              shape: cylinder
-              type: positive
-          - - objects:
-              - height: 3
+          - - - clearance:
+                - top
+                - bottom
+                depth: 12
+                h: 250
                 inclusion: 3dpr
                 pos:
                 - 0
                 - 0
+                - 0.0
+                r: 3.6
+                shape: cylinder
+                type: positive
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - depth: 250
+                height: 250
+                inclusion: 3dpr
+                pos:
                 - 0
+                - 0
+                - -250
                 r: 3.4619999999999997
                 shape: polyg
                 sides: 6
                 type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - -0.3
+                          - -250.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -2822,11 +2987,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - -0.6
+                          - -250.60000000000002
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -2836,11 +3002,12 @@ thing:
                           - 3.5
                           - 0.3
                           type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - 3
+                          - 0
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -2850,11 +3017,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - 3.3
+                          - 0.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -2876,7 +3044,7 @@ thing:
               pos:
               - 0
               - 0
-              - -15.0
+              - -9.0
               rot:
               - 0
               - 0
@@ -2886,7 +3054,7 @@ thing:
           pos:
           - 48.5
           - 22.5
-          - 7.5
+          - 6
           rot:
           - 0
           - 0
@@ -2894,7 +3062,10 @@ thing:
           type: rotation
           typetype: negative
       - - objects:
-          - - depth: 15
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
               h: 1.9
               inclusion: 3dpr
               pos:
@@ -2905,32 +3076,50 @@ thing:
               r2: 3.6
               shape: cylinder
               type: positive
-          - - depth: 15
-              h: 15
-              inclusion: 3dpr
-              pos:
-              - 0
-              - 0
-              - -15.0
-              r: 1.8
-              shape: cylinder
-              type: positive
-          - - objects:
-              - height: 3
+          - - - clearance:
+                - top
+                - bottom
+                depth: 12
+                h: 250
                 inclusion: 3dpr
                 pos:
                 - 0
                 - 0
+                - 0.0
+                r: 3.6
+                shape: cylinder
+                type: positive
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - depth: 250
+                height: 250
+                inclusion: 3dpr
+                pos:
                 - 0
+                - 0
+                - -250
                 r: 3.4619999999999997
                 shape: polyg
                 sides: 6
                 type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - -0.3
+                          - -250.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -2940,11 +3129,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - -0.6
+                          - -250.60000000000002
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -2954,11 +3144,12 @@ thing:
                           - 3.5
                           - 0.3
                           type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - 3
+                          - 0
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -2968,11 +3159,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - 3.3
+                          - 0.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -2994,7 +3186,7 @@ thing:
               pos:
               - 0
               - 0
-              - -15.0
+              - -9.0
               rot:
               - 0
               - 0
@@ -3004,7 +3196,7 @@ thing:
           pos:
           - -48.5
           - 22.5
-          - -7.5
+          - -6
           rot:
           - 0
           - 180
@@ -3012,7 +3204,10 @@ thing:
           type: rotation
           typetype: negative
       - - objects:
-          - - depth: 15
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
               h: 1.9
               inclusion: 3dpr
               pos:
@@ -3023,32 +3218,50 @@ thing:
               r2: 3.6
               shape: cylinder
               type: positive
-          - - depth: 15
-              h: 15
-              inclusion: 3dpr
-              pos:
-              - 0
-              - 0
-              - -15.0
-              r: 1.8
-              shape: cylinder
-              type: positive
-          - - objects:
-              - height: 3
+          - - - clearance:
+                - top
+                - bottom
+                depth: 12
+                h: 250
                 inclusion: 3dpr
                 pos:
                 - 0
                 - 0
+                - 0.0
+                r: 3.6
+                shape: cylinder
+                type: positive
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - depth: 250
+                height: 250
+                inclusion: 3dpr
+                pos:
                 - 0
+                - 0
+                - -250
                 r: 3.4619999999999997
                 shape: polyg
                 sides: 6
                 type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - -0.3
+                          - -250.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3058,11 +3271,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - -0.6
+                          - -250.60000000000002
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3072,11 +3286,12 @@ thing:
                           - 3.5
                           - 0.3
                           type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - 3
+                          - 0
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3086,11 +3301,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - 3.3
+                          - 0.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3112,7 +3328,7 @@ thing:
               pos:
               - 0
               - 0
-              - -15.0
+              - -9.0
               rot:
               - 0
               - 0
@@ -3122,7 +3338,7 @@ thing:
           pos:
           - -48.5
           - -22.5
-          - 7.5
+          - 6
           rot:
           - 0
           - 0
@@ -3130,7 +3346,10 @@ thing:
           type: rotation
           typetype: negative
       - - objects:
-          - - depth: 15
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
               h: 1.9
               inclusion: 3dpr
               pos:
@@ -3141,32 +3360,50 @@ thing:
               r2: 3.6
               shape: cylinder
               type: positive
-          - - depth: 15
-              h: 15
-              inclusion: 3dpr
-              pos:
-              - 0
-              - 0
-              - -15.0
-              r: 1.8
-              shape: cylinder
-              type: positive
-          - - objects:
-              - height: 3
+          - - - clearance:
+                - top
+                - bottom
+                depth: 12
+                h: 250
                 inclusion: 3dpr
                 pos:
                 - 0
                 - 0
+                - 0.0
+                r: 3.6
+                shape: cylinder
+                type: positive
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - depth: 250
+                height: 250
+                inclusion: 3dpr
+                pos:
                 - 0
+                - 0
+                - -250
                 r: 3.4619999999999997
                 shape: polyg
                 sides: 6
                 type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - -0.3
+                          - -250.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3176,11 +3413,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - -0.6
+                          - -250.60000000000002
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3190,11 +3428,12 @@ thing:
                           - 3.5
                           - 0.3
                           type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - 3
+                          - 0
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3204,11 +3443,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - 3.3
+                          - 0.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3230,7 +3470,7 @@ thing:
               pos:
               - 0
               - 0
-              - -15.0
+              - -9.0
               rot:
               - 0
               - 0
@@ -3240,7 +3480,7 @@ thing:
           pos:
           - 48.5
           - -22.5
-          - -7.5
+          - -6
           rot:
           - 0
           - 180
@@ -3248,7 +3488,10 @@ thing:
           type: rotation
           typetype: negative
       - - objects:
-          - - depth: 15
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
               h: 1.9
               inclusion: 3dpr
               pos:
@@ -3259,32 +3502,50 @@ thing:
               r2: 3.6
               shape: cylinder
               type: positive
-          - - depth: 15
-              h: 15
-              inclusion: 3dpr
-              pos:
-              - 0
-              - 0
-              - -15.0
-              r: 1.8
-              shape: cylinder
-              type: positive
-          - - objects:
-              - height: 3
+          - - - clearance:
+                - top
+                - bottom
+                depth: 12
+                h: 250
                 inclusion: 3dpr
                 pos:
                 - 0
                 - 0
+                - 0.0
+                r: 3.6
+                shape: cylinder
+                type: positive
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - depth: 250
+                height: 250
+                inclusion: 3dpr
+                pos:
                 - 0
+                - 0
+                - -250
                 r: 3.4619999999999997
                 shape: polyg
                 sides: 6
                 type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - -0.3
+                          - -250.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3294,11 +3555,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - -0.6
+                          - -250.60000000000002
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3308,11 +3570,12 @@ thing:
                           - 3.5
                           - 0.3
                           type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - 3
+                          - 0
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3322,11 +3585,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - 3.3
+                          - 0.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3348,7 +3612,7 @@ thing:
               pos:
               - 0
               - 0
-              - -15.0
+              - -9.0
               rot:
               - 0
               - 0
@@ -3358,7 +3622,7 @@ thing:
           pos:
           - -7.5
           - 7.5
-          - 7.5
+          - 6
           rot:
           - 0
           - 0
@@ -3366,7 +3630,10 @@ thing:
           type: rotation
           typetype: negative
       - - objects:
-          - - depth: 15
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
               h: 1.9
               inclusion: 3dpr
               pos:
@@ -3377,32 +3644,50 @@ thing:
               r2: 3.6
               shape: cylinder
               type: positive
-          - - depth: 15
-              h: 15
-              inclusion: 3dpr
-              pos:
-              - 0
-              - 0
-              - -15.0
-              r: 1.8
-              shape: cylinder
-              type: positive
-          - - objects:
-              - height: 3
+          - - - clearance:
+                - top
+                - bottom
+                depth: 12
+                h: 250
                 inclusion: 3dpr
                 pos:
                 - 0
                 - 0
+                - 0.0
+                r: 3.6
+                shape: cylinder
+                type: positive
+          - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 12
+              inclusion: 3dpr
+              pos:
+              - 0
+              - 0
+              - -12.0
+              r: 1.8
+              shape: cylinder
+              type: positive
+          - - objects:
+              - depth: 250
+                height: 250
+                inclusion: 3dpr
+                pos:
                 - 0
+                - 0
+                - -250
                 r: 3.4619999999999997
                 shape: polyg
                 sides: 6
                 type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - -0.3
+                          - -250.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3412,11 +3697,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - -0.6
+                          - -250.60000000000002
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3426,11 +3712,12 @@ thing:
                           - 3.5
                           - 0.3
                           type: positive
-              - - - - - - inclusion: 3dpr
+              - - - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -3.25
-                          - 3
+                          - 0
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3440,11 +3727,12 @@ thing:
                           - 6.5
                           - 0.3
                           type: positive
-                  - - - - inclusion: 3dpr
+                  - - - - depth: 250
+                          inclusion: 3dpr
                           pos:
                           - -1.75
                           - -1.75
-                          - 3.3
+                          - 0.3
                           rotX: 0
                           rotY: 0
                           rotZ: 0
@@ -3466,7 +3754,7 @@ thing:
               pos:
               - 0
               - 0
-              - -15.0
+              - -9.0
               rot:
               - 0
               - 0
@@ -3476,7 +3764,7 @@ thing:
           pos:
           - 7.5
           - -7.5
-          - -7.5
+          - -6
           rot:
           - 0
           - 180
@@ -4361,7 +4649,10 @@ thing:
         shape: cylinder
         type: negative
     - - objects:
-        - - depth: 15
+        - - clearance:
+            - top
+            - bottom
+            depth: 12
             h: 1.7
             inclusion: 'true'
             pos:
@@ -4372,32 +4663,50 @@ thing:
             r2: 2.9
             shape: cylinder
             type: positive
-        - - depth: 15
-            h: 15
-            inclusion: 'true'
-            pos:
-            - 0
-            - 0
-            - -15.0
-            r: 1.5
-            shape: cylinder
-            type: positive
-        - - objects:
-            - height: 2.5
+        - - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 250
               inclusion: 'true'
               pos:
               - 0
               - 0
+              - 0.0
+              r: 2.9
+              shape: cylinder
+              type: positive
+        - - clearance:
+            - top
+            - bottom
+            depth: 12
+            h: 12
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -12.0
+            r: 1.5
+            shape: cylinder
+            type: positive
+        - - objects:
+            - depth: 250
+              height: 250
+              inclusion: 'true'
+              pos:
               - 0
+              - 0
+              - -250
               r: 3.1734999999999998
               shape: polyg
               sides: 6
               type: positive
-            - - - - - - inclusion: 3dpr
+            - - - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -3.25
-                        - -0.3
+                        - -250.3
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4407,11 +4716,12 @@ thing:
                         - 6.5
                         - 0.3
                         type: positive
-                - - - - inclusion: 3dpr
+                - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -1.75
-                        - -0.6
+                        - -250.60000000000002
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4421,11 +4731,12 @@ thing:
                         - 3.5
                         - 0.3
                         type: positive
-            - - - - - - inclusion: 3dpr
+            - - - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -3.25
-                        - 2.5
+                        - 0
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4435,11 +4746,12 @@ thing:
                         - 6.5
                         - 0.3
                         type: positive
-                - - - - inclusion: 3dpr
+                - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -1.75
-                        - 2.8
+                        - 0.3
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4461,7 +4773,7 @@ thing:
             pos:
             - 0
             - 0
-            - -15.0
+            - -9.5
             rot:
             - 0
             - 0
@@ -4471,7 +4783,7 @@ thing:
         pos:
         - 48.5
         - 22.5
-        - 7.5
+        - 6
         rot:
         - 0
         - 0
@@ -4479,7 +4791,10 @@ thing:
         type: rotation
         typetype: negative
     - - objects:
-        - - depth: 15
+        - - clearance:
+            - top
+            - bottom
+            depth: 12
             h: 1.7
             inclusion: 'true'
             pos:
@@ -4490,32 +4805,50 @@ thing:
             r2: 2.9
             shape: cylinder
             type: positive
-        - - depth: 15
-            h: 15
-            inclusion: 'true'
-            pos:
-            - 0
-            - 0
-            - -15.0
-            r: 1.5
-            shape: cylinder
-            type: positive
-        - - objects:
-            - height: 2.5
+        - - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 250
               inclusion: 'true'
               pos:
               - 0
               - 0
+              - 0.0
+              r: 2.9
+              shape: cylinder
+              type: positive
+        - - clearance:
+            - top
+            - bottom
+            depth: 12
+            h: 12
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -12.0
+            r: 1.5
+            shape: cylinder
+            type: positive
+        - - objects:
+            - depth: 250
+              height: 250
+              inclusion: 'true'
+              pos:
               - 0
+              - 0
+              - -250
               r: 3.1734999999999998
               shape: polyg
               sides: 6
               type: positive
-            - - - - - - inclusion: 3dpr
+            - - - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -3.25
-                        - -0.3
+                        - -250.3
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4525,11 +4858,12 @@ thing:
                         - 6.5
                         - 0.3
                         type: positive
-                - - - - inclusion: 3dpr
+                - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -1.75
-                        - -0.6
+                        - -250.60000000000002
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4539,11 +4873,12 @@ thing:
                         - 3.5
                         - 0.3
                         type: positive
-            - - - - - - inclusion: 3dpr
+            - - - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -3.25
-                        - 2.5
+                        - 0
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4553,11 +4888,12 @@ thing:
                         - 6.5
                         - 0.3
                         type: positive
-                - - - - inclusion: 3dpr
+                - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -1.75
-                        - 2.8
+                        - 0.3
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4579,7 +4915,7 @@ thing:
             pos:
             - 0
             - 0
-            - -15.0
+            - -9.5
             rot:
             - 0
             - 0
@@ -4589,7 +4925,7 @@ thing:
         pos:
         - -48.5
         - 22.5
-        - -7.5
+        - -6
         rot:
         - 0
         - 180
@@ -4597,7 +4933,10 @@ thing:
         type: rotation
         typetype: negative
     - - objects:
-        - - depth: 15
+        - - clearance:
+            - top
+            - bottom
+            depth: 12
             h: 1.7
             inclusion: 'true'
             pos:
@@ -4608,32 +4947,50 @@ thing:
             r2: 2.9
             shape: cylinder
             type: positive
-        - - depth: 15
-            h: 15
-            inclusion: 'true'
-            pos:
-            - 0
-            - 0
-            - -15.0
-            r: 1.5
-            shape: cylinder
-            type: positive
-        - - objects:
-            - height: 2.5
+        - - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 250
               inclusion: 'true'
               pos:
               - 0
               - 0
+              - 0.0
+              r: 2.9
+              shape: cylinder
+              type: positive
+        - - clearance:
+            - top
+            - bottom
+            depth: 12
+            h: 12
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -12.0
+            r: 1.5
+            shape: cylinder
+            type: positive
+        - - objects:
+            - depth: 250
+              height: 250
+              inclusion: 'true'
+              pos:
               - 0
+              - 0
+              - -250
               r: 3.1734999999999998
               shape: polyg
               sides: 6
               type: positive
-            - - - - - - inclusion: 3dpr
+            - - - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -3.25
-                        - -0.3
+                        - -250.3
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4643,11 +5000,12 @@ thing:
                         - 6.5
                         - 0.3
                         type: positive
-                - - - - inclusion: 3dpr
+                - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -1.75
-                        - -0.6
+                        - -250.60000000000002
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4657,11 +5015,12 @@ thing:
                         - 3.5
                         - 0.3
                         type: positive
-            - - - - - - inclusion: 3dpr
+            - - - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -3.25
-                        - 2.5
+                        - 0
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4671,11 +5030,12 @@ thing:
                         - 6.5
                         - 0.3
                         type: positive
-                - - - - inclusion: 3dpr
+                - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -1.75
-                        - 2.8
+                        - 0.3
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4697,7 +5057,7 @@ thing:
             pos:
             - 0
             - 0
-            - -15.0
+            - -9.5
             rot:
             - 0
             - 0
@@ -4707,7 +5067,7 @@ thing:
         pos:
         - -48.5
         - -22.5
-        - 7.5
+        - 6
         rot:
         - 0
         - 0
@@ -4715,7 +5075,10 @@ thing:
         type: rotation
         typetype: negative
     - - objects:
-        - - depth: 15
+        - - clearance:
+            - top
+            - bottom
+            depth: 12
             h: 1.7
             inclusion: 'true'
             pos:
@@ -4726,32 +5089,50 @@ thing:
             r2: 2.9
             shape: cylinder
             type: positive
-        - - depth: 15
-            h: 15
-            inclusion: 'true'
-            pos:
-            - 0
-            - 0
-            - -15.0
-            r: 1.5
-            shape: cylinder
-            type: positive
-        - - objects:
-            - height: 2.5
+        - - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 250
               inclusion: 'true'
               pos:
               - 0
               - 0
+              - 0.0
+              r: 2.9
+              shape: cylinder
+              type: positive
+        - - clearance:
+            - top
+            - bottom
+            depth: 12
+            h: 12
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -12.0
+            r: 1.5
+            shape: cylinder
+            type: positive
+        - - objects:
+            - depth: 250
+              height: 250
+              inclusion: 'true'
+              pos:
               - 0
+              - 0
+              - -250
               r: 3.1734999999999998
               shape: polyg
               sides: 6
               type: positive
-            - - - - - - inclusion: 3dpr
+            - - - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -3.25
-                        - -0.3
+                        - -250.3
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4761,11 +5142,12 @@ thing:
                         - 6.5
                         - 0.3
                         type: positive
-                - - - - inclusion: 3dpr
+                - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -1.75
-                        - -0.6
+                        - -250.60000000000002
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4775,11 +5157,12 @@ thing:
                         - 3.5
                         - 0.3
                         type: positive
-            - - - - - - inclusion: 3dpr
+            - - - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -3.25
-                        - 2.5
+                        - 0
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4789,11 +5172,12 @@ thing:
                         - 6.5
                         - 0.3
                         type: positive
-                - - - - inclusion: 3dpr
+                - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -1.75
-                        - 2.8
+                        - 0.3
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4815,7 +5199,7 @@ thing:
             pos:
             - 0
             - 0
-            - -15.0
+            - -9.5
             rot:
             - 0
             - 0
@@ -4825,7 +5209,7 @@ thing:
         pos:
         - 48.5
         - -22.5
-        - -7.5
+        - -6
         rot:
         - 0
         - 180
@@ -4833,7 +5217,10 @@ thing:
         type: rotation
         typetype: negative
     - - objects:
-        - - depth: 15
+        - - clearance:
+            - top
+            - bottom
+            depth: 12
             h: 1.7
             inclusion: 'true'
             pos:
@@ -4844,32 +5231,50 @@ thing:
             r2: 2.9
             shape: cylinder
             type: positive
-        - - depth: 15
-            h: 15
-            inclusion: 'true'
-            pos:
-            - 0
-            - 0
-            - -15.0
-            r: 1.5
-            shape: cylinder
-            type: positive
-        - - objects:
-            - height: 2.5
+        - - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 250
               inclusion: 'true'
               pos:
               - 0
               - 0
+              - 0.0
+              r: 2.9
+              shape: cylinder
+              type: positive
+        - - clearance:
+            - top
+            - bottom
+            depth: 12
+            h: 12
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -12.0
+            r: 1.5
+            shape: cylinder
+            type: positive
+        - - objects:
+            - depth: 250
+              height: 250
+              inclusion: 'true'
+              pos:
               - 0
+              - 0
+              - -250
               r: 3.1734999999999998
               shape: polyg
               sides: 6
               type: positive
-            - - - - - - inclusion: 3dpr
+            - - - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -3.25
-                        - -0.3
+                        - -250.3
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4879,11 +5284,12 @@ thing:
                         - 6.5
                         - 0.3
                         type: positive
-                - - - - inclusion: 3dpr
+                - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -1.75
-                        - -0.6
+                        - -250.60000000000002
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4893,11 +5299,12 @@ thing:
                         - 3.5
                         - 0.3
                         type: positive
-            - - - - - - inclusion: 3dpr
+            - - - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -3.25
-                        - 2.5
+                        - 0
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4907,11 +5314,12 @@ thing:
                         - 6.5
                         - 0.3
                         type: positive
-                - - - - inclusion: 3dpr
+                - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -1.75
-                        - 2.8
+                        - 0.3
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4933,7 +5341,7 @@ thing:
             pos:
             - 0
             - 0
-            - -15.0
+            - -9.5
             rot:
             - 0
             - 0
@@ -4943,7 +5351,7 @@ thing:
         pos:
         - -7.5
         - 7.5
-        - 7.5
+        - 6
         rot:
         - 0
         - 0
@@ -4951,7 +5359,10 @@ thing:
         type: rotation
         typetype: negative
     - - objects:
-        - - depth: 15
+        - - clearance:
+            - top
+            - bottom
+            depth: 12
             h: 1.7
             inclusion: 'true'
             pos:
@@ -4962,32 +5373,50 @@ thing:
             r2: 2.9
             shape: cylinder
             type: positive
-        - - depth: 15
-            h: 15
-            inclusion: 'true'
-            pos:
-            - 0
-            - 0
-            - -15.0
-            r: 1.5
-            shape: cylinder
-            type: positive
-        - - objects:
-            - height: 2.5
+        - - - clearance:
+              - top
+              - bottom
+              depth: 12
+              h: 250
               inclusion: 'true'
               pos:
               - 0
               - 0
+              - 0.0
+              r: 2.9
+              shape: cylinder
+              type: positive
+        - - clearance:
+            - top
+            - bottom
+            depth: 12
+            h: 12
+            inclusion: 'true'
+            pos:
+            - 0
+            - 0
+            - -12.0
+            r: 1.5
+            shape: cylinder
+            type: positive
+        - - objects:
+            - depth: 250
+              height: 250
+              inclusion: 'true'
+              pos:
               - 0
+              - 0
+              - -250
               r: 3.1734999999999998
               shape: polyg
               sides: 6
               type: positive
-            - - - - - - inclusion: 3dpr
+            - - - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -3.25
-                        - -0.3
+                        - -250.3
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -4997,11 +5426,12 @@ thing:
                         - 6.5
                         - 0.3
                         type: positive
-                - - - - inclusion: 3dpr
+                - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -1.75
-                        - -0.6
+                        - -250.60000000000002
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -5011,11 +5441,12 @@ thing:
                         - 3.5
                         - 0.3
                         type: positive
-            - - - - - - inclusion: 3dpr
+            - - - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -3.25
-                        - 2.5
+                        - 0
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -5025,11 +5456,12 @@ thing:
                         - 6.5
                         - 0.3
                         type: positive
-                - - - - inclusion: 3dpr
+                - - - - depth: 250
+                        inclusion: 3dpr
                         pos:
                         - -1.75
                         - -1.75
-                        - 2.8
+                        - 0.3
                         rotX: 0
                         rotY: 0
                         rotZ: 0
@@ -5051,7 +5483,7 @@ thing:
             pos:
             - 0
             - 0
-            - -15.0
+            - -9.5
             rot:
             - 0
             - 0
@@ -5061,7 +5493,7 @@ thing:
         pos:
         - 7.5
         - -7.5
-        - -7.5
+        - -6
         rot:
         - 0
         - 180
@@ -5766,7 +6198,10 @@ thing:
     radius_name: m3
     shape: oobb_hole
     type: negative
-  - depth: 15
+  - clearance:
+    - top
+    - bottom
+    depth: 12
     hole: true
     mode: 3dpr
     nut_include: true
@@ -5774,7 +6209,7 @@ thing:
     pos:
     - 48.5
     - 22.5
-    - 7.5
+    - 6
     radius_name: m3
     rot:
     - 0
@@ -5786,7 +6221,10 @@ thing:
     - 30
     shape: oobb_screw_countersunk
     type: negative
-  - depth: 15
+  - clearance:
+    - top
+    - bottom
+    depth: 12
     hole: true
     mode: 3dpr
     nut_include: true
@@ -5794,7 +6232,7 @@ thing:
     pos:
     - -48.5
     - 22.5
-    - -7.5
+    - -6
     radius_name: m3
     rot:
     - 0
@@ -5806,7 +6244,10 @@ thing:
     - 0
     shape: oobb_screw_countersunk
     type: negative
-  - depth: 15
+  - clearance:
+    - top
+    - bottom
+    depth: 12
     hole: true
     mode: 3dpr
     nut_include: true
@@ -5814,7 +6255,7 @@ thing:
     pos:
     - -48.5
     - -22.5
-    - 7.5
+    - 6
     radius_name: m3
     rot:
     - 0
@@ -5826,7 +6267,10 @@ thing:
     - 30
     shape: oobb_screw_countersunk
     type: negative
-  - depth: 15
+  - clearance:
+    - top
+    - bottom
+    depth: 12
     hole: true
     mode: 3dpr
     nut_include: true
@@ -5834,7 +6278,7 @@ thing:
     pos:
     - 48.5
     - -22.5
-    - -7.5
+    - -6
     radius_name: m3
     rot:
     - 0
@@ -5846,7 +6290,10 @@ thing:
     - 0
     shape: oobb_screw_countersunk
     type: negative
-  - depth: 15
+  - clearance:
+    - top
+    - bottom
+    depth: 12
     hole: true
     mode: 3dpr
     nut_include: true
@@ -5854,7 +6301,7 @@ thing:
     pos:
     - -7.5
     - 7.5
-    - 7.5
+    - 6
     radius_name: m3
     rot:
     - 0
@@ -5866,7 +6313,10 @@ thing:
     - 0
     shape: oobb_screw_countersunk
     type: negative
-  - depth: 15
+  - clearance:
+    - top
+    - bottom
+    depth: 12
     hole: true
     mode: 3dpr
     nut_include: true
@@ -5874,7 +6324,7 @@ thing:
     pos:
     - 7.5
     - -7.5
-    - -7.5
+    - -6
     radius_name: m3
     rot:
     - 0
@@ -6579,7 +7029,10 @@ thing:
     radius_name: m3
     shape: oobb_hole
     type: negative
-  - depth: 15
+  - clearance:
+    - top
+    - bottom
+    depth: 12
     hole: true
     mode: 'true'
     nut_include: true
@@ -6587,7 +7040,7 @@ thing:
     pos:
     - 48.5
     - 22.5
-    - 7.5
+    - 6
     radius_name: m3
     rot:
     - 0
@@ -6599,7 +7052,10 @@ thing:
     - 30
     shape: oobb_screw_countersunk
     type: negative
-  - depth: 15
+  - clearance:
+    - top
+    - bottom
+    depth: 12
     hole: true
     mode: 'true'
     nut_include: true
@@ -6607,7 +7063,7 @@ thing:
     pos:
     - -48.5
     - 22.5
-    - -7.5
+    - -6
     radius_name: m3
     rot:
     - 0
@@ -6619,7 +7075,10 @@ thing:
     - 0
     shape: oobb_screw_countersunk
     type: negative
-  - depth: 15
+  - clearance:
+    - top
+    - bottom
+    depth: 12
     hole: true
     mode: 'true'
     nut_include: true
@@ -6627,7 +7086,7 @@ thing:
     pos:
     - -48.5
     - -22.5
-    - 7.5
+    - 6
     radius_name: m3
     rot:
     - 0
@@ -6639,7 +7098,10 @@ thing:
     - 30
     shape: oobb_screw_countersunk
     type: negative
-  - depth: 15
+  - clearance:
+    - top
+    - bottom
+    depth: 12
     hole: true
     mode: 'true'
     nut_include: true
@@ -6647,7 +7109,7 @@ thing:
     pos:
     - 48.5
     - -22.5
-    - -7.5
+    - -6
     radius_name: m3
     rot:
     - 0
@@ -6659,7 +7121,10 @@ thing:
     - 0
     shape: oobb_screw_countersunk
     type: negative
-  - depth: 15
+  - clearance:
+    - top
+    - bottom
+    depth: 12
     hole: true
     mode: 'true'
     nut_include: true
@@ -6667,7 +7132,7 @@ thing:
     pos:
     - -7.5
     - 7.5
-    - 7.5
+    - 6
     radius_name: m3
     rot:
     - 0
@@ -6679,7 +7144,10 @@ thing:
     - 0
     shape: oobb_screw_countersunk
     type: negative
-  - depth: 15
+  - clearance:
+    - top
+    - bottom
+    depth: 12
     hole: true
     mode: 'true'
     nut_include: true
@@ -6687,7 +7155,7 @@ thing:
     pos:
     - 7.5
     - -7.5
-    - -7.5
+    - -6
     radius_name: m3
     rot:
     - 0
@@ -6772,12 +7240,12 @@ thing:
   - oobb_hole_shape_negative_type_m3_radius_name_17_depth_37.5_30.0_-8.5_pos_3dpr_mode
   - oobb_hole_shape_negative_type_m3_radius_name_17_depth_45.0_-7.5_-8.5_pos_3dpr_mode
   - oobb_hole_shape_negative_type_m3_radius_name_17_depth_45.0_7.5_-8.5_pos_3dpr_mode
-  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_15_depth_48.5_22.5_7.5_pos_0_0_0_rot_0_0_30_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
-  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_15_depth_-48.5_22.5_-7.5_pos_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
-  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_15_depth_-48.5_-22.5_7.5_pos_0_0_0_rot_0_0_30_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
-  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_15_depth_48.5_-22.5_-7.5_pos_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
-  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_15_depth_-7.5_7.5_7.5_pos_0_0_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
-  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_15_depth_7.5_-7.5_-7.5_pos_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_48.5_22.5_6_pos_'top'_'bottom'_clearance_0_0_0_rot_0_0_30_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_-48.5_22.5_-6_pos_'top'_'bottom'_clearance_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_-48.5_-22.5_6_pos_'top'_'bottom'_clearance_0_0_0_rot_0_0_30_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_48.5_-22.5_-6_pos_'top'_'bottom'_clearance_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_-7.5_7.5_6_pos_'top'_'bottom'_clearance_0_0_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_7.5_-7.5_-6_pos_'top'_'bottom'_clearance_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_3dpr_mode
   - oobb_plate_shape_positive_type_15_depth_7_width_5_height_true_extra_mm_false_holes_middle_zz_true_mode
   - oobb_hole_shape_negative_type_m6_radius_name_17_depth_0_0_-8.5_pos_true_mode
   - oobb_hole_shape_negative_type_m6_radius_name_17_depth_-45.0_-30.0_-8.5_pos_true_mode
@@ -6850,14 +7318,14 @@ thing:
   - oobb_hole_shape_negative_type_m3_radius_name_17_depth_37.5_30.0_-8.5_pos_true_mode
   - oobb_hole_shape_negative_type_m3_radius_name_17_depth_45.0_-7.5_-8.5_pos_true_mode
   - oobb_hole_shape_negative_type_m3_radius_name_17_depth_45.0_7.5_-8.5_pos_true_mode
-  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_15_depth_48.5_22.5_7.5_pos_0_0_0_rot_0_0_30_rotation_nut_true_hole_true_nut_include_true_overhang_true_mode
-  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_15_depth_-48.5_22.5_-7.5_pos_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_true_mode
-  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_15_depth_-48.5_-22.5_7.5_pos_0_0_0_rot_0_0_30_rotation_nut_true_hole_true_nut_include_true_overhang_true_mode
-  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_15_depth_48.5_-22.5_-7.5_pos_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_true_mode
-  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_15_depth_-7.5_7.5_7.5_pos_0_0_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_true_mode
-  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_15_depth_7.5_-7.5_-7.5_pos_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_true_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_48.5_22.5_6_pos_'top'_'bottom'_clearance_0_0_0_rot_0_0_30_rotation_nut_true_hole_true_nut_include_true_overhang_true_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_-48.5_22.5_-6_pos_'top'_'bottom'_clearance_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_true_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_-48.5_-22.5_6_pos_'top'_'bottom'_clearance_0_0_0_rot_0_0_30_rotation_nut_true_hole_true_nut_include_true_overhang_true_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_48.5_-22.5_-6_pos_'top'_'bottom'_clearance_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_true_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_-7.5_7.5_6_pos_'top'_'bottom'_clearance_0_0_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_true_mode
+  - oobb_screw_countersunk_shape_negative_type_m3_radius_name_12_depth_7.5_-7.5_-6_pos_'top'_'bottom'_clearance_0_180_0_rot_0_0_0_rotation_nut_true_hole_true_nut_include_true_overhang_true_mode
   depth: 15
-  description: default bearing holder 7x5x0
+  description: C:\gh\oomlout oobb part holder bearing version 5 bearing holder 7x5x0
   description_extra: m6_shaft_15_depth
   description_main: 7_width_5_height
   directory: parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth
@@ -6868,6 +7336,7 @@ thing:
   id_no_class: oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth
   id_no_size: oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth
   id_no_type: oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth
+  id_oobb: oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth
   inner_joining_positions: &id017
   - - -7.5
     - 7.5
@@ -6879,7 +7348,7 @@ thing:
     body: plate
     depth: 15
     extra: ''
-    filter: ''
+    filter: 15_depth
     generate_stl: false
     height: 5
     holder_type: holder
@@ -6910,7 +7379,7 @@ thing:
     split: true
     split_z: 0
     typ: fast
-    type: default_bearing_holder
+    type: C:\gh\oomlout_oobb_part_holder_bearing_version_5_bearing_holder
     width: 7
   link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth
   link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth
@@ -6930,9 +7399,10 @@ thing:
   name_no_size: Oobb Part Holder Bearing 6810 Bearing Size 7 Width 5 Height 15 Depth
   name_no_type: Oobb Part Holder Bearing 6810 Bearing Size 7 Width 5 Height 15 Depth
   name_proper: Oobb Part Holder Bearing 6810 Bearing Size 7 Width 5 Height 15 Depth
-  name_short: Default Bearing Holder 7x5xM6 Shaft 15
+  name_short: C:\Gh\Oomlout Holder Bearing Version 5
   name_space: oobb part holder bearing 6810 bearing size 7 width 5 height 15 depth
-  name_text: Oobb Part Default Bearing Holder 7 Width 5 Height M6 Shaft 15 Depth
+  name_text: Oobb Part C:\Gh\Oomlout Oobb Part Holder Bearing Version 5 Bearing Holder
+    7 Width 5 Height M6 Shaft 15 Depth
   name_upper: OOBB PART HOLDER BEARING 6810 BEARING SIZE 7 WIDTH 5 HEIGHT 15 DEPTH
   oobb_details:
     bearing_size: '6810'
@@ -7026,9 +7496,10 @@ thing:
     retries_until_complete: 0
   oomp_key: oomp_oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth
   part_number: ''
+  project_name: C:\gh\oomlout_oobb_part_holder_bearing_version_5
   shaft: m6
   short_name: ''
-  size: default_bearing_holder
+  size: C:\gh\oomlout_oobb_part_holder_bearing_version_5_bearing_holder
   taxonomy_1: oobb
   taxonomy_10: ''
   taxonomy_11: ''

@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "id": "oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth",
+  "title": "606 bearing holder \u00b7 3 \u00d7 3 \u00b7 12 mm",
+  "variant": "standard M6 centre",
+  "roles": [
+    "bearing",
+    "frame",
+    "hub",
+    "nut",
+    "screw"
+  ],
+  "scope": "Quantities for one complete printed holder/adapter, plus its listed interface. Installation fasteners are application-specific.",
+  "bom": [
+    {
+      "key": "frame",
+      "part": "Printed frame halves",
+      "quantity": 2,
+      "kind": "Print",
+      "purpose": "Print all frame pieces in 3dpr.stl once"
+    },
+    {
+      "key": "hub",
+      "part": "Printed hub pieces",
+      "quantity": 2,
+      "kind": "Print",
+      "purpose": "Print all hub pieces in 3dpr.stl once; preserve complementary faces"
+    },
+    {
+      "key": "bearing",
+      "part": "606 bearing \u2014 6 \u00d7 17 \u00d7 6 mm",
+      "quantity": 1,
+      "kind": "Hardware",
+      "purpose": "Bore \u00d7 outside diameter \u00d7 width"
+    },
+    {
+      "key": "extension_nuts",
+      "part": "M6 hex nuts",
+      "quantity": 3,
+      "kind": "Hardware",
+      "purpose": "Load extension pockets/slots before closing; mating bolts depend on the mounted part"
+    },
+    {
+      "key": "joining_12_False",
+      "part": "M3 \u00d7 12 mm countersunk screws",
+      "quantity": 4,
+      "kind": "Hardware",
+      "purpose": "Join printed halves; follow the alternating head/nut faces"
+    },
+    {
+      "key": "joining_nuts",
+      "part": "M3 hex nuts",
+      "quantity": 4,
+      "kind": "Hardware",
+      "purpose": "Opposite-face joining pockets"
+    },
+    {
+      "key": "shaft_retention",
+      "part": "M6 shaft / axle with hub retainers",
+      "quantity": 1,
+      "kind": "Interface",
+      "purpose": "Required to retain the unjoined hub pieces; select length and retainers for the application"
+    }
+  ],
+  "notes": [
+    "The extension M6 nuts and mating installation bolts are not shown in the diagram.",
+    "No separate hub joining screws are modelled. Retain the hub with the mating shaft/interface hardware.",
+    "Bearing rings and fasteners are simplified nominal illustrations; threads, drive sockets, inserts and motor/interface hardware are omitted. Installation bolts depend on the surrounding assembly."
+  ],
+  "steps": [
+    "Print one complete 3dpr.stl layout. Keep the complementary frame and hub pieces in their matching orientation.",
+    "Load any captive nuts, coupler nuts or inserts while their pockets are accessible. Seat each bearing between its matching hub and frame pieces.",
+    "Close the complementary pieces and fit the listed joining screws and nuts, following the alternating head and nut recesses.",
+    "Fit the specified shaft or motor interface. Check free rotation before fastening the holder to the surrounding structure."
+  ],
+  "guide": "PROJECT_GUIDE.md",
+  "sources": {
+    "parts/oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/3dpr.stl": "84f4f6e6c338e7a5bd567193dda2d10ed7fd5a5689d777387ed31adb736f725a",
+    "parts/oobb_part_holder_90_degree_bearing_606_bearing_size_3_width_3_height_12_depth/working.yaml": "23d02438cc9c2c126bd3191e9b567ff8cc7097fdd7ba515151fb6b4bda1ff8c7",
+    "assembly.py": "035f819c8d71b7d4efdad7193de171c907c79e55ac8504671a57199ad7df5ed7",
+    "working_scad.py": "65528aa41ea7fb3d1d996360022460a51b556bf710caaab529374b2c5757434f",
+    "render_parts.py": "6b0311ac356a2dee7c0dadbfe23b5edf02509e8eb47a0767c7157101dc993b03",
+    "presentation/scripts/render_assembly.py": "4b2a2ae1649e043f63e62698b719b50fd143a718c874b96d67861189c94c296b",
+    "presentation/scripts/render_catalogue.py": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001"
+  },
+  "build_key": "7e3b0140dae7755cfa8df718f706e6fede73ba1729ed69dcab71d8d53c94df3d",
+  "image_sha256": "028ff55354b8c5b225eb45acb48a24b1ad950f1acc65ae305dfc5c52f39a3953"
+}

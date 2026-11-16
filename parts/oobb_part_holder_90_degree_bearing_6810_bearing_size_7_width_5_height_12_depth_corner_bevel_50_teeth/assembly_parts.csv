@@ -1,0 +1,12 @@
+key,part,quantity,kind,purpose
+frame,Printed connected corner halves,2,Print,One of each complementary half
+hub,Printed hub discs,4,Print,Two outer discs and two gear-facing discs; supplied hub files each contain two copies
+gear,Matching 50-tooth backed bevel gears,2,Print,Use examples/corner_6810/components/gear.stl; retained companion oobb_part_gear_big_scale_5_diameter_50_teeth_bevel_style_12_mm_depth
+bearing,6810 bearing,2,Hardware,One on each perpendicular axis
+seam,M3 × 25 mm socket-cap screws,3,Hardware,Connected corner seam
+seam_nuts,M3 hex nuts,3,Hardware,Seam pockets
+hub_screws,M3 × 12 mm countersunk screws,4,Hardware,Two joins per bearing hub
+hub_nuts,M3 hex nuts,4,Hardware,Hub joins
+gear_screws,M6 × 45 mm screws,8,Hardware,Four per gear; suggested stack from the existing corner guide
+gear_nuts,M6 hex nuts,8,Hardware,Gear connections
+gear_washers,M6 washers,16,Hardware,One under each gear screw head and nut; check final protrusion

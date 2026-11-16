@@ -89,10 +89,15 @@ def page(part, source, destination, cfg):
     lines.append('| Taxonomy | ' + safe_text(' / '.join(map(str, taxonomy))) + ' |')
     metadata = yaml.safe_dump(part, sort_keys=False, allow_unicode=True).rstrip()
     fence = '`' * max(3, max((len(m[0])+1 for m in re.finditer(r'`+', metadata)), default=3))
+    parts_text = 'Purchased hardware; no printable mesh is generated for this record.' if purchased else cfg['parts']
+    assembly_text = 'Use the hardware specification above when sourcing this item.' if purchased else cfg['assembly']
+    if cfg.get('assembly_pipeline') and not purchased:
+        from assembly import markdown
+        manifest = json.loads((source/'assembly.json').read_text(encoding='utf-8'))
+        parts_text, assembly_text = markdown(manifest, source, destination)
     lines += ['', '<details>', '<summary>Full part details: all working.yaml fields</summary>', '', fence+'yaml', metadata, fence, '', '</details>', '',
-              '## Parts', '', ('Purchased hardware; no printable mesh is generated for this record.' if purchased else cfg['parts']), '',
-              '## Assembly', '', ('Use the hardware specification above when sourcing this item.' if purchased else cfg['assembly']), '']
-    if (root/'PROJECT_GUIDE.md').exists():
+              '## Parts', '', parts_text, '', '## Assembly', '', assembly_text, '']
+    if (root/'PROJECT_GUIDE.md').exists() and not (cfg.get('assembly_pipeline') and not purchased):
         lines += [f'[Project guide and existing assembly notes]({relative(root / "PROJECT_GUIDE.md", destination)})', '']
     return '\n'.join(lines)
 
@@ -140,8 +145,10 @@ def navigation(root=ROOT):
     dest=root/'README.md';discovery=collapse(Path('.'))
     hero=[]
     for source, part in sorted(leaves.values(),key=lambda item:item[1]['id'] != cfg.get('example_id')):
-        if (source/'3dpr_presentation.png').exists():
-            hero=[f'![Example CAD preview]({relative(source/"3dpr_presentation.png",dest)})', '',f'[Example part]({relative(source,dest)}/)', ''];break
+        image = source/cfg.get('example_image', '3dpr_presentation.png')
+        if image.exists():
+            label = '7 × 5 6810 holder — 15 mm depth' if part['id'] == cfg.get('example_id') else 'Example part'
+            hero=[f'![AI-generated example CAD diagram]({relative(image,dest)})', '',f'[{label}]({relative(source,dest)}/)', ''];break
     lines=['# '+cfg['title'],'',NOTICE,'','## Summary','',cfg['summary'],'',ORIGIN,'',*hero,'## Details','',
            f'This catalogue contains **{len(leaves)} records**. [Browse OOBB navigation]({relative(discovery,dest)}/).','',
            'Each part has one canonical folder, its full OOMP ID and complete metadata. Navigation links open folders; use GitHub’s file pane to browse the available files.','',
@@ -245,6 +252,9 @@ def build(part_filter='', workers=2, native=False, legacy_actions=False, populat
         working_action.main(filter=part_filter)
     import render_parts
     render_parts.main(part_filter=part_filter,workers=min(workers,2))
+    if config(root).get('assembly_pipeline'):
+        import assembly
+        assembly.build(part_filter, root=root)
     navigation(root)
     return verify(root)
 
@@ -277,13 +287,16 @@ def verify(root=ROOT):
             if not target.is_relative_to(root) or not target.exists():raise ValueError(f'Broken link: {p}: {url}')
             links+=1
     result={'records':len(parts),'printable_parts':len(printable),'render_sheets':len(manifest['renders']),'navigation_files':sum(p.is_file() for p in (root/'navigation_oobb').rglob('*')),'checked_links':links}
+    if config(root).get('assembly_pipeline'):
+        import assembly
+        result['assembly_diagrams'] = assembly.verify(root)
     (root/'presentation/validation.json').write_text(json.dumps(result,indent=2)+'\n')
     print(json.dumps(result),flush=True)
     return result
 
 def cli():
     parser=argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('command',choices=['build','docs','render','verify'],nargs='?',default='build')
+    parser.add_argument('command',choices=['build','docs','render','assembly','verify'],nargs='?',default='build')
     parser.add_argument('--filter',default='')
     parser.add_argument('--workers',type=int,default=2,choices=[1,2,3,4])
     parser.add_argument('--native',action='store_true')
@@ -293,8 +306,15 @@ def cli():
     if a.command=='build':build(a.filter,a.workers,a.native,a.legacy_actions,a.populate)
     elif a.command=='docs':navigation()
     elif a.command=='verify':verify()
+    elif a.command=='assembly':
+        import assembly
+        assembly.build(a.filter);navigation();verify()
     else:
         import render_parts
-        render_parts.main(part_filter=a.filter,workers=min(a.workers,2));navigation();verify()
+        render_parts.main(part_filter=a.filter,workers=min(a.workers,2))
+        if config().get('assembly_pipeline'):
+            import assembly
+            assembly.build(a.filter)
+        navigation();verify()
 
 if __name__=='__main__':cli()

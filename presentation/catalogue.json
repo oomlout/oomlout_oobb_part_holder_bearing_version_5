@@ -1553,37 +1553,37 @@
       "id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth",
       "variant": "3dpr",
       "source": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth/3dpr.stl",
-      "source_sha256": "a50870100f8a222985d378df0b43ee61fa70a8e46f62b22f4c751b90535b3f35",
+      "source_sha256": "1821bfa41d448f7bc96e7e78c215f4ac589c542dde4b967fc1d1c064d2a79fbb",
       "image": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth/3dpr_presentation.png",
       "dimensions_mm": [
         220.0,
         74.98,
         7.5
       ],
-      "key": "e58947d0f4d0a6b75ca9bdcf",
+      "key": "2caa253d26c9e7b1f7991152",
       "sheet_version": 1,
       "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
       "blender": "Blender 5.2.2 LTS",
       "label": "Holder Bearing 6810 Bearing Size 7 Width 5 Height 15 Depth \u2014 Print layout",
-      "image_sha256": "8ea9edcb2d3d984985a7a84275494cfc745e46bdda4bee327856fc5de044d4a1"
+      "image_sha256": "13864be27d1dbe788c244b31f17fde571f46b665e2b53de18dcb2a6c8c7c78b3"
     },
     {
       "id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth",
       "variant": "true",
       "source": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth/true.stl",
-      "source_sha256": "6e5da9b21164d21e237da5895cf57e44284cff3e7855bdd7008147f8097be5b1",
+      "source_sha256": "55dc8901b1f7798e055bd610697caa1f3d3c2e7d7a9b780ddd8292fc1ed6b9be",
       "image": "parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth/true_presentation.png",
       "dimensions_mm": [
         105.0,
         74.98,
         15.0
       ],
-      "key": "ea8d407966cc939796af23de",
+      "key": "4a7b37532db31025e64c74e4",
       "sheet_version": 1,
       "renderer_sha256": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
       "blender": "Blender 5.2.2 LTS",
       "label": "Holder Bearing 6810 Bearing Size 7 Width 5 Height 15 Depth \u2014 Nominal / assembly",
-      "image_sha256": "6fd1c95efb2a53b609c601d1f21c66aec93ae44914b09d7af227b0b669364e9e"
+      "image_sha256": "21f6e76c9c35e2a13a539f9a06a45bc829accb94e5ac02af311ac09bbb6b5cdb"
     }
   ]
 }

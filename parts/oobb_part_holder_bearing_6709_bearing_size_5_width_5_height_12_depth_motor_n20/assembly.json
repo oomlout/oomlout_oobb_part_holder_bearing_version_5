@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20",
+  "title": "6709 bearing holder \u00b7 5 \u00d7 5 \u00b7 12 mm",
+  "variant": "motor n20",
+  "roles": [
+    "bearing",
+    "hub",
+    "nut",
+    "screw"
+  ],
+  "scope": "Quantities for one complete printed holder/adapter, plus its listed interface. Installation fasteners are application-specific.",
+  "bom": [
+    {
+      "key": "hub",
+      "part": "Printed hub pieces",
+      "quantity": 2,
+      "kind": "Print",
+      "purpose": "Print all hub pieces in 3dpr.stl once; preserve complementary faces"
+    },
+    {
+      "key": "bearing",
+      "part": "6709 bearing \u2014 45 \u00d7 55 \u00d7 6 mm",
+      "quantity": 1,
+      "kind": "Hardware",
+      "purpose": "Bore \u00d7 outside diameter \u00d7 width"
+    },
+    {
+      "key": "joining_12_False",
+      "part": "M3 \u00d7 12 mm countersunk screws",
+      "quantity": 2,
+      "kind": "Hardware",
+      "purpose": "Join printed halves; follow the alternating head/nut faces"
+    },
+    {
+      "key": "joining_nuts",
+      "part": "M3 hex nuts",
+      "quantity": 2,
+      "kind": "Hardware",
+      "purpose": "Opposite-face joining pockets"
+    },
+    {
+      "key": "motor",
+      "part": "n20 motor / mating shaft",
+      "quantity": 1,
+      "kind": "Interface",
+      "purpose": "Use the specified shaft interface; motor and mounting hardware are not shown"
+    },
+    {
+      "key": "inserts",
+      "part": "M3 threaded inserts",
+      "quantity": 2,
+      "kind": "Interface",
+      "purpose": "CAD insert pockets: 4 mm diameter; choose compatible insert depth and fit"
+    },
+    {
+      "key": "insert_screws",
+      "part": "M3 insert mounting screws",
+      "quantity": 2,
+      "kind": "Interface",
+      "purpose": "Length depends on the mating component and selected insert; do not bottom out"
+    }
+  ],
+  "notes": [
+    "This variant supplies the rotating adapter only. Provide a compatible stationary outer bearing support in the surrounding assembly.",
+    "Bearing rings and fasteners are simplified nominal illustrations; threads, drive sockets, inserts and motor/interface hardware are omitted. Installation bolts depend on the surrounding assembly."
+  ],
+  "steps": [
+    "Print one complete 3dpr.stl layout. Keep the complementary frame and hub pieces in their matching orientation.",
+    "Load any captive nuts, coupler nuts or inserts while their pockets are accessible. Seat each bearing between its matching hub and frame pieces.",
+    "Close the complementary pieces and fit the listed joining screws and nuts, following the alternating head and nut recesses.",
+    "Fit the specified shaft or motor interface. Check free rotation before fastening the holder to the surrounding structure."
+  ],
+  "guide": "PROJECT_GUIDE.md",
+  "sources": {
+    "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/3dpr.stl": "c5d836c1312767c27360d3e070817695a0b24f00ec6a8fde4b62640cfe9ba7a8",
+    "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_n20/working.yaml": "3af8a29f65a1bf2f7c3eba4a4d0b08ebf4df6f34384856cc1f822eb6b0e15722",
+    "assembly.py": "035f819c8d71b7d4efdad7193de171c907c79e55ac8504671a57199ad7df5ed7",
+    "working_scad.py": "65528aa41ea7fb3d1d996360022460a51b556bf710caaab529374b2c5757434f",
+    "render_parts.py": "6b0311ac356a2dee7c0dadbfe23b5edf02509e8eb47a0767c7157101dc993b03",
+    "presentation/scripts/render_assembly.py": "4b2a2ae1649e043f63e62698b719b50fd143a718c874b96d67861189c94c296b",
+    "presentation/scripts/render_catalogue.py": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001"
+  },
+  "build_key": "5b1b95f950cacca7fa66a09f7c6934734713a2bc8378e9d32fa3191b6e95c1cf",
+  "image_sha256": "2ff64c6006a8f22e68b8a35cc5e0bace59012a45148d36be04fd3b26ae615cad"
+}

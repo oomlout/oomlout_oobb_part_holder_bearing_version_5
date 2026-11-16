@@ -1,0 +1,11 @@
+key,part,quantity,kind,purpose
+frame,Printed frame halves,2,Print,Print all frame pieces in 3dpr.stl once
+hub,Printed hub pieces,2,Print,Print all hub pieces in 3dpr.stl once; preserve complementary faces
+bearing,6709 bearing — 45 × 55 × 6 mm,1,Hardware,Bore × outside diameter × width
+joining_12_False,M3 × 12 mm countersunk screws,6,Hardware,Join printed halves; follow the alternating head/nut faces
+joining_nuts,M3 hex nuts,6,Hardware,Opposite-face joining pockets
+motor,servo standard 01 motor / mating shaft,1,Interface,Use the specified shaft interface; motor and mounting hardware are not shown
+inserts,M3 threaded inserts,2,Interface,CAD insert pockets: 4 mm diameter; choose compatible insert depth and fit
+insert_screws,M3 insert mounting screws,2,Interface,Length depends on the mating component and selected insert; do not bottom out
+servo_center,M2.5 servo retaining screw,1,Interface,Match the servo thread and required engagement; length is servo-specific
+horn_screws,M2 self-tapping horn screws,2,Interface,At y = ±7.375 mm; choose length for the actual horn and hub

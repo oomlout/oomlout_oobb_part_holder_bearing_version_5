@@ -377,11 +377,37 @@ width: 5
 
 ## Parts
 
-Select the bearing size and holder style in navigation. Printed holder components and purchased bearings are distinct; the preview is generated from the printable mesh.
+Quantities for one complete printed holder/adapter, plus its listed interface. Installation fasteners are application-specific.
+
+| Part | Quantity | Type | Use |
+| --- | ---: | --- | --- |
+| Printed frame halves | 2 | Print | Print all frame pieces in 3dpr.stl once |
+| Printed hub pieces | 2 | Print | Print all hub pieces in 3dpr.stl once; preserve complementary faces |
+| 6709 bearing — 45 × 55 × 6 mm | 1 | Hardware | Bore × outside diameter × width |
+| M3 × 12 mm countersunk screws | 6 | Hardware | Join printed halves; follow the alternating head/nut faces |
+| M3 hex nuts | 6 | Hardware | Opposite-face joining pockets |
+
+[Machine-readable parts list](../../../../../../../../../../parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth/assembly.json) · [CSV parts list](../../../../../../../../../../parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth/assembly_parts.csv)
 
 ## Assembly
 
-Follow the selected part’s split, preparation and embedded-nut metadata. Check bearing fit and retain the existing project examples for the applicable assembly.
+![AI-generated assembled and exploded CAD diagram](../../../../../../../../../../parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth/assembly.png)
 
-[Project guide and existing assembly notes](../../../../../../../../../../PROJECT_GUIDE.md)
+
+
+1. Print one complete 3dpr.stl layout. Keep the complementary frame and hub pieces in their matching orientation.
+
+2. Load any captive nuts, coupler nuts or inserts while their pockets are accessible. Seat each bearing between its matching hub and frame pieces.
+
+3. Close the complementary pieces and fit the listed joining screws and nuts, following the alternating head and nut recesses.
+
+4. Fit the specified shaft or motor interface. Check free rotation before fastening the holder to the surrounding structure.
+
+
+
+Bearing rings and fasteners are simplified nominal illustrations; threads, drive sockets, inserts and motor/interface hardware are omitted. Installation bolts depend on the surrounding assembly.
+
+
+
+[Variant assembly notes](../../../../../../../../../../PROJECT_GUIDE.md)
 <!-- oobb-presentation:end -->

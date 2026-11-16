@@ -30,6 +30,13 @@ refreshes documentation alone; `python catalogue.py verify` checks coverage, art
 hashes, PNGs and generated local links. `python working_navigation.py` is compatible
 with older navigation callers and generates only text.
 
+`python catalogue.py assembly` regenerates the per-holder assembled/exploded
+diagrams, JSON manifests and CSV parts lists, then updates READMEs and validates
+the catalogue. Use `--filter 15_depth` for the main 7 × 5 6810 example.
+Both `build` and `render` include this assembly stage. `docs` consumes the existing
+assembly outputs; run `assembly` first after changing geometry or assembly code.
+See [assembly pipeline details](presentation/README.md).
+
 ## Documentation contract
 
 Root READMEs contain Summary, Details, Parts and Assembly, one example and a link

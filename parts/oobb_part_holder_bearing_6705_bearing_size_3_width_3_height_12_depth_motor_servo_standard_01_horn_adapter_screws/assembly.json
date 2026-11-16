@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "id": "oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws",
+  "title": "6705 bearing holder \u00b7 3 \u00d7 3 \u00b7 12 mm",
+  "variant": "motor servo standard 01 horn adapter screws",
+  "roles": [
+    "bearing",
+    "hub"
+  ],
+  "scope": "Quantities for one complete printed holder/adapter, plus its listed interface. Installation fasteners are application-specific.",
+  "bom": [
+    {
+      "key": "hub",
+      "part": "Printed hub pieces",
+      "quantity": 2,
+      "kind": "Print",
+      "purpose": "Print all hub pieces in 3dpr.stl once; preserve complementary faces"
+    },
+    {
+      "key": "bearing",
+      "part": "6705 bearing \u2014 25 \u00d7 32 \u00d7 4 mm",
+      "quantity": 1,
+      "kind": "Hardware",
+      "purpose": "Bore \u00d7 outside diameter \u00d7 width"
+    },
+    {
+      "key": "motor",
+      "part": "servo standard 01 motor / mating shaft",
+      "quantity": 1,
+      "kind": "Interface",
+      "purpose": "Use the specified shaft interface; motor and mounting hardware are not shown"
+    },
+    {
+      "key": "inserts",
+      "part": "M3 threaded inserts",
+      "quantity": 2,
+      "kind": "Interface",
+      "purpose": "CAD insert pockets: 4 mm diameter; choose compatible insert depth and fit"
+    },
+    {
+      "key": "insert_screws",
+      "part": "M3 insert mounting screws",
+      "quantity": 2,
+      "kind": "Interface",
+      "purpose": "Length depends on the mating component and selected insert; do not bottom out"
+    },
+    {
+      "key": "servo_center",
+      "part": "M2.5 servo retaining screw",
+      "quantity": 1,
+      "kind": "Interface",
+      "purpose": "Match the servo thread and required engagement; length is servo-specific"
+    },
+    {
+      "key": "horn_screws",
+      "part": "M2 self-tapping horn screws",
+      "quantity": 2,
+      "kind": "Interface",
+      "purpose": "At y = \u00b17.375 mm; choose length for the actual horn and hub"
+    }
+  ],
+  "notes": [
+    "This variant supplies the rotating adapter only. Provide a compatible stationary outer bearing support in the surrounding assembly.",
+    "No separate hub joining screws are modelled. Retain the hub with the mating shaft/interface hardware.",
+    "Bearing rings and fasteners are simplified nominal illustrations; threads, drive sockets, inserts and motor/interface hardware are omitted. Installation bolts depend on the surrounding assembly."
+  ],
+  "steps": [
+    "Print one complete 3dpr.stl layout. Keep the complementary frame and hub pieces in their matching orientation.",
+    "Load any captive nuts, coupler nuts or inserts while their pockets are accessible. Seat each bearing between its matching hub and frame pieces.",
+    "Close the complementary pieces and fit the listed joining screws and nuts, following the alternating head and nut recesses.",
+    "Fit the specified shaft or motor interface. Check free rotation before fastening the holder to the surrounding structure."
+  ],
+  "guide": "PROJECT_GUIDE.md",
+  "sources": {
+    "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/3dpr.stl": "83773ba2e8c643c453d56277338935c7276472af94a8133a933d59a9d97b3f6e",
+    "parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_servo_standard_01_horn_adapter_screws/working.yaml": "bf30f4dc483f67f8254b858eb73a3cf90822f328ff7f473e8a1e8b2f269d5755",
+    "assembly.py": "035f819c8d71b7d4efdad7193de171c907c79e55ac8504671a57199ad7df5ed7",
+    "working_scad.py": "65528aa41ea7fb3d1d996360022460a51b556bf710caaab529374b2c5757434f",
+    "render_parts.py": "6b0311ac356a2dee7c0dadbfe23b5edf02509e8eb47a0767c7157101dc993b03",
+    "presentation/scripts/render_assembly.py": "4b2a2ae1649e043f63e62698b719b50fd143a718c874b96d67861189c94c296b",
+    "presentation/scripts/render_catalogue.py": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001"
+  },
+  "build_key": "ae948cc8ec4974ff8223965e4d7aa0e7d38ea01c76a96b4900f9a969cd729528",
+  "image_sha256": "71bc7c00b1e0d8356e54b68582c57662f795534d3c8f1b8e60811ab9abecd2cb"
+}

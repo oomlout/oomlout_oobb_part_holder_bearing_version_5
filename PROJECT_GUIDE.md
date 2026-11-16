@@ -1,5 +1,11 @@
 # OOBB bearing holders, version 5
 
+The main example is the [7 × 5 6810 holder with 15 mm assembled depth](parts/oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth/).
+Its page includes the assembled/exploded diagram and the parts list: two frame
+halves, two hub halves, one 6810 bearing, six M3 × 12 mm countersunk screws and
+six M3 nuts. Every holder now has its own generated diagram and parts table.
+See [the assembly pipeline](presentation/README.md) to regenerate them.
+
 The catalogue is in [working_populate.py](working_populate.py). Drawings are in
 [working_scad.py](working_scad.py), using multiline dictionaries, `**kwargs`,
 OOBB primitives and component groups. The printed holder geometry is generated from these OOBB recipes. Corner examples retain a hash-checked local companion gear from the former 12 mm backed-tooth family; it is not interchangeable with the newer flat-top bevel catalogue.
@@ -29,6 +35,11 @@ nominal grid units; depth is the assembled thickness in mm, not half thickness.
 Motor adapters retain their original nominal grid designation even when the
 saved geometry is cylindrical.
 
+The 15 mm thick printed holders use M3 × 12 mm countersunk joining screws.
+The screw heads and nuts are inset 1.5 mm from their respective outer faces,
+using the screw primitive's top and bottom clearance for access. This applies
+to both the frame and centre joining screws; the assembled thickness stays 15 mm.
+
 All source names below have the prefix `oobb_bearing_plate_` and refer to
 `C:/gh/oomlout_oobb_version_3/things`. Each generated record retains its complete
 `legacy_id` and `legacy_source`.
@@ -50,10 +61,11 @@ All source names below have the prefix `oobb_bearing_plate_` and refer to
 | `jack_03_03_12_606` | 606 | 3 | 3 | 12 | `holder_90_degree`, no extra |
 | `jack_basic_03_03_12_606` | 606 | 3 | 3 | 12 | `holder_90_degree`, `basic` |
 
-The catalogue now contains **41 variants**: the 14 migrations above, seven
+The catalogue now contains **44 variants**: the 14 migrations above, seven
 6705 equivalents, two smaller embedded-nut variants, ten 6709 variants,
 one standard 608, two 6810 captive-nut variants, a 6810 centre with a 30 mm bore,
-a 9 mm single 6704, a 9 mm double 6704, and two-bearing 6810 and 6704 bevel corners.
+a 9 mm single 6704, a 9 mm double 6704, and two-bearing 6810 and 6704 bevel corners,
+plus the 5 × 3 × 9 mm 6704 and 6705 holders and the 7 × 5 × 15 mm 6810 holder.
 The new designs do not claim a
 legacy source. Both 6704 and 6705 have these eight choices of `extra`:
 

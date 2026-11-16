@@ -381,11 +381,39 @@ width: 3
 
 ## Parts
 
-Select the bearing size and holder style in navigation. Printed holder components and purchased bearings are distinct; the preview is generated from the printable mesh.
+Quantities for one complete printed holder/adapter, plus its listed interface. Installation fasteners are application-specific.
+
+| Part | Quantity | Type | Use |
+| --- | ---: | --- | --- |
+| Printed hub pieces | 1 | Print | Print all hub pieces in 3dpr.stl once; preserve complementary faces |
+| 6705 bearing — 25 × 32 × 4 mm | 1 | Hardware | Bore × outside diameter × width |
+| building block large 01 motor / mating shaft | 1 | Interface | Use the specified shaft interface; motor and mounting hardware are not shown |
+| M3 threaded inserts | 2 | Interface | CAD insert pockets: 4 mm diameter; choose compatible insert depth and fit |
+| M3 insert mounting screws | 2 | Interface | Length depends on the mating component and selected insert; do not bottom out |
+
+[Machine-readable parts list](../../../../../../../../../../parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/assembly.json) · [CSV parts list](../../../../../../../../../../parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/assembly_parts.csv)
 
 ## Assembly
 
-Follow the selected part’s split, preparation and embedded-nut metadata. Check bearing fit and retain the existing project examples for the applicable assembly.
+![AI-generated assembled and exploded CAD diagram](../../../../../../../../../../parts/oobb_part_holder_bearing_6705_bearing_size_3_width_3_height_12_depth_motor_building_block_large_01/assembly.png)
 
-[Project guide and existing assembly notes](../../../../../../../../../../PROJECT_GUIDE.md)
+
+
+1. Print the single adapter and clear its shaft and insert openings.
+
+2. Slide the adapter into the bearing from the open end. Fit the matching motor shaft and interface hardware.
+
+3. Retain the outer bearing in a separate support and check that the adapter rotates freely.
+
+
+
+This variant supplies the rotating adapter only. Provide a compatible stationary outer bearing support in the surrounding assembly.
+
+No separate hub joining screws are modelled. Retain the hub with the mating shaft/interface hardware.
+
+Bearing rings and fasteners are simplified nominal illustrations; threads, drive sockets, inserts and motor/interface hardware are omitted. Installation bolts depend on the surrounding assembly.
+
+
+
+[Variant assembly notes](../../../../../../../../../../PROJECT_GUIDE.md)
 <!-- oobb-presentation:end -->

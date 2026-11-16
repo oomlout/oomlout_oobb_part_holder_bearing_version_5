@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "id": "oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01",
+  "title": "6709 bearing holder \u00b7 5 \u00d7 5 \u00b7 12 mm",
+  "variant": "motor building block large 01",
+  "roles": [
+    "bearing",
+    "hub"
+  ],
+  "scope": "Quantities for one complete printed holder/adapter, plus its listed interface. Installation fasteners are application-specific.",
+  "bom": [
+    {
+      "key": "hub",
+      "part": "Printed hub pieces",
+      "quantity": 1,
+      "kind": "Print",
+      "purpose": "Print all hub pieces in 3dpr.stl once; preserve complementary faces"
+    },
+    {
+      "key": "bearing",
+      "part": "6709 bearing \u2014 45 \u00d7 55 \u00d7 6 mm",
+      "quantity": 1,
+      "kind": "Hardware",
+      "purpose": "Bore \u00d7 outside diameter \u00d7 width"
+    },
+    {
+      "key": "motor",
+      "part": "building block large 01 motor / mating shaft",
+      "quantity": 1,
+      "kind": "Interface",
+      "purpose": "Use the specified shaft interface; motor and mounting hardware are not shown"
+    },
+    {
+      "key": "inserts",
+      "part": "M3 threaded inserts",
+      "quantity": 2,
+      "kind": "Interface",
+      "purpose": "CAD insert pockets: 4 mm diameter; choose compatible insert depth and fit"
+    },
+    {
+      "key": "insert_screws",
+      "part": "M3 insert mounting screws",
+      "quantity": 2,
+      "kind": "Interface",
+      "purpose": "Length depends on the mating component and selected insert; do not bottom out"
+    }
+  ],
+  "notes": [
+    "This variant supplies the rotating adapter only. Provide a compatible stationary outer bearing support in the surrounding assembly.",
+    "No separate hub joining screws are modelled. Retain the hub with the mating shaft/interface hardware.",
+    "Bearing rings and fasteners are simplified nominal illustrations; threads, drive sockets, inserts and motor/interface hardware are omitted. Installation bolts depend on the surrounding assembly."
+  ],
+  "steps": [
+    "Print the single adapter and clear its shaft and insert openings.",
+    "Slide the adapter into the bearing from the open end. Fit the matching motor shaft and interface hardware.",
+    "Retain the outer bearing in a separate support and check that the adapter rotates freely."
+  ],
+  "guide": "PROJECT_GUIDE.md",
+  "sources": {
+    "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/3dpr.stl": "0914bab88878338b46cfaf9421277e91af384b39c9c13d2490744b0e4d558e3a",
+    "parts/oobb_part_holder_bearing_6709_bearing_size_5_width_5_height_12_depth_motor_building_block_large_01/working.yaml": "1cb87490425daf9effe24e751096521eb80d5e218bf9b298c2a8794b405239bb",
+    "assembly.py": "035f819c8d71b7d4efdad7193de171c907c79e55ac8504671a57199ad7df5ed7",
+    "working_scad.py": "65528aa41ea7fb3d1d996360022460a51b556bf710caaab529374b2c5757434f",
+    "render_parts.py": "6b0311ac356a2dee7c0dadbfe23b5edf02509e8eb47a0767c7157101dc993b03",
+    "presentation/scripts/render_assembly.py": "4b2a2ae1649e043f63e62698b719b50fd143a718c874b96d67861189c94c296b",
+    "presentation/scripts/render_catalogue.py": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001"
+  },
+  "build_key": "7bed83df60ddbef4fa4c45e9354cbd97335791b4dc9db1218e5f1d46502b04f5",
+  "image_sha256": "2358a6a17566ac4f4c2a2a61ee5d5dc36653b65ca238a55ddab59d815f8440ad"
+}

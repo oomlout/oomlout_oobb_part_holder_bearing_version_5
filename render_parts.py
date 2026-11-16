@@ -168,5 +168,9 @@ if __name__ == "__main__":
     parser.add_argument("--workers", type=int, choices=(1, 2), default=2)
     args = parser.parse_args()
     main(part_filter=args.filter, force=args.force, blender=args.blender, workers=args.workers)
+    import catalogue
+    if catalogue.config().get('assembly_pipeline'):
+        import assembly
+        assembly.build(args.filter)
     import working_navigation
     working_navigation.generate_navigation(ROOT / "parts")

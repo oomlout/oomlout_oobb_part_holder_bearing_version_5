@@ -1,0 +1,119 @@
+{
+  "schema": 1,
+  "id": "oobb_part_holder_90_degree_bearing_6810_bearing_size_7_width_5_height_12_depth_corner_bevel_50_teeth",
+  "title": "6810 bearing holder \u00b7 7 \u00d7 5 \u00b7 12 mm",
+  "variant": "corner bevel 50 teeth",
+  "roles": [
+    "bearing",
+    "frame",
+    "gear",
+    "hub"
+  ],
+  "scope": "Quantities for one complete printed holder/adapter, plus its listed interface. Installation fasteners are application-specific.",
+  "bom": [
+    {
+      "key": "frame",
+      "part": "Printed connected corner halves",
+      "quantity": 2,
+      "kind": "Print",
+      "purpose": "One of each complementary half"
+    },
+    {
+      "key": "hub",
+      "part": "Printed hub discs",
+      "quantity": 4,
+      "kind": "Print",
+      "purpose": "Two outer discs and two gear-facing discs; supplied hub files each contain two copies"
+    },
+    {
+      "key": "gear",
+      "part": "Matching 50-tooth backed bevel gears",
+      "quantity": 2,
+      "kind": "Print",
+      "purpose": "Use examples/corner_6810/components/gear.stl; retained companion oobb_part_gear_big_scale_5_diameter_50_teeth_bevel_style_12_mm_depth"
+    },
+    {
+      "key": "bearing",
+      "part": "6810 bearing",
+      "quantity": 2,
+      "kind": "Hardware",
+      "purpose": "One on each perpendicular axis"
+    },
+    {
+      "key": "seam",
+      "part": "M3 \u00d7 25 mm socket-cap screws",
+      "quantity": 3,
+      "kind": "Hardware",
+      "purpose": "Connected corner seam"
+    },
+    {
+      "key": "seam_nuts",
+      "part": "M3 hex nuts",
+      "quantity": 3,
+      "kind": "Hardware",
+      "purpose": "Seam pockets"
+    },
+    {
+      "key": "hub_screws",
+      "part": "M3 \u00d7 12 mm countersunk screws",
+      "quantity": 4,
+      "kind": "Hardware",
+      "purpose": "Two joins per bearing hub"
+    },
+    {
+      "key": "hub_nuts",
+      "part": "M3 hex nuts",
+      "quantity": 4,
+      "kind": "Hardware",
+      "purpose": "Hub joins"
+    },
+    {
+      "key": "gear_screws",
+      "part": "M6 \u00d7 45 mm screws",
+      "quantity": 8,
+      "kind": "Hardware",
+      "purpose": "Four per gear; suggested stack from the existing corner guide"
+    },
+    {
+      "key": "gear_nuts",
+      "part": "M6 hex nuts",
+      "quantity": 8,
+      "kind": "Hardware",
+      "purpose": "Gear connections"
+    },
+    {
+      "key": "gear_washers",
+      "part": "M6 washers",
+      "quantity": 16,
+      "kind": "Hardware",
+      "purpose": "One under each gear screw head and nut; check final protrusion"
+    }
+  ],
+  "notes": [
+    "Corner diagram shows printed parts and bearings. Seam, hub and gear fasteners are listed in the table; see the linked corner guide for their insertion paths and suggested lengths."
+  ],
+  "steps": [
+    "Join each bearing between an outer hub disc and a gear-facing hub disc, with the stand-offs facing the gear.",
+    "Capture both bearing/hub units between the connected corner halves; fit the three seam screws and nuts.",
+    "Bolt on the matching gears, rotate the second hub and gear together to mesh, and check free movement."
+  ],
+  "guide": "examples/corner_6810/README.md",
+  "sources": {
+    "parts/oobb_part_holder_90_degree_bearing_6810_bearing_size_7_width_5_height_12_depth_corner_bevel_50_teeth/3dpr.stl": "22d77d744812ab74936e5cc16c462f3a346252891300e513d1175824b818a0ca",
+    "parts/oobb_part_holder_90_degree_bearing_6810_bearing_size_7_width_5_height_12_depth_corner_bevel_50_teeth/working.yaml": "52beaa95a3b64122f40c356f65af4c3069c203c0915a531bab85c745f1d89cf8",
+    "assembly.py": "035f819c8d71b7d4efdad7193de171c907c79e55ac8504671a57199ad7df5ed7",
+    "working_scad.py": "65528aa41ea7fb3d1d996360022460a51b556bf710caaab529374b2c5757434f",
+    "render_parts.py": "6b0311ac356a2dee7c0dadbfe23b5edf02509e8eb47a0767c7157101dc993b03",
+    "presentation/scripts/render_assembly.py": "4b2a2ae1649e043f63e62698b719b50fd143a718c874b96d67861189c94c296b",
+    "presentation/scripts/render_catalogue.py": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001",
+    "examples/corner_6810/layout.json": "83acd6e23ce04701a211c23bf3479414b7659d9f23bd73a7ec015f045b8e3d48",
+    "examples/corner_6810/components/frame_negative.stl": "f1533cd8ce0bd8da27e57c3db174928962cc2a99880319f24c25016c10110dbd",
+    "examples/corner_6810/components/frame_positive.stl": "08a8addbdf1c25e0cbdd5948e9beece3e03f429c4a715da48221b0d79266bbe2",
+    "examples/corner_6810/components/hub_outer.stl": "6e8c5aaec4cf79e7c3eca26158079f846f30879a33eefbd022d65cccf368a970",
+    "examples/corner_6810/components/hub_gear.stl": "ffd4e8734045e9ae80369d1cb0579b6edd0dc8439f7d632e7eca459423735d08",
+    "examples/corner_6810/components/bearing.stl": "e1dd2295296a65f1e6a0ecf046d46b8e25efcad8e114b274dfe2fcb55a78267d",
+    "examples/corner_6810/components/gear.stl": "5ecdfd36f68bdab0efe62ba424f85dc5d7f39aa55ed663d7a8b25cfe40f2bf75"
+  },
+  "build_key": "0e9d3373ab61362fd76cfb58d20ef2aabb455b27dcbb1ffab64cc332fc2e3d8f",
+  "image_sha256": "e14dbdd6966bcc660bd7cbedb5a78c4703523299cbed2307c083b1fdfdfd16e6"
+}

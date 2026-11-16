@@ -1,0 +1,72 @@
+{
+  "schema": 1,
+  "id": "oobb_part_holder_bearing_6804_bearing_size_3_width_3_height_12_depth",
+  "title": "6804 bearing holder \u00b7 3 \u00d7 3 \u00b7 12 mm",
+  "variant": "standard M6 centre",
+  "roles": [
+    "bearing",
+    "frame",
+    "hub",
+    "nut",
+    "screw"
+  ],
+  "scope": "Quantities for one complete printed holder/adapter, plus its listed interface. Installation fasteners are application-specific.",
+  "bom": [
+    {
+      "key": "frame",
+      "part": "Printed frame halves",
+      "quantity": 2,
+      "kind": "Print",
+      "purpose": "Print all frame pieces in 3dpr.stl once"
+    },
+    {
+      "key": "hub",
+      "part": "Printed hub pieces",
+      "quantity": 2,
+      "kind": "Print",
+      "purpose": "Print all hub pieces in 3dpr.stl once; preserve complementary faces"
+    },
+    {
+      "key": "bearing",
+      "part": "6804 bearing \u2014 20 \u00d7 32 \u00d7 7 mm",
+      "quantity": 1,
+      "kind": "Hardware",
+      "purpose": "Bore \u00d7 outside diameter \u00d7 width"
+    },
+    {
+      "key": "joining_12_False",
+      "part": "M3 \u00d7 12 mm countersunk screws",
+      "quantity": 6,
+      "kind": "Hardware",
+      "purpose": "Join printed halves; follow the alternating head/nut faces"
+    },
+    {
+      "key": "joining_nuts",
+      "part": "M3 hex nuts",
+      "quantity": 6,
+      "kind": "Hardware",
+      "purpose": "Opposite-face joining pockets"
+    }
+  ],
+  "notes": [
+    "Bearing rings and fasteners are simplified nominal illustrations; threads, drive sockets, inserts and motor/interface hardware are omitted. Installation bolts depend on the surrounding assembly."
+  ],
+  "steps": [
+    "Print one complete 3dpr.stl layout. Keep the complementary frame and hub pieces in their matching orientation.",
+    "Load any captive nuts, coupler nuts or inserts while their pockets are accessible. Seat each bearing between its matching hub and frame pieces.",
+    "Close the complementary pieces and fit the listed joining screws and nuts, following the alternating head and nut recesses.",
+    "Fit the specified shaft or motor interface. Check free rotation before fastening the holder to the surrounding structure."
+  ],
+  "guide": "PROJECT_GUIDE.md",
+  "sources": {
+    "parts/oobb_part_holder_bearing_6804_bearing_size_3_width_3_height_12_depth/3dpr.stl": "ca7f2c563c6fffa5009e5ec5c476b3c9eb45cf7a26331ed96c94c584356a1ec8",
+    "parts/oobb_part_holder_bearing_6804_bearing_size_3_width_3_height_12_depth/working.yaml": "0353e67e04dbe4f21a85d9d51b41db23a11003a075dd473324e83e4d3a7f4006",
+    "assembly.py": "035f819c8d71b7d4efdad7193de171c907c79e55ac8504671a57199ad7df5ed7",
+    "working_scad.py": "65528aa41ea7fb3d1d996360022460a51b556bf710caaab529374b2c5757434f",
+    "render_parts.py": "6b0311ac356a2dee7c0dadbfe23b5edf02509e8eb47a0767c7157101dc993b03",
+    "presentation/scripts/render_assembly.py": "4b2a2ae1649e043f63e62698b719b50fd143a718c874b96d67861189c94c296b",
+    "presentation/scripts/render_catalogue.py": "381b23f18ce1a9e05327b876214573ca7046fd871c07fbb493305a9cf8143001"
+  },
+  "build_key": "94fe8e368c4635f08755f983c6ebbba4d5c6fc36bdf60baffa6b0b587b736fde",
+  "image_sha256": "d8ae5843bec2534c730ff87e5a27d10abfbf4a1b2972a964c4e0c4795d3ab2ca"
+}

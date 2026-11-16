@@ -1,8 +1,11 @@
 {
   "title": "OOBB bearing holders",
+  "example_id": "oobb_part_holder_bearing_6810_bearing_size_7_width_5_height_15_depth",
+  "example_image": "assembly.png",
+  "assembly_pipeline": true,
   "summary": "Parametric bearing holders with bearing-size, holder-style and mounting variants.",
-  "parts": "Select the bearing size and holder style in navigation. Printed holder components and purchased bearings are distinct; the preview is generated from the printable mesh.",
-  "assembly": "Follow the selected part\u2019s split, preparation and embedded-nut metadata. Check bearing fit and retain the existing project examples for the applicable assembly.",
+  "parts": "The main example is the 7 × 5 6810 holder with 15 mm assembled depth. It uses two printed frame halves, two printed hub halves, one 6810 bearing, six M3 × 12 mm countersunk screws and six M3 nuts. Each holder page includes its own quantities and downloadable parts list.",
+  "assembly": "Each holder page shows an assembled and exploded CAD diagram, with variant-specific steps and a necessary-parts table. Start with the 7 × 5 6810 example above, or choose another bearing and holder style in navigation.",
   "modes": [
     "3dpr",
     "true"
